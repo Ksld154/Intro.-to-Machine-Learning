@@ -32,17 +32,23 @@ bag_size = num_of_datas / num_of_trees
 #random forest
 training_data = df.copy()            #set training data
 testing_data  = df.copy()            #set testing data
-trees = []                           #[[tree, columns used in training], [], ......]
-result = []
-accu_vec = []
+#trees = []                           #[[tree, columns used in training], [], ......]
 
+accu_vec = []
+test = []
+
+training_data = shuffle(training_data).reset_index(drop = True)              #random
 
 K = 10
-
+#　k-fold vallidation
 for z in range(K):
-    n_test = z * df.count()[0] / K
+    trees  = []
+    result = []
+    
+    n_test = num_of_datas / K
     train = training_data.copy()
-    train.drop(train.index[(z * n_test):((i+1) * n_test)], inplace = True)        #drop some rows
+    test  = train.loc[(z*n_test) : ((z+1)*n_test - 1)]
+    train.drop(train.index[(z*n_test) : ((z+1)*n_test - 1)], inplace = True)        #drop some rows
 
     for i in range(num_of_trees):                                   #building trees
         #train = training_data.copy()
@@ -54,21 +60,22 @@ for z in range(K):
         clf = clf.fit(train.loc[0:30, random_col], train.loc[0:30, target])
         trees.append([clf, random_col])
 
-    #feeding testing data (RESUBSTITUTION)
-    for i in range(testing_data.count()[0]):                        
+    #feeding testing data 
+    for i in range(int(n_test)):                        
         vote = [0, 0, 0]
         for j in range(num_of_trees):
-            r = trees[j][0].predict([testing_data.loc[i,trees[j][1]]])
+            r = trees[j][0].predict([ test.loc[i,trees[j][1]] ])   #trees[j][1] == random_col
             index = iris_target_names.index(r)
             vote[index] = vote[index] + 1
         result.append(iris_target_names[vote.index(max(vote))])
 
     #output result
-    matrix = confusion_matrix(testing_data[target], result)
+    matrix = confusion_matrix(test[target], result)
     print(matrix)
 
     #accuracy
-    accu_vec.append(accuracy_score(testing_data[target], result))
-    print(accu)
+    accu_vec.append(accuracy_score(test[target], result))
+    print(accu_vec)
 
 
+accu_mean = sum(accu_vec) / len(accu_vec)
