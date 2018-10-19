@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 from sklearn.utils import shuffle
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
+from sklearn.metrics import precision_recall_fscore_support
+from sklearn.metrics import classification_report
 import random
 
 #read file, initial
@@ -18,6 +20,8 @@ iris_target_names = ['Iris-setosa', 'Iris-versicolor', 'Iris-virginica']
 num_of_trees = 5
 num_of_datas = df.count()[0]
 bag_size = num_of_datas / num_of_trees
+
+
 
 #preprocessing
 #df.fillna(df.mean()['B':'C']) fill in nan with average (for some columns)   preprocess
@@ -54,12 +58,23 @@ for i in range(testing_data.count()[0]):
         vote[index] = vote[index] + 1
     result.append(iris_target_names[vote.index(max(vote))])
 
-#output result
-matrix = confusion_matrix(testing_data[target], result)
+
+#output confusion matrix
+matrix = confusion_matrix(testing_data[target], result, labels=iris_target_names)
+print("\nConfusion matrix:")
 print(matrix)
 
-#accuracy
+
+#output precision and recall for each label
+statistic = classification_report(testing_data[target], result, target_names=iris_target_names, output_dict=True)
+print("\n   Label                Precision       Recall")
+for species in iris_target_names:
+    #print("Label: %20s  Precision: %.4f  Recall: %.4f" %(species, statistic[species]['precision'], statistic[species]['recall']))
+    print("%-20s     %.4f         %.4f" %(species, statistic[species]['precision'], statistic[species]['recall']))
+
+
+#output total accuracy
 accu = accuracy_score(testing_data[target], result)
-print(accu)
+print("\nTotal accuracy: %.4f\n" %accu)
 
 
