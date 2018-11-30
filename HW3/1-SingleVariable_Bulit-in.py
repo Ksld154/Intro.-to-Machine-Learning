@@ -16,9 +16,9 @@ n_data = 1030
 attrs = dataset.columns
 attrs = attrs[:len(attrs)-1]
 
-dataset_df = dataset_df.sample(n = n_data).reset_index(drop = True)
+# dataset_df = dataset_df.sample(n = n_data).reset_index(drop = True)
 
-for i, column in enumerate(attrs):
+for column in attrs:
     print(column)
 
     dataset_X = dataset_df[column].values
@@ -28,10 +28,10 @@ for i, column in enumerate(attrs):
     dataset_Y = dataset_df['Concrete compressive strength(MPa, megapascals) '].values
     dataset_Y = np.reshape(dataset_Y, (len(dataset_Y), 1))
 
-    dataset_X_test  = dataset_X[ : int(-n_data*0.2)]
-    dataset_X_train = dataset_X[int(-n_data*0.2) : ]
-    dataset_Y_test  = dataset_Y[ : int(-n_data*0.2)]
-    dataset_Y_train = dataset_Y[int(-n_data*0.2) : ]
+    dataset_X_test  = dataset_X[int(-n_data*0.2) : ]
+    dataset_X_train = dataset_X[ : int(-n_data*0.2)]
+    dataset_Y_test  = dataset_Y[int(-n_data*0.2) : ]
+    dataset_Y_train = dataset_Y[ : int(-n_data*0.2)]
 
     regr = linear_model.LinearRegression()
     regr.fit(dataset_X_train, dataset_Y_train)
@@ -52,4 +52,4 @@ for i, column in enumerate(attrs):
     plt.xlabel(column)
     plt.ylabel('Concrete compressive strength(MPa, megapascals)')
 
-plt.show()
+    plt.show()
