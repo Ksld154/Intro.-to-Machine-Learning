@@ -1,0 +1,81 @@
+animeID,name,type,source,episodes,rating,score,scoredBy,rank,popularity,members,favorites,premiered,studio,genre
+22013,Ghost in the Shell: Nyuumon Arise,TV,Unknown,26,PG-13 - Teens 13 or older,7.11,1148,3206,4803,6025,6,Winter 2014,Production I.G,['Comedy']
+22031,Samurai Gun Special,Special,Manga,1,R - 17+ (violence & profanity),5.9,181,7915,9776,567,0,None,Studio Egg,"['Action', 'Historical', 'Seinen']"
+22035,Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou,Movie,Unknown,1,PG - Children,5.46,24,12786,12761,150,0,None,None,[]
+22037,Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar,Movie,Unknown,1,PG - Children,6.22,18,12768,13345,122,0,None,None,[]
+22039,Mou Hasamazu ni wa Irarenai♥: Hoshi ni Onegai shitara Konnani Okkiku Nacchatta!,OVA,Manga,1,Rx - Hentai,6.85,1275,0,6113,3267,16,None,None,[]
+22043,Fairy Tail (2014),TV,Manga,102,PG-13 - Teens 13 or older,8.09,208004,449,116,443465,10023,Spring 2014,A-1 Pictures,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Magic', 'Shounen']"
+22049,Just Awake,Music,Unknown,1,G - All Ages,6.46,1055,5915,7637,1672,2,None,None,[]
+22053,Gakkou no Kaidan (OVA),OVA,Unknown,10,PG-13 - Teens 13 or older,6.58,110,5408,9369,706,1,None,Studio Pierrot,"['Comedy', 'Horror', 'Mystery', 'Supernatural']"
+22055,Gakkou no Kaidan Recaps,Special,Original,2,PG-13 - Teens 13 or older,6.16,273,7136,8709,1002,0,None,Studio Pierrot,"['Horror', 'Mystery', 'Supernatural']"
+22057,"Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.",OVA,Manga,1,PG-13 - Teens 13 or older,6.93,9192,3875,3065,17110,8,None,Production IMS,"['Comedy', 'Romance', 'Seinen', 'Supernatural']"
+22059,Kakumeiteki Broadway Shugisha Doumei,Music,Music,1,PG-13 - Teens 13 or older,5.11,215,9446,10444,405,0,None,None,[]
+22065,T-Rex,TV,Unknown,52,G - All Ages,6.13,31,12892,12441,166,0,Fall 1992,None,[]
+22069,Swing Out Sisters (2014),OVA,Manga,1,Rx - Hentai,7.62,3675,0,4041,9226,112,None,None,[]
+22071,Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.,Special,4-koma manga,1,PG-13 - Teens 13 or older,7.11,15236,3214,2373,27643,9,None,Doga Kobo,"['Comedy', 'Romance', 'Slice of Life']"
+22081,Cosplay Rakuen,OVA,Original,1,Rx - Hentai,6.03,985,0,6708,2551,2,None,None,[]
+22093,Mayonaka wa Junketsu,Music,Original,1,PG - Children,5.52,126,8764,11405,249,0,None,None,[]
+22097,Magi: Sinbad no Bouken,OVA,Manga,5,PG-13 - Teens 13 or older,7.97,34038,599,1217,74506,173,None,Lay-duce,"['Action', 'Adventure', 'Fantasy', 'Magic', 'Shounen']"
+22099,Hero Bank,TV,Game,51,PG - Children,6.11,403,7306,6974,2252,12,Spring 2014,TMS Entertainment,"['Game', 'Kids']"
+22101,Soredemo Sekai wa Utsukushii,TV,Manga,12,PG-13 - Teens 13 or older,7.79,75122,912,564,159840,1424,Spring 2014,Studio Pierrot,"['Adventure', 'Romance', 'Fantasy', 'Shoujo']"
+22111,Kattobase! Dreamers: Carp Tanjou Monogatari,Movie,Unknown,1,None,5.28,18,11347,12772,149,0,None,Madhouse,['Sports']
+22113,Kyoukaisenjou no Horizon: Kyokutou Naruhodo Kouza,ONA,Unknown,4,PG-13 - Teens 13 or older,6.42,704,6084,6502,2800,6,None,Sunrise,"['Comedy', 'Fantasy', 'School']"
+22123,Inugami-san to Nekoyama-san,TV,4-koma manga,12,PG-13 - Teens 13 or older,6.66,24765,5050,1623,50379,85,Spring 2014,Seven,"['Comedy', 'School', 'Shoujo Ai']"
+22125,Kuroko no Basket: Mou Ikkai Yarimasen ka,Special,Manga,1,PG-13 - Teens 13 or older,7.77,14325,951,2349,28204,23,None,Production I.G,"['Comedy', 'School', 'Shounen', 'Sports']"
+22131,Train Heroes Movie,Movie,Unknown,1,G - All Ages,6.2,10,13085,13545,111,0,None,None,[]
+22145,Kuroshitsuji: Book of Circus,TV,Manga,10,R - 17+ (violence & profanity),8.31,99899,232,454,191972,2637,Summer 2014,A-1 Pictures,"['Comedy', 'Demons', 'Fantasy', 'Historical', 'Shounen', 'Supernatural']"
+22147,Amagi Brilliant Park,TV,Light novel,13,PG-13 - Teens 13 or older,7.62,188220,1299,196,340158,1630,Fall 2014,Kyoto Animation,"['Comedy', 'Drama', 'Magic', 'Fantasy']"
+22157,Yasashii Kinyoubi,Movie,Original,1,R+ - Mild Nudity,3.77,351,10029,9600,620,0,None,None,[]
+22163,Natsu no Shisen 1942,Movie,Original,1,PG-13 - Teens 13 or older,4.64,119,9854,11293,261,1,None,None,[]
+22199,Akame ga Kill!,TV,Manga,24,R - 17+ (violence & profanity),7.78,517625,914,25,849795,15704,Summer 2014,White Fox,"['Action', 'Adventure', 'Fantasy', 'Drama', 'Shounen']"
+22265,Free!: Eternal Summer,TV,Original,13,PG-13 - Teens 13 or older,7.85,116256,797,386,213873,2525,Summer 2014,Kyoto Animation,"['Slice of Life', 'Comedy', 'Sports', 'Drama', 'School']"
+22295,Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya,OVA,Unknown,1,PG-13 - Teens 13 or older,5.94,871,7793,6280,3072,6,None,None,[]
+22297,Fate/stay night: Unlimited Blade Works,TV,Visual novel,12,R - 17+ (violence & profanity),8.32,280993,214,106,461547,8557,Fall 2014,ufotable,"['Action', 'Fantasy', 'Magic', 'Supernatural']"
+22319,Tokyo Ghoul,TV,Manga,12,R - 17+ (violence & profanity),7.99,723306,580,6,1114052,31592,Summer 2014,Studio Pierrot,"['Action', 'Mystery', 'Horror', 'Psychological', 'Supernatural', 'Drama', 'Seinen']"
+22325,Ningen Kakumei,OVA,Unknown,20,G - All Ages,7.55,11,12039,12870,146,0,None,Toei Animation,['Slice of Life']
+22327,Himalaya no Hikari no Oukoku,OVA,Unknown,1,G - All Ages,6.04,23,10993,13104,134,0,None,Toei Animation,"['Adventure', 'Music', 'Fantasy']"
+22345,Funny Pets 2nd Season,TV,Unknown,12,PG-13 - Teens 13 or older,3.79,47,10683,12477,165,0,Fall 2006,None,[]
+22347,Pandra The Animation: Shiroki Yokubou Kuro no Kibou,OVA,Manga,2,Rx - Hentai,7.02,1649,0,5322,4646,43,None,None,[]
+22361,Shichinin no Nana: Oshougatsu Da yo! 7 x 7 = 49-nin no Nana?,Special,Unknown,1,PG-13 - Teens 13 or older,6.45,118,5964,10658,364,0,None,A.C.G.T.,"['Adventure', 'Comedy', 'Magic']"
+22411,Asa ga Kuru mae ni: Sasurai Version,Music,Unknown,1,G - All Ages,5.5,149,8798,11185,278,0,None,None,[]
+22417,Quantum Leap,Music,Music,1,PG-13 - Teens 13 or older,4.77,158,9769,11066,295,0,None,Production I.G,"['Action', 'Music']"
+22483,Hello Kitty no Sanbiki no Kobuta,OVA,Unknown,1,G - All Ages,5.79,43,10956,12319,174,1,None,None,[]
+22503,Washimo,TV,Picture book,10,G - All Ages,5.43,40,13230,11042,299,0,Winter 2014,Studio Deen,"['Sci-Fi', 'Slice of Life', 'Comedy', 'Kids', 'School']"
+22507,Initial D Final Stage,TV,Manga,4,PG-13 - Teens 13 or older,8.3,23713,244,1741,45752,303,Spring 2014,SynergySP,"['Cars', 'Seinen', 'Sports']"
+22535,Kiseijuu: Sei no Kakuritsu,TV,Manga,24,R - 17+ (violence & profanity),8.51,449595,99,43,744517,17513,Fall 2014,Madhouse,"['Action', 'Sci-Fi', 'Horror', 'Psychological', 'Drama', 'Seinen']"
+22547,Blade & Soul,TV,Game,13,R - 17+ (violence & profanity),6.19,40578,7013,995,93468,120,Spring 2014,Gonzo,"['Action', 'Adventure', 'Fantasy', 'Martial Arts']"
+22583,Uchuu Kyoudai: Number Zero,Movie,Manga,1,PG-13 - Teens 13 or older,7.69,798,1136,5569,4125,3,None,A-1 Pictures,"['Sci-Fi', 'Slice of Life', 'Space', 'Comedy', 'Seinen']"
+22605,Kero Kero Keroppi no Ganbare! Keroppooz,OVA,Unknown,1,G - All Ages,5.85,46,11388,12342,173,0,None,None,[]
+22607,Ahiru no Pekkle no Suieitaikai wa Oosawagi,OVA,Unknown,1,G - All Ages,5.83,61,8074,11556,232,0,None,None,[]
+22609,Patty & Jimmy no Kimikoso Superstar,OVA,Unknown,1,G - All Ages,4.36,36,12295,13001,138,0,None,None,[]
+22611,Ahiru no Pekkle no Aladdin to Mahou no Lamp,OVA,Unknown,1,G - All Ages,5.94,61,7782,11483,239,1,None,None,[]
+22615,Kero Kero Keroppi no Kero Kero House no Himitsu,OVA,Unknown,1,G - All Ages,6.29,38,11389,12693,153,2,None,None,[]
+22617,Pochacco no Wakuwaku Birthday,OVA,Unknown,1,G - All Ages,6.16,25,12354,12962,140,0,None,None,[]
+22621,Ahiru no Pekkle no Hihou wo Sagase,OVA,Unknown,1,G - All Ages,5.0,43,10125,12098,187,0,None,None,[]
+22625,Kero Kero Keroppi no Dai Bouken,OVA,Unknown,1,G - All Ages,5.64,28,11386,12938,141,0,None,None,[]
+22627,Santa-san to Tonakai Kuppi,OVA,Unknown,1,G - All Ages,6.1,21,12533,13088,134,0,None,None,[]
+22637,Kero Kero Keroppi no Tomodachi ni Narou yo,OVA,Unknown,1,G - All Ages,6.0,28,11395,12921,142,0,None,None,[]
+22643,Kero Kero Keroppi no Kyouryuu ga Deta,OVA,Unknown,1,G - All Ages,6.16,25,11390,13275,124,0,None,None,[]
+22647,Kero Kero Keroppi no Sora Tobu Yume no Fune,OVA,Unknown,1,G - All Ages,6.19,26,11393,13217,127,0,None,None,[]
+22655,Nerawareta Megami Tenshi Angeltia: Mamotta Ningentachi ni Uragirarete,OVA,Visual novel,4,Rx - Hentai,6.42,1233,0,6013,3438,18,None,PoRO,['Hentai']
+22657,Shin Seikimatsu: Yatsuto no Souguu,ONA,Unknown,5,PG - Children,5.11,35,12650,13090,135,0,None,None,[]
+22663,Seiken Tsukai no World Break,TV,Light novel,12,R - 17+ (violence & profanity),7.14,84649,3103,549,163203,677,Winter 2015,Diomedea,"['Action', 'Fantasy', 'Harem', 'Romance', 'School', 'Supernatural']"
+22669,Gohan Kaijuu Pap,TV,Original,0,G - All Ages,4.14,14,10806,12287,176,0,Spring 2011,DLE,"['Action', 'Comedy', 'Kids']"
+22689,Terra Formars: Bugs 2-hen,OVA,Manga,2,R - 17+ (violence & profanity),7.24,15336,2689,2384,27433,16,None,LIDENFILMS,"['Action', 'Horror', 'Sci-Fi', 'Space']"
+22695,Dragon Ball Z: Summer Vacation Special,Special,Manga,1,PG-13 - Teens 13 or older,6.87,2710,4097,4508,7013,3,None,Toei Animation,"['Action', 'Adventure', 'Comedy', 'Super Power', 'Martial Arts', 'Fantasy', 'Shounen']"
+22729,Aldnoah.Zero,TV,Original,12,R - 17+ (violence & profanity),7.56,194255,1465,194,343381,3568,Summer 2014,A-1 Pictures,"['Action', 'Military', 'Sci-Fi', 'Mecha']"
+22733,Dragon Collection,TV,Unknown,51,PG-13 - Teens 13 or older,6.35,933,6386,5754,3823,5,Spring 2014,OLM,"['Fantasy', 'Shounen']"
+22755,Chikasugi Idol Akae-chan,TV,Unknown,12,PG-13 - Teens 13 or older,4.46,26,10424,12054,190,0,Winter 2014,DLE,"['Game', 'Comedy', 'Parody']"
+22777,Dragon Ball Kai (2014),TV,Manga,61,PG-13 - Teens 13 or older,7.9,40232,691,1149,78575,637,Spring 2014,Toei Animation,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen', 'Super Power']"
+22785,Sono Hanabira ni Kuchizuke wo: Risa x Miya Gekijou,ONA,Visual novel,10,PG-13 - Teens 13 or older,6.42,624,6103,5623,4043,6,None,ChuChu,"['Comedy', 'Romance', 'School', 'Shoujo Ai', 'Slice of Life']"
+22789,Barakamon,TV,Web manga,12,PG-13 - Teens 13 or older,8.46,190353,123,177,356530,7999,Summer 2014,Kinema Citrus,"['Comedy', 'Slice of Life']"
+22831,Abarenbou Rikishi!! Matsutarou,TV,Manga,23,PG-13 - Teens 13 or older,6.16,2461,7128,4563,6806,9,Spring 2014,Toei Animation,"['Sports', 'Seinen']"
+22839,Cross Road,Special,Original,1,G - All Ages,7.5,20335,1647,1932,38961,70,None,CoMix Wave Films,"['Slice of Life', 'School']"
+22847,Kara no Kyoukai: Mirai Fukuin - Manner Movie,Movie,Unknown,1,G - All Ages,6.14,2298,7212,4808,5985,4,None,ufotable,['Drama']
+22859,Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite,Special,Light novel,1,PG-13 - Teens 13 or older,7.25,9083,2650,2881,19370,4,None,Kyoto Animation,['Comedy']
+22877,Seireitsukai no Blade Dance,TV,Light novel,12,PG-13 - Teens 13 or older,7.07,103161,3370,427,200311,785,Summer 2014,TNK,"['Action', 'Harem', 'Comedy', 'Supernatural', 'Romance', 'Ecchi', 'Fantasy', 'School']"
+22887,Hyokkori Hyoutan Shima,Movie,Unknown,1,G - All Ages,6.0,11,11092,13474,115,0,None,Toei Animation,"['Adventure', 'Kids']"
+22893,Mon Cheri CoCo,TV,Manga,13,G - All Ages,6.65,20,11877,11009,304,0,Summer 1972,None,[]
+22901,Love es M The Animation,OVA,Visual novel,1,Rx - Hentai,6.39,789,0,6922,2320,4,None,None,[]
+22955,Francesca,TV,Original,24,PG-13 - Teens 13 or older,5.56,1051,8673,4366,7651,6,Summer 2014,Telecom Animation Film,"['Fantasy', 'Comedy']"
+22961,Date A Live: Encore,OVA,Light novel,1,PG-13 - Teens 13 or older,8.0,48227,559,1110,81270,724,None,Production IMS,"['Slice of Life', 'Romance']"

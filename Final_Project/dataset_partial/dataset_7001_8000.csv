@@ -1,0 +1,333 @@
+animeID,name,type,source,episodes,rating,score,scoredBy,rank,popularity,members,favorites,premiered,studio,genre
+7004,Shin Calimero,TV,Unknown,52,G - All Ages,6.25,634,6805,8084,1354,0,Fall 1992,Toei Animation,['Comedy']
+7014,Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku,Movie,Manga,1,R - 17+ (violence & profanity),7.06,2131,3418,4703,6351,15,None,Toei Animation,"['Drama', 'Historical', 'Military', 'Supernatural']"
+7016,Senjou no Valkyria: SenVal Theater,Special,Game,9,PG-13 - Teens 13 or older,6.85,4064,4194,3999,9513,7,None,A-1 Pictures,['Comedy']
+7017,K-On!: Ura-On!,Special,Original,7,G - All Ages,6.38,23481,6246,1811,43322,60,None,Kyoto Animation,['Comedy']
+7020,Fashion,Movie,Unknown,1,G - All Ages,4.31,189,9966,10335,429,2,None,None,[]
+7021,Ni-hiki no Sanma,Movie,Original,1,G - All Ages,5.05,267,9518,10112,474,0,None,None,[]
+7022,G-senjou no Higeki,Movie,Original,1,PG-13 - Teens 13 or older,3.53,452,10050,9171,784,0,None,None,[]
+7024,Heya,Movie,Original,1,R+ - Mild Nudity,4.01,661,10009,8523,1092,0,None,None,[]
+7025,Kiseichuu no Ichiya,Movie,Original,1,R - 17+ (violence & profanity),5.01,794,9561,7843,1511,9,None,None,[]
+7026,Mado,Movie,Original,1,G - All Ages,4.64,363,9853,9583,624,0,None,None,[]
+7027,Manga,Movie,Original,1,G - All Ages,4.62,371,9865,9513,652,1,None,None,[]
+7028,Pop,Movie,Original,1,G - All Ages,3.56,442,10046,9257,752,1,None,None,[]
+7029,Tonari no Yarou,Movie,Original,1,G - All Ages,4.52,372,9905,9435,678,0,None,None,[]
+7030,Kemeko no Love,Movie,Original,1,PG - Children,4.37,562,9950,8785,965,0,None,None,[]
+7031,Satsujinkyou Jidai,Movie,Unknown,1,PG-13 - Teens 13 or older,4.73,476,9793,9069,824,0,None,None,[]
+7032,Kitte no Gensou,Movie,Original,1,G - All Ages,4.92,313,9636,9747,572,0,None,None,[]
+7041,Seto no Hanayome OVA Specials,Special,Manga,2,PG-13 - Teens 13 or older,7.56,3548,1488,4107,8836,2,None,Gonzo,"['Comedy', 'Parody', 'School']"
+7044,Zan Sayonara Zetsubou Sensei Bangaichi,OVA,Manga,2,R - 17+ (violence & profanity),7.87,11767,773,2353,28123,28,None,Shaft,"['Comedy', 'Parody', 'School', 'Shounen']"
+7045,Doraemon Movie 21: Nobita no Taiyou Ou Densetsu,Movie,Unknown,1,PG - Children,7.5,1855,1650,6279,3074,3,None,Shin-Ei Animation,"['Adventure', 'Comedy', 'Fantasy', 'Historical', 'Kids', 'Shounen']"
+7048,Crush Gear Nitro,TV,Unknown,50,PG-13 - Teens 13 or older,6.4,363,6159,8867,918,2,Winter 2003,Sunrise,"['Cars', 'Shounen', 'Sports']"
+7052,Shinshuu Sudama-hen,OVA,Unknown,4,R+ - Mild Nudity,6.2,49,12665,10517,389,0,None,None,[]
+7053,Fault!!,OVA,Visual novel,3,Rx - Hentai,7.18,6436,0,3286,15025,133,None,T-Rex,['Hentai']
+7054,Kaichou wa Maid-sama!,TV,Manga,26,PG-13 - Teens 13 or older,8.19,333741,328,75,567856,15156,Spring 2010,J.C.Staff,"['Comedy', 'Romance', 'School', 'Shoujo']"
+7058,Uragiri wa Boku no Namae wo Shitteiru,TV,Manga,24,R - 17+ (violence & profanity),7.38,26015,2154,1319,68183,927,Spring 2010,J.C.Staff,"['Adventure', 'Drama', 'Fantasy', 'Shoujo', 'Shounen Ai']"
+7059,Black★Rock Shooter (OVA),OVA,Other,1,PG-13 - Teens 13 or older,7.2,93159,2833,616,148130,865,None,Ordet,"['Action', 'Slice of Life', 'Drama', 'School']"
+7060,Ring of Gundam,Special,Original,1,G - All Ages,5.32,1286,9135,6169,3191,5,None,Sunrise,"['Sci-Fi', 'Space', 'Mecha']"
+7062,Hidamari Sketch x ☆☆☆,TV,4-koma manga,12,PG-13 - Teens 13 or older,7.96,9282,609,2888,19234,135,Winter 2010,Shaft,"['Slice of Life', 'Comedy', 'School', 'Seinen']"
+7066,Mahoromatic: I'm Home!,Special,Manga,2,R+ - Mild Nudity,7.15,3105,3054,4527,6949,2,None,Gainax,"['Ecchi', 'Comedy', 'Romance', 'Sci-Fi']"
+7071,Shoujouji no Tanuki-bayashi,Movie,Original,1,G - All Ages,4.72,346,9804,9658,599,0,None,None,[]
+7079,Ookamikakushi,TV,Visual novel,12,PG-13 - Teens 13 or older,6.41,25337,6137,1464,59243,88,Winter 2010,AIC,"['Action', 'Mystery', 'Horror', 'Supernatural']"
+7081,Danball Senki,TV,Game,44,G - All Ages,7.21,1871,2787,5148,5039,34,Spring 2011,OLM,"['Action', 'Kids', 'Mecha']"
+7082,Shugo Chara! Party!,TV,Manga,25,PG - Children,6.71,23756,4840,1629,50224,258,Fall 2009,Satelight,"['Comedy', 'Magic', 'School', 'Shoujo']"
+7083,Hakushaku to Yousei Specials,Special,Light novel,6,PG-13 - Teens 13 or older,6.53,1942,5639,4708,6337,4,None,Artland,"['Adventure', 'Fantasy', 'Magic', 'Historical']"
+7088,Ichiban Ushiro no Daimaou,TV,Light novel,12,R+ - Mild Nudity,7.11,173330,3208,259,291564,1033,Spring 2010,Artland,"['Action', 'Harem', 'Comedy', 'Magic', 'Ecchi', 'Fantasy', 'School']"
+7090,Madou King Granzort: Saigo no Magical Taisen,OVA,Original,2,G - All Ages,6.57,83,5464,11030,302,1,None,None,[]
+7092,Shoujo Fight: Norainu-tachi no Odekake,OVA,Unknown,1,PG-13 - Teens 13 or older,5.74,46,12698,10034,495,0,None,Production I.G,"['Sports', 'Comedy', 'School', 'Seinen']"
+7103,Miracle☆Train: Oedo-sen e Youkoso,TV,Original,13,PG-13 - Teens 13 or older,6.62,5406,5231,3185,15851,37,Fall 2009,Yumeta Company,"['Fantasy', 'Shoujo']"
+7106,Ougon Senshi Gold Lightan,TV,Original,52,PG-13 - Teens 13 or older,6.46,78,5923,10126,472,0,Spring 1981,Tatsunoko Production,"['Action', 'Sci-Fi', 'Adventure', 'Mecha']"
+7108,Shikabane Hime: Puchitto,Special,Manga,1,PG-13 - Teens 13 or older,6.28,1448,6694,5717,3891,2,None,Gainax,['Comedy']
+7109,Gyouten Ningen Batsealer,TV,Unknown,52,PG - Children,6.76,78,4585,10982,307,2,Spring 2001,None,[]
+7110,Shounen Maid Kuuro-kun: Tenshi no Uta,OVA,Manga,1,Rx - Hentai,5.75,6612,0,3442,13600,87,None,Natural High,"['Hentai', 'Yaoi']"
+7112,Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars,Movie,Novel,1,G - All Ages,6.5,301,5760,8092,1352,4,None,None,[]
+7113,30th Gundam Perfect Mission,OVA,Unknown,1,G - All Ages,7.01,2522,3583,5190,4941,13,None,Sunrise,"['Mecha', 'Sci-Fi']"
+7117,Pika Don,Movie,Unknown,1,G - All Ages,6.41,247,6138,9848,546,0,None,None,[]
+7124,Madou King Granzort: Bouken-hen,OVA,Original,3,G - All Ages,6.42,84,6088,11219,272,1,None,None,[]
+7135,Mahou Sensei Negima! Anime Final,Movie,Manga,1,PG-13 - Teens 13 or older,6.87,4654,4109,3312,14782,23,None,Shaft,"['Adventure', 'Magic', 'Supernatural']"
+7139,Gdleen,OVA,Unknown,1,R+ - Mild Nudity,5.87,260,7983,9668,611,0,None,None,[]
+7144,Uchuu Senkan Yamato: Fukkatsu-hen,Movie,Original,1,PG-13 - Teens 13 or older,7.14,930,3112,6546,2742,5,None,None,[]
+7148,Ladies versus Butlers!,TV,Light novel,12,R+ - Mild Nudity,6.79,68009,4448,707,131277,205,Winter 2010,Xebec,"['Harem', 'Comedy', 'Romance', 'Ecchi', 'School']"
+7152,Anyamal Tantei Kiruminzoo,TV,Original,50,G - All Ages,7.09,885,3278,5159,5007,31,Fall 2009,Satelight,"['Magic', 'Comedy', 'Shoujo']"
+7154,SM no Susume,OVA,Unknown,1,Rx - Hentai,5.38,98,0,10374,419,0,None,None,[]
+7156,Arei no Kagami: Way to the Virgin Space,Movie,Unknown,1,G - All Ages,5.86,332,7999,9031,842,0,None,Toei Animation,"['Action', 'Adventure', 'Sci-Fi', 'Space']"
+7157,Dr. Slump Movie 07: Arale-chan N-cha! Penguin Mura yori Ai wo Komete,Movie,Manga,1,PG-13 - Teens 13 or older,6.31,243,6545,9102,813,0,None,Toei Animation,"['Comedy', 'Sci-Fi', 'Shounen']"
+7158,Dr. Slump Movie 09: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi,Movie,Manga,1,PG-13 - Teens 13 or older,6.35,221,6385,9237,757,0,None,Toei Animation,"['Comedy', 'Sci-Fi', 'Shounen']"
+7160,Yoroshiku Mechadock,TV,Manga,30,PG-13 - Teens 13 or older,6.55,105,5567,9317,729,0,Fall 1984,Tatsunoko Production,"['Action', 'Cars', 'Comedy', 'Police', 'Sports']"
+7162,Yaruki Manman,OVA,Unknown,3,Rx - Hentai,5.16,117,0,10356,425,2,None,None,[]
+7169,Ibarahime Mata wa Nemurihime,Movie,Other,1,PG-13 - Teens 13 or older,6.24,306,6831,9249,756,1,None,None,[]
+7170,Kataku,Movie,Other,1,PG-13 - Teens 13 or older,6.16,448,7140,7881,1487,4,None,None,[]
+7171,Oni,Movie,Original,1,PG-13 - Teens 13 or older,6.25,618,6798,8277,1239,4,None,None,[]
+7174,Usaru-san,Special,Unknown,4,PG - Children,6.06,577,7491,8763,974,1,None,OLM,['Kids']
+7175,Himitsukessha Taka no Tsume Countdown,TV,Unknown,11,PG-13 - Teens 13 or older,6.07,51,7441,11004,304,0,Fall 2009,DLE,"['Comedy', 'Parody', 'Super Power']"
+7176,Cheburashka Arere?,TV,Book,26,G - All Ages,6.5,1146,5753,6568,2712,2,Fall 2009,GoHands,"['Kids', 'Slice of Life', 'Comedy']"
+7177,Gokyoudai Monogatari,TV,Manga,32,G - All Ages,5.57,23,10812,11347,255,1,Fall 2009,None,[]
+7178,Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection,OVA,Original,2,Rx - Hentai,6.92,1836,0,5255,4810,21,None,None,[]
+7189,Kotatsu Neko,TV,Other,26,G - All Ages,5.16,38,11531,10693,356,0,Fall 2009,None,[]
+7192,Choujikuu Romanesque Samy: Missing 99,OVA,Unknown,1,PG-13 - Teens 13 or older,4.66,293,9834,9213,768,4,None,None,[]
+7193,Aoi Bungaku Series,TV,Novel,12,R - 17+ (violence & profanity),7.83,39255,832,751,125565,1130,Fall 2009,Madhouse,"['Psychological', 'Historical', 'Thriller', 'Drama', 'Seinen']"
+7211,Rose O'Neill Kewpie,TV,Other,26,G - All Ages,6.69,13,12478,11978,196,0,Winter 2010,TMS Entertainment,['Comedy']
+7216,Sekai Douwa Anime Zenshuu,OVA,Unknown,10,G - All Ages,6.06,51,7484,11280,261,4,None,None,[]
+7222,Macross F Movie 2: Sayonara no Tsubasa,Movie,Original,1,PG-13 - Teens 13 or older,8.01,10444,551,2789,20807,96,None,Satelight,"['Action', 'Mecha', 'Military', 'Music', 'Romance', 'Sci-Fi', 'Space']"
+7229,Black Jack ONA,ONA,Unknown,12,PG - Children,6.7,373,4849,7487,1794,0,None,None,[]
+7230,Hoshi ni Negai wo: Cold Body + Warm Heart,ONA,Unknown,1,PG-13 - Teens 13 or older,6.27,653,6719,7891,1474,1,None,None,[]
+7243,Suisei,Movie,Unknown,1,G - All Ages,5.14,492,9418,8865,917,0,None,None,[]
+7244,Hyakka Zukan,Movie,Unknown,1,G - All Ages,5.44,282,8917,9706,584,0,None,None,[]
+7245,Sekai Meisaku Douwa: Wow! Maerchen Oukoku,TV,Unknown,26,G - All Ages,6.89,101,4041,10347,426,0,Spring 1995,Toei Animation,['Fantasy']
+7247,Naked Wolves,TV,Original,52,PG - Children,6.01,103,7631,10214,453,0,Spring 2009,None,[]
+7248,Top wo Nerae! Gunbuster Specials,Special,Original,3,PG-13 - Teens 13 or older,5.78,1709,8217,5484,4293,0,None,Gainax,"['Mecha', 'Space']"
+7252,Grick no Bouken,Movie,Book,1,G - All Ages,6.08,96,7398,10892,322,1,None,Studio Korumi,"['Adventure', 'Kids', 'Drama', 'Fantasy']"
+7254,Harukanaru Toki no Naka de 3: Owarinaki Unmei,Special,Visual novel,1,PG-13 - Teens 13 or older,6.81,541,4350,7088,2135,1,None,None,[]
+7255,Hanaori,Movie,Original,1,G - All Ages,5.43,289,8944,9564,631,0,None,None,[]
+7257,Shijin no Shougai,Movie,Original,1,PG - Children,5.78,352,8213,8975,872,3,None,None,[]
+7258,Tabi,Movie,Original,1,PG-13 - Teens 13 or older,5.43,352,8955,9170,786,1,None,None,[]
+7259,Kenju Giga,Movie,Original,1,PG-13 - Teens 13 or older,4.99,365,9587,9386,700,0,None,None,[]
+7261,Mameshiba,Special,Original,24,G - All Ages,7.21,1962,2812,5733,3875,19,None,None,[]
+7262,Kagirohi: Shaku Kei,OVA,Visual novel,2,Rx - Hentai,6.1,1213,0,5762,3817,13,None,PoRO,['Hentai']
+7264,Onmyouji Ayakashi no Megami: Inran Jubaku,OVA,Original,2,Rx - Hentai,6.02,1043,0,6108,3274,7,None,None,[]
+7265,Kara no Shoujo,OVA,Visual novel,2,Rx - Hentai,5.64,1400,0,5564,4139,10,None,Flavors Soft,"['Hentai', 'Mystery']"
+7266,Binkan Athlete,OVA,Visual novel,1,Rx - Hentai,6.46,1954,0,5249,4822,12,None,T-Rex,['Hentai']
+7268,Diabolus: Kikoku,OVA,Visual novel,2,Rx - Hentai,6.36,1615,0,5416,4421,17,None,PoRO,['Hentai']
+7270,Mobile Suit Gundam 00 Special Edition,OVA,Unknown,3,PG-13 - Teens 13 or older,7.73,2953,1050,4142,8640,39,None,Sunrise,"['Action', 'Drama', 'Mecha', 'Military', 'Sci-Fi']"
+7273,Nido to Mezamenu Komori Uta,Movie,Unknown,1,R+ - Mild Nudity,5.14,376,9416,8736,990,5,None,None,[]
+7276,Natsumushi The Animation,OVA,Manga,2,Rx - Hentai,6.62,1558,0,5555,4171,12,None,None,[]
+7279,TO,OVA,Manga,2,PG-13 - Teens 13 or older,6.45,1824,5969,5357,4542,4,None,None,[]
+7285,Ginga Tetsudou 999: Diamond Ring no Kanata e,Movie,Unknown,1,G - All Ages,6.77,156,4535,8689,1012,1,None,Toei Animation,"['Adventure', 'Drama', 'Sci-Fi']"
+7290,Cyborg 009: Kaijuu Sensou,Movie,Unknown,1,PG - Children,6.08,345,7390,8424,1157,1,None,None,[]
+7294,Licca-chan Fushigi na Mahou no Ring,OVA,Unknown,2,G - All Ages,5.99,132,7677,9970,511,0,None,Ajia-Do,"['Adventure', 'Fantasy']"
+7295,Koi Tsubomi,Music,Unknown,1,G - All Ages,6.43,963,6037,7855,1501,4,None,None,[]
+7296,Michi (Music),Music,Music,1,G - All Ages,5.42,320,8968,9883,537,0,None,None,[]
+7303,Detective Conan: Black History,Special,Unknown,1,PG-13 - Teens 13 or older,7.69,1687,1123,5176,4963,7,None,TMS Entertainment,"['Adventure', 'Mystery', 'Comedy', 'Police', 'Shounen']"
+7304,Detective Conan Movie 08: Time Travel of the Silver Sky,Special,Unknown,1,PG-13 - Teens 13 or older,7.96,5058,607,3790,10716,5,None,TMS Entertainment,"['Adventure', 'Mystery']"
+7305,Detective Conan Movie 10: Promo Special,Special,Unknown,1,PG-13 - Teens 13 or older,7.79,2282,897,4864,5862,5,None,TMS Entertainment,"['Adventure', 'Police', 'Comedy', 'Mystery', 'Shounen']"
+7307,Gegege no Kitarou (1985),TV,Manga,108,G - All Ages,6.71,222,4808,8487,1114,2,Fall 1985,Toei Animation,"['Comedy', 'Supernatural']"
+7308,Mirai Shounen Conan (Movie),Movie,Novel,1,PG-13 - Teens 13 or older,7.13,333,3132,8061,1369,4,None,Nippon Animation,"['Adventure', 'Drama', 'Sci-Fi']"
+7311,Suzumiya Haruhi no Shoushitsu,Movie,Light novel,1,PG-13 - Teens 13 or older,8.71,189635,45,189,347182,8977,None,Kyoto Animation,"['Comedy', 'Mystery', 'Romance', 'School', 'Sci-Fi', 'Supernatural']"
+7314,Yona Yona Penguin,Movie,Unknown,1,G - All Ages,5.73,203,8335,9561,633,0,None,Madhouse,"['Adventure', 'Fantasy', 'Kids']"
+7322,Needless Specials,Special,Manga,12,PG-13 - Teens 13 or older,6.82,5876,4316,3478,13272,14,None,Madhouse,"['Comedy', 'Ecchi', 'School', 'Seinen']"
+7329,Tottoko Hamtarou Movie 1: Ham-Ham Land Daibouken,Movie,Unknown,1,PG - Children,6.78,755,4512,7403,1864,3,None,TMS Entertainment,"['Kids', 'Adventure', 'Comedy']"
+7330,Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess,Movie,Unknown,1,PG - Children,6.76,517,4614,7876,1491,3,None,TMS Entertainment,"['Adventure', 'Comedy', 'Kids']"
+7333,Koisuru Tenshi Angelique: Kagayaki no Ashita Special,Special,Unknown,1,G - All Ages,6.81,648,4360,7702,1615,1,None,None,[]
+7334,Bakugan Battle Brawlers: Gundalian Invaders,TV,Original,39,G - All Ages,6.31,11111,6541,2870,19479,38,Spring 2010,TMS Entertainment,"['Action', 'Adventure', 'Fantasy', 'Game', 'Shounen']"
+7336,Cyborg 009: Chou Ginga Densetsu,Movie,Unknown,1,PG-13 - Teens 13 or older,6.51,415,5709,7969,1423,1,None,Toei Animation,"['Action', 'Sci-Fi', 'Space']"
+7337,"Hetalia Axis Powers Movie: Paint it, White",Movie,Web manga,1,PG-13 - Teens 13 or older,7.38,25113,2134,1775,44667,310,None,Studio Deen,"['Comedy', 'Historical', 'Parody']"
+7338,Darker than Black: Kuro no Keiyakusha Gaiden,Special,Original,4,R - 17+ (violence & profanity),8.04,103408,501,494,177930,811,None,Bones,"['Action', 'Sci-Fi', 'Mystery', 'Super Power']"
+7343,Youbi Masochist Animation,OVA,Unknown,2,Rx - Hentai,4.42,89,0,10806,338,1,None,None,[]
+7354,Chikara to Onna no Yo no Naka,Movie,Original,1,G - All Ages,5.44,41,10423,11192,277,0,None,None,[]
+7363,Hokuto no Ken: Legend of Heroes,Special,Unknown,1,PG-13 - Teens 13 or older,6.09,1099,7369,6707,2552,3,None,Toei Animation,"['Action', 'Martial Arts']"
+7364,Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun,Movie,Game,1,PG-13 - Teens 13 or older,6.61,293,5263,8644,1034,2,None,Toei Animation,"['Action', 'Adventure', 'Magic', 'Fantasy', 'Shounen']"
+7366,"Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e",Movie,Unknown,1,PG-13 - Teens 13 or older,6.89,250,4012,8213,1272,3,None,Production I.G,"['Drama', 'Romance', 'Sci-Fi', 'Shoujo']"
+7367,Naruto: The Cross Roads,Special,Original,1,PG-13 - Teens 13 or older,6.93,13839,3885,2295,29296,50,None,Studio Pierrot,"['Action', 'Adventure', 'Comedy', 'Shounen']"
+7374,100%,OVA,Unknown,1,R+ - Mild Nudity,5.54,119,8708,9941,520,0,None,Nippon Animation,['Drama']
+7375,Shakugan no Shana S Specials,Special,Light novel,4,PG-13 - Teens 13 or older,6.99,9336,3680,2807,20473,8,None,J.C.Staff,"['Comedy', 'Parody']"
+7376,Kurumiwari Ningyou,Movie,Unknown,1,G - All Ages,5.97,102,7729,10673,358,1,None,None,[]
+7377,Winter Sonata Episode 0,Special,Other,1,PG-13 - Teens 13 or older,6.57,1936,5481,5829,3715,2,None,Studio Comet,"['Drama', 'Romance']"
+7395,Card Wang: Mix Master,TV,Unknown,39,PG - Children,6.56,380,5493,8668,1022,3,Fall 2005,Nippon Animation,"['Game', 'Adventure', 'Fantasy', 'Shounen']"
+7396,Shuffle! Prologue,OVA,Visual novel,1,PG-13 - Teens 13 or older,6.83,5349,4271,3465,13384,3,None,Asread,"['Fantasy', 'Magic', 'Comedy', 'Harem', 'Romance', 'School', 'Seinen']"
+7398,Sekai Meisaku Douwa,OVA,Unknown,20,G - All Ages,6.34,56,6444,10921,317,2,None,None,[]
+7405,Jankenman,TV,Unknown,51,PG - Children,6.24,138,6833,10513,390,1,Spring 1991,None,[]
+7411,Kanojo x Kanojo x Kanojo: Sanshimai to no DokiDoki Kyoudou Seikatsu,OVA,Visual novel,3,Rx - Hentai,7.54,11298,0,2604,23526,364,None,Studio Eromatick,"['Harem', 'Hentai']"
+7415,Mukougaoka Chisato wa Tada Mitsumeteita no Datta,Music,Unknown,1,G - All Ages,6.13,666,7249,8472,1124,3,None,None,[]
+7416,Socket,OVA,Unknown,1,G - All Ages,6.17,74,7120,11862,206,0,None,None,[]
+7419,Wrestler Gundan Seisenshi Robin Jr.,TV,Unknown,50,G - All Ages,5.97,30,13267,11626,227,2,Fall 1989,None,[]
+7420,Byulbyul Iyagi,Movie,Unknown,6,PG-13 - Teens 13 or older,5.82,76,8102,10929,315,0,None,None,[]
+7423,"The Tales of Rien Village #1: ""Toilet ni Ittokiya""",ONA,Original,1,G - All Ages,5.38,222,9043,10358,423,0,None,None,[]
+7427,Getsumen To Heiki Mina Specials,Special,Unknown,2,PG-13 - Teens 13 or older,6.12,277,7264,8620,1047,0,None,None,[]
+7430,Konjiki no Gash Bell!!: Ougon no Chichi wo Motsu Otoko,OVA,Unknown,1,PG-13 - Teens 13 or older,6.56,1017,5509,6664,2604,1,None,Toei Animation,"['Action', 'Adventure', 'Comedy', 'Ecchi', 'Kids', 'Magic', 'Romance', 'Super Power', 'Supernatural']"
+7435,Dragon Quest: Dai no Daibouken,Movie,Game,1,G - All Ages,6.79,292,4442,8455,1139,3,None,Toei Animation,"['Adventure', 'Demons', 'Magic', 'Fantasy', 'Shounen']"
+7436,Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito,Movie,Game,1,PG-13 - Teens 13 or older,6.66,313,5046,8630,1045,4,None,Toei Animation,"['Action', 'Adventure', 'Magic', 'Fantasy', 'Shounen']"
+7445,Karo to Piyobupt: Ouchi,Movie,Unknown,1,G - All Ages,5.11,265,9447,10124,471,1,None,None,[]
+7446,Karo to Piyobupt: Sandwich,Movie,Unknown,1,G - All Ages,5.16,264,9383,10154,466,0,None,None,[]
+7448,Pacusi,TV,Unknown,18,G - All Ages,5.35,97,9087,11031,301,0,Spring 1994,None,[]
+7449,Pacusi no Uta,Special,Unknown,1,G - All Ages,5.21,135,9312,11198,278,0,None,None,[]
+7450,Kipling Jr.,Movie,Unknown,1,G - All Ages,5.53,205,8741,10476,396,0,None,None,[]
+7451,Kid's Castle,Movie,Unknown,1,G - All Ages,5.41,270,8985,9988,507,0,None,None,[]
+7452,Mini Moni Yaru no da Pyon!,TV,Other,66,G - All Ages,5.48,55,8846,11584,230,1,Summer 2001,None,[]
+7453,AIKa Zero Picture Drama,Special,Unknown,3,R+ - Mild Nudity,5.67,1284,8466,6085,3305,9,None,None,[]
+7455,Kurutta Kyoutou: Danzai no Gakuen,OVA,Visual novel,1,Rx - Hentai,5.56,525,0,7529,1759,1,None,None,[]
+7456,Discipline Zero,OVA,Visual novel,2,Rx - Hentai,6.7,2809,0,4469,7164,37,None,None,[]
+7458,Watashi no Shiranai Mesu no Kao,OVA,Visual novel,1,Rx - Hentai,6.3,1077,0,6128,3245,21,None,None,[]
+7459,The Collected Animations of ICAF (2001-2006),OVA,Unknown,16,PG-13 - Teens 13 or older,5.77,57,8241,11527,236,0,None,None,[]
+7461,Komaneko no Christmas: Maigo ni Natta Present,Movie,Unknown,1,G - All Ages,5.97,109,7728,11084,290,0,None,None,[]
+7463,Weiß Survive R,TV,Card game,12,PG-13 - Teens 13 or older,6.2,4050,7004,4097,8868,2,Winter 2010,Studio Hibari,"['Comedy', 'Ecchi', 'Game']"
+7465,Eve no Jikan (Movie),Movie,Original,1,PG-13 - Teens 13 or older,8.15,42219,366,1056,87290,585,None,Studio Rikka,"['Sci-Fi', 'Slice of Life']"
+7466,Hashire!,ONA,Unknown,1,G - All Ages,5.88,410,7956,9395,695,0,None,None,[]
+7468,Princess Lover! Picture Drama,Special,Unknown,6,R+ - Mild Nudity,6.25,3468,6800,4058,9101,4,None,GoHands,"['Harem', 'Comedy', 'Ecchi', 'School']"
+7471,Detective Conan Movie 09: Promo Special,Special,Unknown,1,PG-13 - Teens 13 or older,7.74,2312,1006,4831,5935,3,None,TMS Entertainment,"['Adventure', 'Police', 'Comedy', 'Mystery', 'Shounen']"
+7472,Gintama Movie 1: Shinyaku Benizakura-hen,Movie,Manga,1,R - 17+ (violence & profanity),8.55,45504,83,1151,78350,345,None,Sunrise,"['Action', 'Sci-Fi', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Shounen']"
+7473,Rennyo to Sono Haha,Movie,Unknown,1,PG - Children,6.43,21,12441,11858,206,0,None,None,[]
+7474,"Onegai☆Teacher: Marie, Ai no Gekijou",Special,Original,1,PG-13 - Teens 13 or older,6.87,3937,4112,4113,8781,7,None,None,[]
+7475,Ano Ko ni 1000%,OVA,Manga,1,PG-13 - Teens 13 or older,5.33,733,9104,7926,1448,0,None,None,[]
+7477,Fusha no Sha,Movie,Other,1,PG - Children,6.61,260,5268,9595,622,2,None,None,[]
+7479,Karate Baka Ichidai,TV,Manga,47,PG-13 - Teens 13 or older,6.74,56,4690,9785,561,3,Fall 1973,None,[]
+7482,"Yume kara, Samenai",OVA,Unknown,1,PG-13 - Teens 13 or older,5.21,124,9317,9821,552,0,None,Shaft,"['Romance', 'School']"
+7485,Urashima Tarou,Movie,Other,1,G - All Ages,4.7,598,9823,8554,1080,1,None,None,[]
+7488,Karo to Piyobupt: Ame no Hi,Movie,Unknown,1,G - All Ages,5.24,279,9258,9987,506,0,None,None,[]
+7491,Dragon Quest Retsuden: Roto no Monshou,Movie,Game,1,G - All Ages,6.11,248,7300,9032,843,0,None,None,[]
+7494,Usagi to Kame,Movie,Other,1,G - All Ages,5.25,230,9250,10228,451,1,None,None,[]
+7495,Nonki na Tou-san Ryuuguu Mairi,Movie,Other,1,G - All Ages,5.17,18,12073,12829,146,0,None,None,[]
+7496,Saiyuuki: Son Gokuu Monogatari,Movie,Novel,1,G - All Ages,6.01,258,7633,9173,786,1,None,None,[]
+7497,Mikan-bune,Movie,Other,1,G - All Ages,4.88,195,9672,10345,426,1,None,None,[]
+7498,Doubutsu Olympic Taikai,Movie,Original,1,G - All Ages,5.4,151,9003,10559,381,1,None,None,[]
+7500,Maabou no Shounen Koukuu Tsuwamono,Movie,Original,1,G - All Ages,5.46,26,11656,12324,173,0,None,None,[]
+7501,Kintarou Taiiku Nikki,Movie,Original,1,G - All Ages,4.7,96,9819,11195,276,1,None,None,[]
+7504,Bollogi Iyagi,ONA,Original,1,G - All Ages,5.48,241,8833,10257,442,0,None,None,[]
+7505,Knyacki!,TV,Unknown,0,PG - Children,6.21,135,6945,10403,413,1,Spring 1995,None,[]
+7510,Shisha no Sho,Movie,Unknown,1,PG-13 - Teens 13 or older,6.04,244,7543,8723,997,1,None,None,[]
+7511,Worku,ONA,Unknown,2,G - All Ages,5.37,102,9064,10748,346,0,None,None,[]
+7512,Dambo,Music,Original,1,PG-13 - Teens 13 or older,4.89,229,9661,10496,392,0,None,None,[]
+7518,Boku wa Kuma,Music,Original,1,G - All Ages,5.79,710,8170,8428,1152,1,None,None,[]
+7522,Taichi Senjimon,TV,Unknown,39,PG - Children,6.49,229,5817,8998,860,5,Spring 2007,Toei Animation,"['Action', 'Adventure', 'Fantasy', 'Magic']"
+7523,Fuku-chan no Sensuikan,Movie,Other,1,G - All Ages,5.25,108,9240,10887,322,0,None,Asahi Production,"['Comedy', 'Military', 'Historical']"
+7524,Mahou no Pen,Movie,Original,1,G - All Ages,5.48,90,8845,11534,234,0,None,None,[]
+7525,Kick Off 2002,TV,Game,26,PG - Children,6.43,23,11407,11699,219,0,Winter 2002,None,[]
+7526,Ousama no Shippo,Movie,Original,1,G - All Ages,6.05,19,12249,12328,173,0,None,None,[]
+7527,Ponsuke no Udekurabe,Movie,Original,1,G - All Ages,6.14,21,12368,12410,167,0,None,None,[]
+7528,Kujira (1952),Movie,Original,1,G - All Ages,5.31,256,9148,9695,587,1,None,None,[]
+7529,Mori no Ongakukai,Movie,Original,1,G - All Ages,6.19,27,11892,12080,189,0,None,None,[]
+7530,Hana to Chou,Movie,Original,1,G - All Ages,5.19,147,9334,10562,379,0,None,None,[]
+7531,Onbu Obake,Movie,Original,1,G - All Ages,5.0,24,12176,12307,174,0,None,None,[]
+7532,Kuroi Kikori to Shiroi Kikori,Movie,Original,1,G - All Ages,6.12,160,7272,10490,393,0,None,None,[]
+7536,Soukou Kihei Votoms: Pailsen Files the Movie,Movie,Unknown,1,R - 17+ (violence & profanity),6.76,404,4607,8400,1170,0,None,None,[]
+7540,Kurogane no Linebarrels Specials,Special,Manga,2,R - 17+ (violence & profanity),6.65,1953,5097,5534,4198,0,None,Gonzo,"['Action', 'Ecchi', 'Comedy', 'Mecha']"
+7547,Komadori Eiga: Komaneko,Movie,Unknown,1,G - All Ages,6.34,123,6433,10849,329,1,None,None,[]
+7549,Quiz Magic Academy: The Original Animation 2,OVA,Game,1,PG-13 - Teens 13 or older,6.16,1988,7148,5496,4264,0,None,AIC Plus+,"['Action', 'Comedy', 'Fantasy', 'Magic', 'School']"
+7550,Pokemon: Pikachu Tanken Club,Special,Unknown,1,PG - Children,6.43,1695,6048,5371,4524,2,None,OLM,"['Adventure', 'Comedy', 'Fantasy', 'Kids']"
+7551,Gowapper 5 Gordam,TV,Original,36,PG-13 - Teens 13 or older,6.38,76,6241,10690,357,1,Spring 1976,Tatsunoko Production,"['Action', 'Adventure', 'Mecha', 'Sci-Fi']"
+7561,Kaitou Reinya,TV,4-koma manga,12,PG - Children,5.79,1154,8178,6720,2541,1,Winter 2009,Stingray,['Comedy']
+7568,Umineko no Naku Koro ni Specials,Special,Unknown,26,PG-13 - Teens 13 or older,6.58,3212,5437,3547,12594,20,None,Studio Deen,"['Comedy', 'Parody']"
+7569,Idol Ace,ONA,Unknown,1,PG-13 - Teens 13 or older,5.38,350,9035,9422,685,2,None,OLM,['Comedy']
+7571,Kita e.: Diamond Dust Drops Special,Special,Visual novel,1,PG-13 - Teens 13 or older,6.44,344,5989,8786,965,0,None,None,[]
+7573,Bakunyuu Bomb,OVA,Original,3,Rx - Hentai,6.19,1109,0,6267,3080,13,None,None,[]
+7575,Oh! Family,TV,Manga,26,G - All Ages,6.19,48,12129,10609,371,0,Fall 1986,None,[]
+7578,Gokinjo Monogatari the Movie,Movie,Original,1,G - All Ages,6.54,490,5589,7584,1714,2,None,Toei Animation,"['Comedy', 'Drama', 'Romance']"
+7579,Happy☆Lesson: Hoka Hoka★Kanna to Futari Kiri,Special,Manga,1,G - All Ages,6.73,1127,4732,6486,2821,0,None,None,[]
+7580,Ikkitousen: Xtreme Xecutor,TV,Manga,12,R+ - Mild Nudity,6.89,14635,4027,2071,34978,49,Spring 2010,Arms,"['Action', 'Ecchi', 'Martial Arts', 'School', 'Super Power']"
+7582,Reijoku no Yakata,OVA,Visual novel,2,Rx - Hentai,6.18,709,0,6872,2360,3,None,Y.O.U.C,['Hentai']
+7583,Valkyrie Choukyou Semen Tank no Ikusa Otome 10-nin Shimai,OVA,Visual novel,2,Rx - Hentai,6.46,1275,0,5990,3472,6,None,PoRO,['Hentai']
+7588,Saraiya Goyou,TV,Manga,12,PG-13 - Teens 13 or older,7.88,18347,746,1548,54422,640,Spring 2010,Manglobe,"['Mystery', 'Historical', 'Drama', 'Samurai', 'Seinen']"
+7590,Mayoi Neko Overrun!,TV,Light novel,13,PG-13 - Teens 13 or older,6.82,44221,4308,966,97170,186,Spring 2010,AIC,"['Comedy', 'Harem', 'Romance']"
+7591,Tono to Issho,OVA,4-koma manga,1,PG-13 - Teens 13 or older,6.68,1603,4979,6145,3228,7,None,Gathering,"['Comedy', 'Historical', 'Parody', 'Samurai', 'Seinen']"
+7592,Nurarihyon no Mago,TV,Manga,24,PG-13 - Teens 13 or older,7.74,75850,1018,524,171258,1132,Summer 2010,Studio Deen,"['Action', 'Demons', 'Shounen', 'Supernatural']"
+7593,Kiss x Sis (TV),TV,Manga,12,R+ - Mild Nudity,6.94,185921,3841,229,311599,1216,Spring 2010,feel.,"['Harem', 'Comedy', 'Romance', 'Ecchi', 'School', 'Seinen']"
+7596,Haiyoru! Nyaruani,OVA,Light novel,9,PG-13 - Teens 13 or older,6.33,9493,6474,2663,22671,23,None,DLE,"['Comedy', 'Parody', 'Sci-Fi']"
+7597,"Boku, Otaryman.",OVA,Manga,1,PG-13 - Teens 13 or older,6.21,1976,6934,5894,3608,2,None,Panda Factory,"['Comedy', 'Seinen', 'Slice of Life']"
+7601,Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari,OVA,Unknown,3,None,6.5,83,5774,10288,439,0,None,Sunrise,['Fantasy']
+7605,Parasol Henbei,TV,Unknown,200,PG - Children,6.4,103,6182,10825,334,2,Fall 1989,None,[]
+7610,Anju to Zushioumaru,Movie,Unknown,1,G - All Ages,6.19,375,7011,8700,1005,1,None,Toei Animation,"['Fantasy', 'Historical']"
+7611,Issho ni Ecchi,OVA,Original,1,Rx - Hentai,5.92,859,0,6606,2655,11,None,G-Lam,['Hentai']
+7612,Haha Sange,OVA,Visual novel,2,Rx - Hentai,5.92,1236,0,6060,3351,15,None,None,[]
+7616,Michi,Movie,Original,4,G - All Ages,6.93,42,11792,10984,307,1,None,None,[]
+7617,Atelier Petros Joukuu Gekijou: Sentaku Shima no Sentaku Tori,ONA,Original,1,G - All Ages,3.55,267,10047,10314,431,0,None,None,[]
+7619,Gegege no Kitarou (1996),TV,Manga,114,G - All Ages,6.78,411,4481,7688,1628,6,Winter 1996,Toei Animation,"['Adventure', 'Demons', 'Supernatural']"
+7625,Yousei Dick,TV,Unknown,26,PG - Children,5.59,44,13369,11225,272,3,Summer 1992,None,[]
+7626,Umi no Triton (1979),Movie,Manga,2,G - All Ages,6.16,112,7159,10581,375,0,None,None,[]
+7627,Mitsudomoe,TV,Manga,13,PG-13 - Teens 13 or older,7.68,31147,1159,1233,73148,514,Summer 2010,Bridge,"['Comedy', 'School', 'Slice of Life']"
+7629,The Arari Show,TV,Unknown,26,PG - Children,4.6,15,12994,13022,136,0,Summer 2006,None,[]
+7633,Ari no Seikatsu,Movie,Unknown,1,G - All Ages,4.37,27,10198,12170,182,0,None,None,[]
+7643,Domo-kun,TV,Original,37,G - All Ages,6.51,222,5711,7829,1519,7,Winter 1999,dwarf,"['Slice of Life', 'Comedy', 'Kids']"
+7645,Heartcatch Precure!,TV,Original,49,G - All Ages,7.86,5768,777,3029,17609,380,Winter 2010,Toei Animation,"['Action', 'Slice of Life', 'Fantasy', 'Magic', 'Comedy', 'School', 'Shoujo']"
+7646,Yawarakame♥,ONA,Original,26,None,4.25,24,13342,10766,345,1,None,ufotable,"['Comedy', 'Kids']"
+7647,Arakawa Under the Bridge,TV,Manga,13,PG-13 - Teens 13 or older,7.66,99503,1200,365,223379,1854,Spring 2010,Shaft,"['Comedy', 'Romance', 'Seinen']"
+7651,Ningen Shikkaku: Director's Cut-ban,Movie,Novel,1,R - 17+ (violence & profanity),7.56,980,1483,4947,5611,34,None,Madhouse,"['Drama', 'Historical', 'Psychological', 'Seinen']"
+7654,Tokyo Magnitude 8.0 Recap,Special,Original,1,PG-13 - Teens 13 or older,7.18,1790,2950,4935,5646,6,None,Bones,['Drama']
+7655,Major S6,TV,Manga,25,PG-13 - Teens 13 or older,8.45,21526,130,2041,35965,323,Spring 2010,SynergySP,"['Comedy', 'Drama', 'Shounen', 'Sports']"
+7659,Aisubeki Mirai e,Music,Unknown,1,G - All Ages,6.38,715,6235,8419,1156,0,None,None,[]
+7661,Giant Killing,TV,Manga,26,PG-13 - Teens 13 or older,7.65,24211,1228,1699,47381,302,Spring 2010,Studio Deen,"['Sports', 'Drama', 'Seinen']"
+7662,Shinrei Tantei Yakumo,TV,Light novel,13,PG-13 - Teens 13 or older,7.43,42528,1926,969,96767,509,Fall 2010,Bee Train,"['Mystery', 'Horror', 'Supernatural']"
+7664,Nils no Fushigi na Tabi (Movie),Movie,Novel,1,G - All Ages,6.6,235,5324,9630,610,0,None,Studio Pierrot,"['Kids', 'Adventure', 'Fantasy']"
+7666,Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima,Movie,Manga,1,PG-13 - Teens 13 or older,6.53,536,5634,8176,1293,1,None,Toei Animation,"['Comedy', 'Sci-Fi', 'Shounen']"
+7667,Dr. Slump Movie 03: Arale-chan Hoyoyo! Sekai Isshuu Dai Race,Movie,Manga,1,PG-13 - Teens 13 or older,6.34,237,6417,9111,809,0,None,Toei Animation,"['Comedy', 'Sci-Fi', 'Shounen']"
+7668,Suki Desu Suzuki-kun!!,OVA,Unknown,2,PG-13 - Teens 13 or older,6.06,2098,7487,5546,4180,8,None,None,[]
+7669,"""Bungaku Shoujo"" Kyou no Oyatsu: Hatsukoi",OVA,Light novel,1,PG-13 - Teens 13 or older,6.99,8855,3655,3135,16337,12,None,Production I.G,"['Comedy', 'Fantasy', 'School']"
+7674,Bakuman.,TV,Manga,25,PG-13 - Teens 13 or older,8.31,177374,227,178,355649,7226,Fall 2010,J.C.Staff,"['Comedy', 'Drama', 'Romance', 'Shounen']"
+7681,Kyouryuu Wakusei,TV,Original,60,PG-13 - Teens 13 or older,6.1,31,11593,11602,229,0,Spring 1993,None,[]
+7683,Suiren no Hito,Movie,Unknown,1,PG - Children,5.66,29,12861,12155,184,0,None,None,[]
+7691,Tokimeki Memorial 4 OVA,OVA,Unknown,1,PG-13 - Teens 13 or older,6.24,508,6851,7842,1508,1,None,Asahi Production,['Harem']
+7695,Pokemon Diamond & Pearl: Genei no Hasha Zoroark,Movie,Game,1,PG - Children,7.06,20762,3410,2072,34968,28,None,OLM,"['Action', 'Adventure', 'Fantasy', 'Kids']"
+7696,Sangokushi Daiichibu Eiyuu-tachi no Yoake,Movie,Unknown,1,PG-13 - Teens 13 or older,7.16,37,12526,11935,200,0,None,None,[]
+7697,Sangokushi Dainibu Choukou Moyu,Movie,Unknown,1,PG-13 - Teens 13 or older,6.98,47,12527,11211,274,0,None,None,[]
+7698,Sangokushi Daisanbu Harukanaru Taichi,Movie,Unknown,1,PG-13 - Teens 13 or older,6.84,45,12528,11573,230,0,None,Toei Animation,"['Action', 'Historical']"
+7705,Starry☆Sky,ONA,Visual novel,26,PG-13 - Teens 13 or older,6.25,12602,6806,1830,42752,147,None,Studio Deen,"['Harem', 'School', 'Shoujo']"
+7708,Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai,OVA,Visual novel,4,Rx - Hentai,6.66,2136,0,4706,6351,36,None,PoRO,['Hentai']
+7709,Peng You Town,Special,Unknown,1,G - All Ages,5.69,66,8429,11816,209,0,None,None,[]
+7711,Karigurashi no Arrietty,Movie,Novel,1,G - All Ages,8.05,91056,493,626,147005,432,None,Studio Ghibli,['Fantasy']
+7712,Kansen 2: Inzai Toshi,OVA,Visual novel,2,Rx - Hentai,6.51,1395,0,5790,3767,6,None,Suzuki Mirano,['Hentai']
+7713,Nihon Mukashibanashi: Saru Kani,Movie,Unknown,1,G - All Ages,5.55,69,8704,11847,208,0,None,None,[]
+7715,Auto Mommy,Movie,Unknown,1,PG-13 - Teens 13 or older,5.44,27,10231,11267,263,0,None,None,[]
+7718,Denshinbashira Elemi no Koi,Movie,Unknown,1,G - All Ages,6.23,567,6862,7418,1853,5,None,None,[]
+7720,Ookiku Furikabutte: Natsu no Taikai-hen,TV,Manga,13,PG-13 - Teens 13 or older,8.12,15059,416,2327,28624,154,Spring 2010,A-1 Pictures,"['Comedy', 'Seinen', 'Sports']"
+7721,Meat or Die,ONA,Unknown,12,PG - Children,4.98,81,9598,11491,239,1,None,None,[]
+7723,Hipira-kun,TV,Picture book,10,PG - Children,6.2,1054,6984,6853,2378,1,Fall 2009,Sunrise,"['Comedy', 'Fantasy', 'Kids', 'Supernatural', 'Vampire']"
+7724,Shiki,TV,Light novel,22,R - 17+ (violence & profanity),7.89,157648,720,186,348942,5969,Summer 2010,Daume,"['Mystery', 'Horror', 'Supernatural', 'Thriller', 'Vampire']"
+7728,Hellsing: Psalm of Darkness,Special,Manga,1,R - 17+ (violence & profanity),7.11,7021,3207,2837,20049,35,None,Gonzo,"['Action', 'Supernatural', 'Vampire', 'Seinen']"
+7729,Hokkyoku no Muushika Miishika,Movie,Unknown,1,G - All Ages,6.16,100,7138,11061,293,0,None,None,[]
+7730,Issho ni H Shiyo,OVA,Original,6,Rx - Hentai,6.83,2378,0,4590,6716,49,None,None,[]
+7739,11eyes: Momoiro Genmutan,Special,Visual novel,1,R+ - Mild Nudity,6.18,19533,7044,2134,33116,32,None,Doga Kobo,"['Ecchi', 'Comedy', 'Super Power', 'Supernatural']"
+7740,Queen's Blade: Gyokuza wo Tsugu Mono Specials,Special,Other,6,R+ - Mild Nudity,6.25,3643,6801,4055,9120,7,None,Arms,"['Action', 'Adventure', 'Ecchi', 'Fantasy']"
+7744,Fight Ippatsu! Juuden-chan!! Specials,Special,Unknown,6,R+ - Mild Nudity,6.62,2718,5221,4957,5589,4,None,Studio Hibari,"['Ecchi', 'Comedy']"
+7745,Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?,OVA,Unknown,1,PG-13 - Teens 13 or older,7.31,2235,2421,5081,5217,1,None,SynergySP,"['Action', 'Comedy', 'Shounen', 'Supernatural']"
+7748,Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi,OVA,Visual novel,1,Rx - Hentai,7.35,16005,0,2121,33434,362,None,ChuChu,"['Hentai', 'School', 'Yuri']"
+7750,DigiGirl Pop!: Strawberry & Pop Mix Flavor,TV,Unknown,26,PG - Children,6.0,27,10544,11434,246,3,Winter 2003,Creators Dot Com,"['Comedy', 'Sci-Fi']"
+7751,Midnight Horror School,TV,Unknown,52,None,6.55,40,11796,10184,459,0,Fall 2003,None,[]
+7752,Bao Lian Deng,Movie,Other,1,G - All Ages,6.33,116,6465,10782,341,0,None,None,[]
+7759,Saki Picture Drama,Special,Manga,7,PG-13 - Teens 13 or older,6.3,1106,6611,6115,3266,4,None,Gonzo,"['Comedy', 'Slice of Life']"
+7761,Masuda Kousuke Gekijou Gag Manga Biyori +,TV,Manga,12,PG-13 - Teens 13 or older,7.24,406,2677,7788,1554,0,Winter 2010,Studio Deen,['Comedy']
+7762,"Yondemasu yo, Azazel-san.",OVA,Manga,4,R+ - Mild Nudity,7.68,10082,1171,2585,23835,62,None,Production I.G,"['Comedy', 'Demons', 'Supernatural']"
+7768,Tantei Opera Milky Holmes,TV,Card game,12,PG-13 - Teens 13 or older,7.0,12947,3648,2078,34625,211,Fall 2010,J.C.Staff,"['Comedy', 'Super Power', 'Mystery']"
+7769,Ookami-san to Shichinin no Nakama-tachi,TV,Light novel,12,PG-13 - Teens 13 or older,7.32,94292,2369,453,192702,718,Summer 2010,J.C.Staff,"['Comedy', 'Parody', 'Romance']"
+7770,Yutori-chan,ONA,Original,25,G - All Ages,6.19,1351,7042,5501,4257,1,None,Actas,"['Slice of Life', 'Comedy']"
+7771,Chiisana Jumbo,Movie,Unknown,1,G - All Ages,5.96,120,7739,10880,324,0,None,None,[]
+7774,Shin Koihime†Musou OVA,OVA,Visual novel,1,R+ - Mild Nudity,6.8,2534,4417,4722,6275,3,None,Doga Kobo,"['Comedy', 'Ecchi', 'Fantasy']"
+7775,Futatsu no Kurumi,Special,Unknown,1,PG - Children,6.57,272,5455,9313,730,1,None,Shin-Ei Animation,['Drama']
+7779,Andersen Monogatari (TV),TV,Unknown,52,PG - Children,6.29,113,6622,9856,542,0,Winter 1971,None,[]
+7781,Gothicmade: Hana no Utame,Movie,Unknown,1,None,6.0,42,10826,6633,2630,3,None,Automatic Flowers Studio,"['Mecha', 'Romance', 'Sci-Fi']"
+7782,Kämpfer Picture Drama,Special,Light novel,1,PG-13 - Teens 13 or older,5.49,5904,8817,3648,11756,8,None,Nomad,['Comedy']
+7785,Yojouhan Shinwa Taikei,TV,Novel,11,R - 17+ (violence & profanity),8.65,66654,59,420,202154,10283,Spring 2010,Madhouse,"['Mystery', 'Comedy', 'Psychological', 'Romance']"
+7786,Arabian Nights: Sindbad no Bouken,Movie,Book,1,PG-13 - Teens 13 or older,5.7,271,8385,9056,832,0,None,Toei Animation,"['Action', 'Adventure', 'Fantasy']"
+7791,K-On!!,TV,4-koma manga,26,PG-13 - Teens 13 or older,8.14,189023,385,192,344744,7738,Spring 2010,Kyoto Animation,"['Comedy', 'Music', 'School', 'Slice of Life']"
+7793,Ring ni Kakero 1: Kage Dou-hen,TV,Manga,6,PG-13 - Teens 13 or older,6.83,240,4269,8698,1001,12,Spring 2010,Toei Animation,"['Action', 'Shounen', 'Sports']"
+7803,Challenge Ichinensei de Kakkoii Ichinensei ni Henshin!,OVA,Unknown,1,PG - Children,5.61,28,10369,11579,229,1,None,None,[]
+7805,Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai,ONA,Unknown,1,PG-13 - Teens 13 or older,6.72,17037,4764,2142,33017,21,None,Silver Link.,"['Comedy', 'Romance']"
+7807,Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi,Movie,Unknown,1,G - All Ages,5.73,172,8322,9959,511,0,None,Toei Animation,"['Slice of Life', 'Magic', 'Comedy', 'Shoujo']"
+7808,Zukkoke Knight: Don De La Mancha,TV,Unknown,23,G - All Ages,6.23,67,6897,10997,305,2,Spring 1980,None,[]
+7809,3-tsu no Kumo,Movie,Original,3,R+ - Mild Nudity,4.9,540,9652,8301,1232,2,None,None,[]
+7810,Yami wo Mitsumeru Hane,Movie,Original,1,R+ - Mild Nudity,4.95,323,9620,9162,791,6,None,None,[]
+7811,Yoru no Okite,Movie,Original,1,R - 17+ (violence & profanity),4.29,481,9970,8744,986,0,None,None,[]
+7816,Dr. Slump Movie 06: Arale-chan N-cha! Penguin Mura wa Hare Nochi Hare,Movie,Manga,1,PG-13 - Teens 13 or older,6.3,223,6590,9195,776,2,None,Toei Animation,"['Comedy', 'Sci-Fi', 'Shounen']"
+7817,B-gata H-kei,TV,4-koma manga,12,R+ - Mild Nudity,7.08,149292,3309,301,258281,1993,Spring 2010,Hal Film Maker,"['Comedy', 'Romance', 'Ecchi', 'School', 'Seinen']"
+7818,Yousei Ou,OVA,Manga,1,R+ - Mild Nudity,5.71,181,8381,9134,803,0,None,Madhouse,"['Fantasy', 'Shoujo']"
+7836,Notari Matsutarou,OVA,Unknown,10,None,5.88,69,7967,10498,393,1,None,None,[]
+7843,Kiekaketa Monogataritachi no Tame ni,Movie,Original,1,R+ - Mild Nudity,5.06,262,9503,9485,662,2,None,None,[]
+7844,The Place Where We Were,Movie,Original,1,PG-13 - Teens 13 or older,6.1,42,13006,11072,293,0,None,None,[]
+7845,Seton Doubutsuki,TV,Unknown,45,G - All Ages,6.92,82,3922,10903,320,1,Fall 1989,None,[]
+7856,Kage no Kodomo,Movie,Original,1,PG-13 - Teens 13 or older,6.52,29,11245,11420,246,0,None,None,[]
+7857,Mini Sengoku Basara: Chousokabe-kun to Mouri-kun,Special,Unknown,7,PG-13 - Teens 13 or older,6.88,1878,4075,5352,4553,10,None,Production I.G,"['Comedy', 'Historical']"
+7858,Sora no Otoshimono: Project Pink,OVA,Manga,1,PG-13 - Teens 13 or older,7.55,45310,1525,1146,78619,156,None,AIC A.S.T.A.,"['Sci-Fi', 'Harem', 'Comedy', 'Supernatural', 'Ecchi', 'Shounen']"
+7861,Versailles no Bara to Onna-tachi,Special,Unknown,1,PG-13 - Teens 13 or older,7.36,767,2235,7056,2171,38,None,None,[]
+7862,Transformers: Robot Masters,Special,Unknown,2,G - All Ages,5.64,259,8533,9419,686,0,None,None,[]
+7864,SF Lolita Fantasy Ome-1,OVA,Unknown,2,Rx - Hentai,4.97,116,0,10172,462,1,None,None,[]
+7867,Gon,TV,Manga,50,G - All Ages,6.01,186,7612,8497,1110,3,Spring 2012,Daewon Media,"['Action', 'Adventure', 'Kids']"
+7870,Baka to Test to Shoukanjuu Specials,Special,Unknown,6,PG-13 - Teens 13 or older,7.44,16745,1851,2003,37007,42,None,Silver Link.,"['Magic', 'Comedy', 'School']"
+7875,Kanokon: Manatsu no Dai Shanikusai Specials,Special,Unknown,2,R+ - Mild Nudity,6.63,5333,5177,3477,13283,7,None,Xebec,['Ecchi']
+7876,Oz no Mahoutsukai,Movie,Book,1,G - All Ages,6.13,182,7251,10030,498,2,None,Topcraft,"['Adventure', 'Kids', 'Fantasy']"
+7877,"Momoko, Kaeru no Uta ga Kikoeru yo.",Movie,Book,1,G - All Ages,7.65,662,1241,7300,1952,12,None,None,[]
+7882,Ramen Tenshi Pretty Menma,Special,Unknown,1,PG-13 - Teens 13 or older,4.71,1241,9812,6018,3431,2,None,Arms,"['Comedy', 'Magic', 'Parody']"
+7897,Issho ni Sleeping: Sleeping with Hinako,OVA,Original,1,PG-13 - Teens 13 or older,4.48,7587,9917,3447,13555,25,None,Studio Hibari,['Ecchi']
+7900,Super Child,Movie,Unknown,1,PG-13 - Teens 13 or older,2.85,373,10079,9221,765,2,None,None,[]
+7902,Fullmetal Alchemist: Brotherhood - 4-Koma Theater,Special,4-koma manga,16,PG-13 - Teens 13 or older,7.63,18289,1280,1899,40210,125,None,Bones,"['Parody', 'Fantasy', 'Comedy', 'Military']"
+7904,Kemono no Souja Erin Recap,TV,Novel,10,G - All Ages,7.06,329,3403,7506,1778,5,Winter 2010,Production I.G,"['Adventure', 'Slice of Life', 'Historical', 'Drama', 'Fantasy']"
+7914,Kyuukyoku no Chef wa Oishinbo Papa,OVA,Unknown,1,Rx - Hentai,5.41,85,0,10322,430,1,None,None,[]
+7915,Otaku no Seiza,OVA,Game,2,R+ - Mild Nudity,5.61,179,8590,9687,590,0,None,Bee Media,"['Comedy', 'Parody']"
+7939,Animation!,OVA,Unknown,13,G - All Ages,5.93,109,7811,10024,499,3,None,None,[]
+7953,Defend Love,Music,Unknown,1,G - All Ages,5.96,811,7741,7832,1517,0,None,Sunrise,"['Adventure', 'Fantasy', 'Magic', 'Mecha', 'Romance', 'Super Power', 'Supernatural', 'Music', 'Sci-Fi']"
+7955,The Marshmallow Times,TV,Unknown,52,G - All Ages,6.72,76,4791,10527,387,2,Spring 2004,None,[]
+7956,Cybot Robocchi,TV,Unknown,39,G - All Ages,6.21,52,6936,11340,256,0,Fall 1982,None,[]
+7960,Pachislo Kizoku Gin,TV,Unknown,23,None,6.27,26,12267,10585,374,0,Spring 2001,Actas,"['Action', 'Game']"
+7967,Hiroshima ni Ichiban Densha ga Hashitta,Movie,Unknown,1,G - All Ages,6.53,66,5641,10294,437,1,None,Madhouse,"['Historical', 'Drama']"
+7969,Rin x Sen: Hakudaku Onna Kyoushi to Yaroudomo,OVA,Visual novel,2,Rx - Hentai,6.7,2132,0,4901,5735,21,None,Suzuki Mirano,['Hentai']
+7972,Chi's Sweet Home OVA,OVA,Manga,1,G - All Ages,7.45,2557,1815,4917,5689,5,None,Madhouse,"['Comedy', 'Kids', 'Slice of Life']"
+7980,Shin Obake no Q-tarou,TV,Unknown,70,G - All Ages,5.67,46,12647,11655,223,0,Fall 1971,None,[]
+7981,Obake no Q-tarou (1985),TV,Unknown,510,G - All Ages,6.49,75,5811,11253,266,2,Spring 1985,None,[]
+7982,Tetsuro no Kanata,OVA,Unknown,1,None,5.54,41,12991,10328,430,0,None,None,[]
+7985,Taiyou no Hou: El Cantare e no Michi,Movie,Unknown,1,G - All Ages,5.52,188,8772,9920,529,0,None,None,[]

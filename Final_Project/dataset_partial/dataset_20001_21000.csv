@@ -1,0 +1,48 @@
+animeID,name,type,source,episodes,rating,score,scoredBy,rank,popularity,members,favorites,premiered,studio,genre
+20001,Mouretsu Atarou,TV,Manga,90,G - All Ages,6.25,12,11902,12408,168,0,Spring 1969,Toei Animation,"['Comedy', 'Kids', 'Slice of Life']"
+20005,Pinch to Punch,TV,Unknown,156,G - All Ages,6.65,17,12335,12927,143,0,Fall 1969,None,[]
+20007,Hi Gekiga Ukiyoe Senya Ichiya,Movie,Unknown,1,Rx - Hentai,2.51,35,0,10967,311,1,None,None,[]
+20009,Doubutsu Mura Monogatari,TV,Unknown,100,PG - Children,6.04,24,10588,12285,176,0,Spring 1970,Eiken,['Kids']
+20021,Sword Art Online: Extra Edition,Special,Light novel,1,PG-13 - Teens 13 or older,6.84,110330,4228,496,177559,494,None,A-1 Pictures,"['Action', 'Adventure', 'Fantasy', 'Game', 'Romance']"
+20023,Otanoshimi Anime Gekijou,TV,Unknown,26,G - All Ages,7.46,13,12232,13128,132,0,Spring 1970,None,[]
+20045,IS: Infinite Stratos 2 - Hitonatsu no Omoide,OVA,Light novel,1,R+ - Mild Nudity,7.04,18734,3481,1997,37119,34,None,8bit,"['Action', 'Sci-Fi', 'Harem', 'Comedy', 'Mecha']"
+20047,Sakura Trick,TV,4-koma manga,12,PG-13 - Teens 13 or older,7.14,71406,3102,585,156229,1221,Winter 2014,Studio Deen,"['Slice of Life', 'Comedy', 'Romance', 'School', 'Seinen', 'Shoujo Ai']"
+20057,Space☆Dandy,TV,Original,13,PG-13 - Teens 13 or older,7.88,80889,749,478,185333,3096,Winter 2014,Bones,"['Sci-Fi', 'Space', 'Comedy']"
+20077,Dotanba no Manners,TV,Unknown,283,G - All Ages,6.0,36,10584,12593,158,0,Fall 1984,Eiken,"['Comedy', 'Slice of Life']"
+20079,Ijiwaru Baasan,TV,Unknown,39,None,6.83,18,11115,12303,175,0,Fall 1970,None,[]
+20081,Ijiwaru Baasan (1996),TV,Unknown,46,None,6.42,12,11116,12847,146,0,Spring 1996,Eiken,"['Comedy', 'Slice of Life']"
+20083,Doteraman,TV,Original,20,G - All Ages,6.22,18,10585,12390,171,1,Fall 1986,Tatsunoko Production,"['Sci-Fi', 'Comedy']"
+20085,Only You: Viva! Cabaret Club,TV,Unknown,15,None,6.2,10,12194,12941,143,0,Fall 1998,None,[]
+20111,Time Ranger Cesar Boy no Bouken: Roma Teikoku-hen,OVA,Unknown,1,None,5.53,15,13023,13187,130,0,None,Toei Animation,"['Adventure', 'Sci-Fi']"
+20377,Dorei Usagi to Anthony The Animation,OVA,Manga,1,Rx - Hentai,7.29,2500,0,4798,6042,51,None,None,[]
+20379,Junk Land The Animation,OVA,Manga,1,Rx - Hentai,6.8,1637,0,5660,3983,18,None,None,[]
+20383,Baka Mukashibanashi Movie: Jijii Wars,Movie,Unknown,1,G - All Ages,5.37,27,10254,12365,171,0,None,None,[]
+20431,Hoozuki no Reitetsu,TV,Manga,13,PG-13 - Teens 13 or older,7.85,27132,798,1141,79114,835,Winter 2014,Wit Studio,"['Comedy', 'Demons', 'Supernatural', 'Fantasy', 'Seinen']"
+20457,"Inari, Konkon, Koi Iroha.",TV,Manga,10,PG-13 - Teens 13 or older,7.27,41024,2559,979,95549,229,Winter 2014,Production IMS,"['Comedy', 'Supernatural', 'Romance', 'School', 'Seinen']"
+20471,Aoki Uru,Movie,Original,1,None,0.0,0,0,5635,4020,1,None,Gaina,"['Military', 'Sci-Fi']"
+20507,Noragami,TV,Manga,12,PG-13 - Teens 13 or older,8.14,550898,389,14,932326,20276,Winter 2014,Bones,"['Action', 'Adventure', 'Comedy', 'Supernatural', 'Shounen']"
+20509,Fate/kaleid liner Prisma☆Illya 2wei!,TV,Manga,10,PG-13 - Teens 13 or older,7.42,47819,1946,1021,90612,205,Summer 2014,Silver Link.,"['Action', 'Comedy', 'Magic', 'Fantasy']"
+20533,Z/X: Ignition,TV,Card game,12,PG-13 - Teens 13 or older,6.62,13082,5252,2204,31542,55,Winter 2014,Telecom Animation Film,"['Game', 'Sci-Fi', 'Adventure', 'Fantasy']"
+20583,Haikyuu!!,TV,Manga,25,PG-13 - Teens 13 or older,8.65,308233,55,84,537826,26138,Spring 2014,Production I.G,"['Comedy', 'Drama', 'School', 'Shounen', 'Sports']"
+20651,Natsume Yuujinchou: Itsuka Yuki no Hi ni,OVA,Manga,1,PG-13 - Teens 13 or older,8.4,20725,166,1771,44773,78,None,Brain's Base,"['Drama', 'Fantasy', 'Shoujo', 'Slice of Life', 'Supernatural']"
+20667,Mobile Suit Gundam: Zeonic Front - Indignation of Zeon.,Special,Unknown,1,PG-13 - Teens 13 or older,5.83,340,8088,8269,1246,0,None,Sunrise,"['Mecha', 'Military']"
+20671,Shashinkan,Movie,Original,1,G - All Ages,7.42,1321,1971,5986,3476,4,None,Studio Colorido,"['Drama', 'Historical', 'Slice of Life']"
+20673,Hinata no Aoshigure,Movie,Original,1,PG - Children,7.07,4959,3349,3521,12840,31,None,Studio Colorido,"['Adventure', 'Fantasy', 'Romance']"
+20757,Taimanin Yukikaze,OVA,Visual novel,3,Rx - Hentai,6.54,2020,0,4907,5724,44,None,Magic Bus,"['Demons', 'Hentai', 'Supernatural']"
+20767,Noragami OVA,OVA,Manga,2,PG-13 - Teens 13 or older,7.89,97996,717,527,170300,286,None,Bones,"['Action', 'Adventure', 'Comedy', 'Supernatural', 'Shounen']"
+20785,Mahouka Koukou no Rettousei,TV,Light novel,26,PG-13 - Teens 13 or older,7.73,256573,1049,102,476510,7582,Spring 2014,Madhouse,"['Action', 'Sci-Fi', 'Supernatural', 'Magic', 'Romance', 'School']"
+20787,Black Bullet,TV,Light novel,13,R - 17+ (violence & profanity),7.36,277944,2205,92,501969,3111,Spring 2014,Kinema Citrus,"['Action', 'Sci-Fi', 'Mystery', 'Seinen']"
+20797,Sennen no Yakusoku,OVA,Original,1,G - All Ages,4.91,22,12580,13452,116,0,None,None,[]
+20853,Hitsugi no Chaika,TV,Light novel,12,R - 17+ (violence & profanity),7.4,113693,2036,333,238531,681,Spring 2014,Bones,"['Action', 'Adventure', 'Comedy', 'Romance', 'Fantasy']"
+20899,JoJo no Kimyou na Bouken: Stardust Crusaders,TV,Manga,24,R - 17+ (violence & profanity),8.24,166962,286,294,266777,5937,Spring 2014,David Production,"['Action', 'Adventure', 'Supernatural', 'Drama', 'Shounen']"
+20951,DPR Special Movie,Special,Original,1,G - All Ages,5.45,467,8895,8934,890,1,None,White Fox,"['Slice of Life', 'Space']"
+20955,Peeping Life: YouTuber-kun,ONA,Original,4,G - All Ages,4.62,120,9866,10694,358,3,None,None,[]
+20959,Kansen: Ball Buster The Animation,OVA,Visual novel,1,Rx - Hentai,6.03,1248,0,6012,3440,5,None,None,[]
+20963,Shimajirou to Kujira no Uta,Movie,Unknown,1,G - All Ages,5.47,15,12629,12834,149,0,None,None,[]
+20965,Wonder Garden,ONA,Original,1,PG - Children,6.42,2564,6109,5481,4301,3,None,Studio Colorido,['Fantasy']
+20971,Kiniro no Corda: Blue♪Sky,TV,Visual novel,12,PG-13 - Teens 13 or older,6.5,7101,5769,2863,19621,40,Spring 2014,TYO Animations,"['Harem', 'Music', 'School', 'Shoujo']"
+20973,Sekai Seifuku: Bouryaku no Zvezda,TV,Original,12,PG-13 - Teens 13 or older,7.15,39280,3070,963,97675,273,Winter 2014,A-1 Pictures,"['Action', 'Comedy', 'Fantasy']"
+20975,Seisenshi Dunbine Memorial,Special,Unknown,3,PG-13 - Teens 13 or older,5.81,48,12564,10839,334,0,None,Sunrise,"['Sci-Fi', 'Adventure', 'Mecha']"
+20977,Tonari no Seki-kun OVA,OVA,Manga,1,G - All Ages,7.46,17021,1810,2370,27679,6,None,Shin-Ei Animation,"['Comedy', 'School', 'Seinen']"
+20995,Himekishi Olivia,OVA,Visual novel,2,Rx - Hentai,6.63,1463,0,5671,3957,18,None,None,[]
+20999,Mini Van Special,Special,4-koma manga,1,PG-13 - Teens 13 or older,6.68,206,4967,9774,566,0,None,DLE,"['Game', 'Slice of Life', 'Comedy', 'Parody']"

@@ -1,0 +1,562 @@
+animeID,name,type,source,episodes,rating,score,scoredBy,rank,popularity,members,favorites,premiered,studio,genre
+36001,Alice or Alice: Siscon Niisan to Futago no Imouto,TV,4-koma manga,12,PG-13 - Teens 13 or older,5.43,7084,8935,2681,22366,29,Spring 2018,EMT²,"['Seinen', 'Slice of Life']"
+36002,Otona no Ikkyuu-san 2nd Season,TV,Other,13,PG-13 - Teens 13 or older,5.0,8,12242,13662,105,0,Spring 2017,None,[]
+36003,Kimoshiba 2,TV,Original,13,G - All Ages,5.71,7,11435,14247,76,0,Spring 2017,Jinnis Animation Studios,"['Comedy', 'Kids']"
+36005,Mainichi JK Kikaku Episode 0,Special,Other,1,None,0.0,0,0,8739,991,2,None,None,[]
+36006,Mainichi JK Kikaku,TV,Other,0,None,0.0,0,0,6441,2866,1,None,None,[]
+36009,Two Car,TV,Original,12,PG-13 - Teens 13 or older,5.69,4459,8434,3213,15621,12,Fall 2017,Silver Link.,['Sports']
+36010,Heartful Maman The Animation,OVA,Visual novel,1,Rx - Hentai,6.66,1193,0,6330,2999,9,None,G-Lam,['Hentai']
+36015,Shaolin Chuanqi,TV,Unknown,26,None,0.0,0,0,0,0,0,None,None,[]
+36016,Cogimyun,ONA,Other,24,G - All Ages,4.13,8,10490,14461,64,0,None,None,[]
+36018,Dia Horizon,ONA,Original,3,G - All Ages,3.85,40,10542,10548,384,0,None,Fanworks,"['Game', 'Parody']"
+36021,Joleobban,Movie,Unknown,1,R+ - Mild Nudity,5.39,33,11202,11177,280,0,None,None,[]
+36022,Cardfight!! Vanguard G: Z,TV,Original,24,PG-13 - Teens 13 or older,6.64,803,5123,6530,2764,10,Fall 2017,OLM,"['Action', 'Game', 'Shounen']"
+36023,Persona 5 the Animation,TV,Game,26,R - 17+ (violence & profanity),6.77,19839,4556,872,108522,386,Spring 2018,CloverWorks,"['Action', 'Supernatural', 'Fantasy']"
+36027,Ousama Game The Animation,TV,Novel,12,R - 17+ (violence & profanity),5.17,49403,9370,810,116378,203,Fall 2017,Seven,"['Dementia', 'Supernatural', 'School', 'Drama', 'Horror', 'Mystery']"
+36028,Golden Kamuy,TV,Manga,12,R - 17+ (violence & profanity),7.73,33113,1040,1025,90156,309,Spring 2018,Geno Studio,"['Action', 'Adventure', 'Historical', 'Seinen']"
+36029,Hakyuu Houshin Engi,TV,Manga,23,PG-13 - Teens 13 or older,5.71,2014,8370,3350,14413,15,Winter 2018,C-Station,"['Adventure', 'Demons', 'Fantasy', 'Shounen', 'Supernatural']"
+36030,Yoiko no Rekishi Anime: Ookina Kabu (Kabu),Movie,Manga,1,G - All Ages,5.97,63,7736,11819,211,0,None,Khara,"['Comedy', 'Parody']"
+36032,Air Soushuuhen,Special,Visual novel,1,G - All Ages,6.43,1223,6024,5877,3634,2,None,Kyoto Animation,"['Supernatural', 'Drama', 'Romance']"
+36033,Kagirohi: Shaku Kei - Another,OVA,Visual novel,0,Rx - Hentai,6.56,615,0,6877,2355,2,None,Suzuki Mirano,['Hentai']
+36037,Senran Kagura Shinovi Master: Tokyo Youma-hen,TV,Game,12,R+ - Mild Nudity,6.37,1264,6309,3136,16315,37,Fall 2018,TNK,"['Action', 'Comedy', 'Ecchi', 'School']"
+36038,Net-juu no Susume,TV,Web manga,10,PG-13 - Teens 13 or older,7.82,113316,861,378,217751,1399,Fall 2017,Signal.MD,"['Game', 'Comedy', 'Romance']"
+36039,A.I.C.O.: Incarnation,ONA,Original,12,R - 17+ (violence & profanity),6.89,17277,4006,1781,44542,91,None,Bones,"['Action', 'Sci-Fi']"
+36040,Knights of the Zodiac: Saint Seiya,ONA,Manga,12,None,0.0,0,0,4504,7018,21,None,None,[]
+36043,Net-juu no Susume Special,Special,Web manga,1,PG-13 - Teens 13 or older,7.51,32291,1636,1621,50430,32,None,Signal.MD,"['Game', 'Comedy', 'Romance']"
+36049,Dagashi Kashi 2,TV,Manga,12,PG-13 - Teens 13 or older,6.99,25587,3658,1266,70633,118,Winter 2018,Tezuka Productions,"['Slice of Life', 'Comedy', 'Shounen']"
+36050,Ikezu,Music,Music,1,PG-13 - Teens 13 or older,5.59,129,8615,11687,222,0,None,None,[]
+36051,Hitozuma Life: One Time Gal,OVA,Manga,2,Rx - Hentai,6.29,835,0,7063,2169,6,None,None,[]
+36052,Kyonyuu Daikazoku Saimin,OVA,Visual novel,0,Rx - Hentai,7.07,819,0,6289,3056,7,None,None,[]
+36054,Teekyuu 9 Specials,Special,Manga,2,PG-13 - Teens 13 or older,6.36,165,6366,8012,1400,0,None,None,[]
+36055,Ashita Aou ne,Music,Original,1,G - All Ages,3.48,23,10215,14526,60,0,None,None,[]
+36056,Amaryllis,Music,Original,1,G - All Ages,3.76,25,10152,14458,65,0,None,None,[]
+36057,Eto wa Merry-Go-Round,Music,Original,1,G - All Ages,4.07,14,10639,14794,44,0,None,None,[]
+36061,I'm Coming,Music,Music,1,G - All Ages,5.21,58,9305,13780,100,0,None,None,[]
+36063,Universal Mind,Music,Music,1,G - All Ages,4.07,41,13174,14106,85,0,None,Onionskin,['Music']
+36064,Fate/Grand Order CMs,Special,Game,0,PG - Children,7.26,663,2592,4948,5610,12,None,None,[]
+36065,Jirijiri,Music,Music,1,PG - Children,4.38,34,11196,14396,68,0,None,None,[]
+36066,The Sun Sank,Music,Music,1,G - All Ages,4.76,42,13013,14054,86,0,None,None,[]
+36067,Halfway,Music,Music,1,G - All Ages,5.54,53,8717,13803,98,0,None,None,[]
+36069,Echolocation,Music,Music,1,G - All Ages,5.51,61,8781,13656,105,0,None,None,[]
+36070,Hunger,Music,Music,1,G - All Ages,4.23,47,11080,13983,89,0,None,None,[]
+36071,Rabbit,Music,Music,1,G - All Ages,3.9,30,12430,14498,62,0,None,None,[]
+36072,Human Gift,Music,Music,1,G - All Ages,3.66,29,11079,14493,62,0,None,None,[]
+36073,Aiseki Mogol Girl,TV,Other,12,G - All Ages,4.26,31,10130,11266,264,0,Fall 2017,None,[]
+36074,Endless Summer,Music,Music,1,PG-13 - Teens 13 or older,5.35,72,9080,13008,137,0,None,Onionskin,['Music']
+36077,Macross Δ Movie: Gekijou no Walküre,Movie,Original,1,PG-13 - Teens 13 or older,6.91,537,3948,5326,4644,8,None,Satelight,"['Action', 'Space', 'Mecha', 'Military', 'Music', 'Sci-Fi']"
+36078,Beat in Love,Music,Music,1,PG - Children,5.38,56,9030,13920,93,0,None,None,[]
+36079,Parasol Life,Music,Music,1,G - All Ages,3.6,25,12290,14598,55,0,None,None,[]
+36080,Metamorphosis,Music,Music,1,G - All Ages,3.3,27,11791,14451,65,0,None,None,[]
+36081,Tengoku,Music,Music,1,G - All Ages,4.68,28,12971,14537,60,0,None,None,[]
+36083,Lostorage Conflated WIXOSS: Missing Link,OVA,Card game,1,R - 17+ (violence & profanity),6.74,717,4694,6300,3051,2,None,J.C.Staff,"['Game', 'Psychological']"
+36084,Tonari no Tonari,Music,Music,1,G - All Ages,4.06,31,13065,14438,66,0,None,None,[]
+36085,Owakare,Music,Music,1,G - All Ages,3.85,26,12252,14545,59,0,None,None,[]
+36086,Toyoichi,Music,Music,1,G - All Ages,4.14,29,13083,14583,56,0,None,None,[]
+36087,Nerenai!!!,Music,Music,1,PG - Children,4.35,31,12014,14432,66,0,None,None,[]
+36088,Kaijuu,Music,Music,1,G - All Ages,5.02,46,11261,13925,93,0,None,None,[]
+36089,9,Music,Original,1,G - All Ages,5.36,84,9065,12547,160,0,None,None,[]
+36090,Humanoid Girl,Music,Music,1,G - All Ages,5.45,51,8898,13756,100,0,None,None,[]
+36091,Ghana,Music,Music,1,G - All Ages,4.33,39,10774,14208,78,0,None,None,[]
+36092,Alluptoyou,Music,Original,1,G - All Ages,5.06,66,9498,13293,123,1,None,None,[]
+36093,Car Radio,Music,Music,1,G - All Ages,4.7,44,10355,14182,79,0,None,None,[]
+36094,Hakumei to Mikochi,TV,Manga,12,PG-13 - Teens 13 or older,7.63,8733,1283,2166,32382,123,Winter 2018,Lerche,"['Slice of Life', 'Fantasy', 'Seinen']"
+36095,Mirror Mirror (Bombs BiS),Music,Music,1,PG-13 - Teens 13 or older,5.52,59,8766,13661,105,0,None,Onionskin,['Music']
+36096,Ice Fist,Music,Music,1,PG-13 - Teens 13 or older,5.01,86,9557,12862,145,0,None,Onionskin,"['Music', 'Dementia']"
+36097,Happy Forest,ONA,Original,1,G - All Ages,5.15,47,10898,13585,108,0,None,Marza Animation Planet,"['Slice of Life', 'Fantasy']"
+36098,Kimi no Suizou wo Tabetai,Movie,Novel,1,PG-13 - Teens 13 or older,8.14,703,387,2031,36368,134,None,Studio VOLN,['Drama']
+36099,The Gift,ONA,Original,1,G - All Ages,5.06,32,12999,14122,83,0,None,Marza Animation Planet,"['Fantasy', 'Kids']"
+36101,Watashi ga Nakou Hototogisu,Music,Music,1,PG-13 - Teens 13 or older,5.5,65,8811,13192,129,0,None,Onionskin,['Music']
+36102,Halved,Music,Music,1,G - All Ages,4.62,61,9862,13498,113,0,None,Onionskin,['Music']
+36103,Nandaku Mou,Music,Music,1,G - All Ages,4.24,41,11958,14193,79,0,None,Onionskin,['Music']
+36104,Haha no Supporter,ONA,Original,1,G - All Ages,6.19,79,7024,12596,159,0,None,None,[]
+36106,Shingeki no Kyojin: Lost Girls,OVA,Novel,3,R - 17+ (violence & profanity),7.87,20708,771,1067,85136,154,None,Wit Studio,"['Action', 'Drama', 'Fantasy', 'Horror', 'Supernatural']"
+36107,Shirotan: Shirotan ga Ippai!,ONA,Other,24,G - All Ages,7.09,35,12683,11989,197,0,None,None,[]
+36108,Takunomi.,TV,Web manga,12,PG-13 - Teens 13 or older,6.42,7654,6105,2395,27270,27,Winter 2018,Production IMS,"['Comedy', 'Slice of Life']"
+36109,Boku dake no Hentai Kanojo Motto♥ The Animation,OVA,Manga,1,Rx - Hentai,6.27,920,0,6748,2509,10,None,None,[]
+36111,Ima,Music,Music,1,None,0.0,0,0,0,0,0,None,None,[]
+36112,Dragon Quest X: Boukensha-tachi no Kiseki,ONA,Original,0,G - All Ages,5.5,10,10596,12528,162,0,None,None,[]
+36113,Love,Music,Original,1,G - All Ages,3.44,41,11645,14093,84,0,None,None,[]
+36114,Saishuu Densha featuring Izumi Makura,Music,Music,1,G - All Ages,4.33,43,12507,14222,78,0,None,None,[]
+36115,Nosferatu,Music,Music,1,R+ - Mild Nudity,5.21,50,9309,13676,104,0,None,None,[]
+36116,Tsuugakuro,Music,Original,1,PG - Children,4.72,39,13106,13934,94,0,None,None,[]
+36117,Katte ni Shiyagatte,Music,Music,1,PG-13 - Teens 13 or older,4.89,54,9663,13537,111,0,None,None,[]
+36118,Onagawa Chuu Baske Bu: 5-nin no Natsu,Special,Other,1,G - All Ages,5.15,13,12173,12198,182,0,None,None,[]
+36119,Uma no Friends,ONA,Game,1,G - All Ages,6.43,1022,6058,6383,2936,2,None,None,[]
+36121,Ikkyuu Nyuukon,OVA,Manga,4,Rx - Hentai,6.9,1259,0,5992,3476,16,None,None,[]
+36122,Ryuudouji Shimon no Inbou,OVA,Visual novel,2,Rx - Hentai,6.41,745,0,7162,2067,13,None,None,[]
+36124,Itou Junji: Collection,TV,Manga,12,R - 17+ (violence & profanity),6.18,20895,7062,1482,58064,145,Winter 2018,Studio Deen,"['Comedy', 'Demons', 'Drama', 'Horror', 'Mystery', 'Psychological', 'School', 'Supernatural', 'Thriller']"
+36125,Uchiage Hanabi,Music,Other,1,G - All Ages,7.89,4699,724,4287,8025,32,None,Shaft,['Music']
+36127,Animation de Tsutaeru: Hibakusha kara no Tegami,Special,Other,0,G - All Ages,6.12,34,10161,12723,150,0,None,None,[]
+36129,Oyoge! Taiyaki-kun,Music,Music,1,G - All Ages,3.76,25,12260,14564,57,0,None,None,[]
+36130,DJ Nobunaga,ONA,Original,0,G - All Ages,5.07,15,10547,13330,121,0,None,None,[]
+36132,Taka no Tsume: Tokyo Comic Con 2017 no Ouen-dan ni Shuunin Kettei!,ONA,Original,1,G - All Ages,4.11,27,12918,13225,128,0,None,None,[]
+36135,Oretacha Youkai Ningen,TV,Original,25,PG-13 - Teens 13 or older,4.3,33,12210,8244,1260,0,Fall 2017,DLE,"['Demons', 'Horror', 'Parody']"
+36136,Crystal Clear,Music,Music,1,G - All Ages,6.5,255,5755,10309,434,0,None,None,[]
+36137,Succubu-ist Story The Animation,OVA,Manga,1,Rx - Hentai,6.45,896,0,6787,2458,5,None,Office Takeout,['Hentai']
+36139,Hibakusha kara no Tegami,Special,Other,3,R - 17+ (violence & profanity),5.36,11,10982,14878,38,0,None,None,[]
+36144,Garo: Vanishing Line,TV,Original,24,R - 17+ (violence & profanity),7.28,12418,2518,1786,44347,89,Fall 2017,MAPPA,"['Action', 'Demons', 'Fantasy', 'Supernatural']"
+36145,Tottoko Hamtarou: Anime Dechu!,OVA,Manga,1,G - All Ages,6.41,85,6147,10547,386,0,None,None,[]
+36148,Wangu Xian Qiong,ONA,Novel,12,PG-13 - Teens 13 or older,7.1,516,3277,7465,1815,6,None,Haoliners Animation League,"['Adventure', 'Comedy', 'Fantasy', 'Shounen']"
+36152,Inagawa Junji no Sugoku Kowai Hanashi,ONA,Book,10,PG - Children,5.87,15,11130,11275,263,1,None,None,[]
+36155,Bibury,ONA,Original,1,G - All Ages,5.75,116,8271,11099,289,1,None,Bibury Animation Studios,['Slice of Life']
+36156,Keifuku-san,ONA,Original,1,G - All Ages,6.06,755,7472,7956,1433,2,None,None,[]
+36158,Nowhereland,Music,Original,1,R+ - Mild Nudity,5.28,87,9196,13014,137,1,None,None,[]
+36159,Hachiko↑Dance,Music,Original,1,R+ - Mild Nudity,4.75,101,9778,12453,165,0,None,None,[]
+36160,Yaoguai Mingdan 2nd Season,ONA,Web manga,21,R - 17+ (violence & profanity),8.04,880,521,6171,3197,22,None,Haoliners Animation League,"['Action', 'Comedy', 'Romance', 'Fantasy']"
+36161,"Annyeong, Jeonwoochi! Dosoolrobotdaegyeoljeon",Movie,Original,1,PG - Children,4.44,9,10174,14389,68,0,None,None,[]
+36162,"Sou: Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?-hen",Special,Other,1,G - All Ages,5.58,328,8642,7381,1879,3,None,Shaft,['Slice of Life']
+36163,Aoi Triton,Special,Manga,1,G - All Ages,5.76,21,10183,13979,90,0,None,None,[]
+36164,Qiang Niang,ONA,Game,12,PG-13 - Teens 13 or older,0.0,0,0,0,0,4,None,Hoods Entertainment,"['Action', 'Military', 'Sci-Fi', 'Slice of Life', 'Space', 'Comedy']"
+36166,Fireball Humorous,TV,Original,3,G - All Ages,5.64,508,8524,7074,2150,4,Fall 2017,Jinnis Animation Studios,"['Sci-Fi', 'Comedy']"
+36167,Yuhuwa Chingudeul,TV,Original,26,PG - Children,0.0,0,13377,15099,5,0,None,None,[]
+36169,World's End Umbrella,Music,Music,1,G - All Ages,6.27,96,6743,12203,182,1,None,Minakata Laboratory,['Music']
+36170,Wonderland to Hitsuji no Uta,Music,Music,1,G - All Ages,5.68,60,8463,13097,134,0,None,Minakata Laboratory,['Music']
+36172,Sajou no Yumekui Shoujo,Music,Music,1,G - All Ages,4.71,48,12511,13741,101,0,None,Minakata Laboratory,['Music']
+36173,Suna no Wakusei feat. Hatsune Miku,Music,Original,1,G - All Ages,7.01,423,3618,9341,721,7,None,Minakata Laboratory,['Music']
+36175,Diary,Music,Original,1,G - All Ages,6.06,62,7465,13473,114,0,None,Minakata Laboratory,['Music']
+36180,Clock Lock Works,Music,Music,1,G - All Ages,5.49,54,8813,13730,101,0,None,Minakata Laboratory,['Music']
+36181,Christmas Morgue,Music,Music,1,G - All Ages,5.4,77,9002,12860,145,0,None,None,[]
+36182,Abstract feat. Alkama,Movie,Original,1,G - All Ages,5.22,114,9286,11147,283,0,None,None,[]
+36183,It Seems like a Frog,Music,Original,1,G - All Ages,4.34,32,11160,14429,66,0,None,None,[]
+36184,Feng Ling Yu Xiu,ONA,Original,0,PG-13 - Teens 13 or older,7.18,44,10647,10408,413,0,None,None,[]
+36185,Lan Mo De Hua,ONA,Web manga,9,PG-13 - Teens 13 or older,6.81,459,4361,7616,1695,9,None,None,[]
+36186,The iDOLM@STER Prologue SideM: Episode of Jupiter,Special,Game,1,PG-13 - Teens 13 or older,7.29,2103,2502,5654,3997,6,None,A-1 Pictures,['Music']
+36194,Starship Troopers: Red Planet,Movie,Original,1,R - 17+ (violence & profanity),6.64,426,5153,9052,846,2,None,Sola Digital Arts,"['Action', 'Military', 'Sci-Fi']"
+36196,Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season,TV,Original,12,PG - Children,6.14,1230,7211,6214,3135,3,Winter 2018,Studio PuYUKAI,"['Comedy', 'Fantasy', 'Parody']"
+36197,Infini-T Force Movie: Gatchaman - Saraba Tomo yo,Movie,Manga,1,None,6.59,41,11135,8350,1203,0,None,Digital Frontier,"['Action', 'Sci-Fi', 'Seinen', 'Super Power']"
+36198,"Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.",TV,Digital manga,12,R+ - Mild Nudity,5.6,9847,0,2110,33748,90,Fall 2017,Seven,"['Hentai', 'Romance', 'Ecchi', 'School']"
+36204,Tokimeki Restaurant☆☆☆ MIRACLE6 Movie,Movie,Visual novel,1,None,6.0,12,13044,8278,1241,8,None,Production I.G,"['Music', 'Romance']"
+36214,Asagao to Kase-san.,OVA,Manga,1,PG-13 - Teens 13 or older,7.98,6468,582,2900,19130,177,None,Zexcs,"['Romance', 'School', 'Shoujo Ai']"
+36220,Itsudatte Bokura no Koi wa 10 cm Datta.,TV,Music,6,PG-13 - Teens 13 or older,7.66,25848,1207,1272,70285,320,Fall 2017,Lay-duce,"['Comedy', 'Drama', 'Romance', 'School']"
+36221,Plus Kouji,Special,Original,0,G - All Ages,5.78,9,12351,14255,76,0,None,None,[]
+36223,New My Tear CL Series,ONA,Other,1,G - All Ages,5.37,309,9054,7618,1689,0,None,Shaft,['Slice of Life']
+36225,Baku Ane 2: Otouto Ippai Shibocchau zo! The Animation,OVA,Visual novel,1,Rx - Hentai,7.31,1472,0,4956,5603,42,None,Seven,['Hentai']
+36226,Kai Feng Qitan: Zhege Baogong Bu Taixing,ONA,Manga,10,PG-13 - Teens 13 or older,5.7,44,11255,11732,217,0,None,Studio LAN,"['Action', 'Comedy', 'Historical']"
+36228,Anisama,ONA,Other,1,PG - Children,6.03,489,7554,7841,1513,1,None,None,[]
+36229,Rainbow Signal: Hi-Fi Set,Music,Music,1,G - All Ages,6.12,65,7279,12902,143,0,None,Kaname Productions,"['Music', 'Romance', 'Fantasy']"
+36231,Hinomaru!,TV,Manga,0,None,6.46,13,11017,11288,261,1,Summer 2017,None,[]
+36232,Glory Days,Music,Other,1,G - All Ages,6.87,407,4100,8536,1091,2,None,None,[]
+36233,Kuusou Suizokukan,ONA,Original,2,G - All Ages,5.33,9,11573,14734,47,0,None,Takara Tomy A.R.T.S,['Kids']
+36234,"Panpaka Pants Matsuri Movie: Purin Ara, Domo",Movie,Original,1,G - All Ages,5.0,10,12276,14301,75,0,None,DLE,"['Comedy', 'Kids']"
+36239,Sono Me ga Mitsumeru Mono,ONA,Other,1,G - All Ages,5.32,634,9136,6483,2832,5,None,None,[]
+36240,Scratch x One Piece Film: Gold,Special,Other,1,G - All Ages,5.96,652,7757,7007,2229,0,None,None,[]
+36241,One Piece Film: Gold - Cine Mike Popcorn Kokuchi,Special,Other,1,G - All Ages,6.15,704,7186,6979,2258,0,None,None,[]
+36242,TOHO Cinemas x One Piece Film: Gold - Tokubetsu Eizou,ONA,Other,1,G - All Ages,5.99,516,7689,7535,1764,0,None,Toei Animation,"['Fantasy', 'Shounen']"
+36245,Evil or Live,TV,Web manga,12,R - 17+ (violence & profanity),6.01,14822,7609,1847,42101,61,Fall 2017,Haoliners Animation League,"['Psychological', 'School']"
+36246,Monsuto Anime: Kieyuku Uchuu-hen,ONA,Game,13,PG - Children,6.44,523,5996,6790,2453,3,None,None,[]
+36248,Don't Cry,Music,Manga,1,G - All Ages,5.81,16,10564,13513,113,0,None,None,[]
+36249,Kyak Kyak Kyak Flamenco,Music,Original,1,G - All Ages,4.21,33,11577,14466,64,0,None,None,[]
+36250,Baka to Test to Shoukanjuu Mini Anime,Special,Light novel,1,PG-13 - Teens 13 or older,6.83,1256,4238,4199,8370,15,None,None,[]
+36252,Library Cross Infinite,TV,Game,0,None,0.0,0,0,9416,688,0,None,None,[]
+36254,Jukujo Shigan,OVA,Original,0,Rx - Hentai,5.75,268,0,8626,1046,5,None,None,[]
+36256,Katainaka ni Totsuidekita ○-ssia Musume to H Shimakuru Ohanashi,OVA,Digital manga,0,Rx - Hentai,7.21,1288,0,5668,3964,38,None,None,[]
+36258,Ohedo Julia-Night,Music,Unknown,1,G - All Ages,0.0,0,0,0,0,1,None,None,[]
+36259,Pingu in the City,TV,Other,26,G - All Ages,8.6,8137,73,2486,25645,685,Fall 2017,DandeLion Animation Studio,"['Comedy', 'Kids', 'Slice of Life']"
+36261,Daiyoshi P Produce Ashita no Jobuubu,ONA,Original,10,G - All Ages,4.91,23,10517,13751,101,0,None,DLE,"['Slice of Life', 'Comedy', 'Parody']"
+36264,Drive Car,Music,Music,1,G - All Ages,4.32,37,10598,14240,76,0,None,None,[]
+36265,Sylvanian Families: Mini Story,TV,Game,12,G - All Ages,4.88,17,12887,13184,130,1,Fall 2017,None,[]
+36266,Mahou Shoujo Site,TV,Manga,12,R - 17+ (violence & profanity),6.55,26936,5548,1090,82993,294,Spring 2018,production doA,"['Drama', 'Horror', 'Psychological', 'Supernatural']"
+36267,Uchuu Senkan Tiramisù,TV,Web manga,13,PG-13 - Teens 13 or older,6.37,4968,6319,3160,16132,15,Spring 2018,Gonzo,"['Space', 'Mecha', 'Comedy', 'Sci-Fi', 'Slice of Life']"
+36269,Detective Conan: Anti-Crime Guide,OVA,Other,1,G - All Ages,6.88,122,4057,8567,1081,2,None,None,[]
+36270,Minna no Jouhou Moral,OVA,Original,3,PG-13 - Teens 13 or older,5.33,3,11834,14930,35,0,None,None,[]
+36271,Yuukai Boushi Animation Eiga: Akazukin-chan Chanto Check,OVA,Original,1,G - All Ages,6.0,5,13407,14833,43,0,None,None,[]
+36272,Manichi ga Tsurai Kimochi Wakarimasu ka: Yurusenai! Net Ijime,OVA,Original,1,G - All Ages,7.0,3,11732,14826,43,0,None,None,[]
+36273,Mimi-chan no Te to Te to Te,OVA,Original,1,G - All Ages,4.0,3,11811,14906,36,0,None,None,[]
+36274,Nyani ga Nyandaa Nyandaa Kamen no Yuukai Boushi: Miiko-chan Chanto Check!!,OVA,Original,1,G - All Ages,7.5,4,12106,14735,48,0,None,None,[]
+36275,Natsume Yuujinchou Roku Specials,Special,Manga,2,PG-13 - Teens 13 or older,8.47,6595,122,3114,16564,27,None,Shuka,"['Slice of Life', 'Supernatural', 'Drama', 'Fantasy', 'Shoujo']"
+36278,Gokiburi Hime,ONA,Original,1,G - All Ages,5.56,58,8674,12796,149,0,None,None,[]
+36279,The Curlydog Story,Special,Original,1,G - All Ages,4.77,35,12997,13918,94,0,None,None,[]
+36280,Usatalk,ONA,Original,1,G - All Ages,4.39,72,9943,12588,159,0,None,None,[]
+36281,Lilt,ONA,Original,1,G - All Ages,3.81,32,11624,13990,89,0,None,None,[]
+36286,Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow,OVA,Light novel,1,PG-13 - Teens 13 or older,7.88,638,742,1180,76783,237,None,White Fox,"['Drama', 'Fantasy', 'Psychological', 'Thriller']"
+36287,Doraemon Eigo Kyoushitsu,Special,Unknown,3,PG - Children,6.15,20,10577,13458,119,0,None,None,[]
+36288,Glamorous Heroes,TV,Game,10,PG-13 - Teens 13 or older,4.77,228,9766,6197,3160,1,Fall 2017,drop,"['Action', 'Game']"
+36289,Daybreak Interlude,Music,Game,1,G - All Ages,7.12,522,3160,8719,1001,1,None,None,[]
+36290,Xiang Ling Ji,ONA,Web manga,15,PG-13 - Teens 13 or older,6.57,60,5482,11043,303,8,None,Pb Animation Co. Ltd.,"['Action', 'Demons', 'Fantasy']"
+36291,Ling Yu,ONA,Novel,10,PG-13 - Teens 13 or older,6.77,391,4547,8006,1403,2,None,Haoliners Animation League,['Fantasy']
+36292,Apron Hero,Music,Original,1,G - All Ages,3.96,23,10193,14502,61,0,None,None,[]
+36293,Uchuu no Uta,Music,Original,1,G - All Ages,4.03,30,13141,14371,70,0,None,None,[]
+36294,Kana Kana ka na,Music,Original,1,G - All Ages,4.62,13,11314,14838,42,0,None,None,[]
+36296,Hinamatsuri,TV,Manga,12,PG-13 - Teens 13 or older,8.35,79994,196,518,172466,1560,Spring 2018,feel.,"['Comedy', 'Supernatural', 'Sci-Fi', 'Slice of Life', 'Seinen']"
+36297,Hachigatsu no Cinderella Nine (PV),ONA,Game,1,G - All Ages,5.48,110,8838,10561,383,0,None,A-1 Pictures,"['Music', 'Sports']"
+36298,Robot Girls Z: Fukkatsu no Chika Teikoku!? Robot Girls Z vs. Nazo no Sandai Shuyaku Robo!,Special,Original,1,PG-13 - Teens 13 or older,5.21,28,12464,10364,425,0,None,Directions,"['Comedy', 'Parody', 'Mecha']"
+36299,Oniichan ni Natchatta,Music,Original,1,G - All Ages,3.23,13,12186,14828,43,0,None,None,[]
+36300,Oniichan Zurui,Music,Original,1,G - All Ages,3.6,15,12187,14759,46,0,None,None,[]
+36301,Oyama no Taishou,Music,Original,1,G - All Ages,3.57,14,12256,14760,46,0,None,None,[]
+36302,Candy no Yume,Music,Original,1,G - All Ages,4.12,33,10350,14239,76,0,None,None,[]
+36305,Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai - Kinyoubi no Ohayou,Special,Music,1,PG - Children,7.11,1683,3230,4759,6170,13,None,None,[]
+36309,Butlers: Chitose Momotose Monogatari,TV,Original,12,PG-13 - Teens 13 or older,5.74,2731,8293,3137,16316,41,Spring 2018,Silver Link.,"['Comedy', 'School', 'Supernatural']"
+36310,Gomen ne Chitchi,OVA,Original,1,G - All Ages,2.8,5,10816,14899,36,0,None,None,[]
+36312,Nyanpara no Nakama-tachi,OVA,Original,1,G - All Ages,4.0,3,12107,14882,38,0,None,None,[]
+36313,Shouka Robo Zeres: Fire Dragon wo Taose!,OVA,Original,1,G - All Ages,5.5,4,12699,14809,46,0,None,None,[]
+36314,Honou no Senshi: Firegirl,OVA,Original,1,G - All Ages,5.0,4,11045,14889,38,0,None,None,[]
+36316,Shichisei no Subaru,TV,Light novel,12,PG-13 - Teens 13 or older,6.26,17202,6766,1488,57909,111,Summer 2018,Lerche,"['Action', 'Fantasy', 'Game', 'Sci-Fi']"
+36317,Gaikotsu Shotenin Honda-san,TV,Web manga,12,PG-13 - Teens 13 or older,7.18,6022,2918,2007,36961,85,Fall 2018,DLE,"['Slice of Life', 'Comedy']"
+36318,Quanzhi Fashi 2nd Season,ONA,Novel,12,PG-13 - Teens 13 or older,6.66,9442,5059,2802,20592,41,None,None,[]
+36322,Shippai Ippai mo Ikkai,OVA,Original,1,G - All Ages,5.4,5,12670,14808,44,0,None,None,[]
+36323,Kimari no Nai Kuni,OVA,Original,1,G - All Ages,4.0,3,11423,14902,36,0,None,None,[]
+36324,Nijiiro no Fushigina Ishi,OVA,Original,1,G - All Ages,5.5,2,12032,14932,34,0,None,None,[]
+36327,Fate/Apocrypha: Seihai Daisen Kaimaku-hen,Special,Light novel,1,R - 17+ (violence & profanity),6.39,1521,6200,4371,7626,6,None,A-1 Pictures,"['Action', 'Historical', 'Supernatural', 'Drama', 'Magic', 'Fantasy']"
+36339,Nissin no Donbei x Kemono Friends,ONA,Original,1,G - All Ages,6.27,600,6731,7341,1913,2,None,None,[]
+36342,Full Metal Panic! Movie 1,Movie,Light novel,1,R - 17+ (violence & profanity),0.0,0,0,0,0,3,None,Gonzo,"['Action', 'Comedy', 'Mecha', 'Military', 'Sci-Fi']"
+36343,Full Metal Panic! Movie 2,Movie,Light novel,1,R - 17+ (violence & profanity),0.0,0,0,0,0,2,None,None,[]
+36344,Full Metal Panic! Movie 3,Movie,Light novel,1,R - 17+ (violence & profanity),0.0,0,0,0,0,2,None,None,[]
+36345,AOTU Shijie 2,ONA,Web manga,20,PG-13 - Teens 13 or older,6.45,22,10189,11694,220,0,None,None,[]
+36347,Gomennasai,Music,Original,1,G - All Ages,4.52,21,10819,14646,52,0,None,None,[]
+36348,Cat's Eye Love,Music,Original,1,G - All Ages,3.58,26,10361,14572,56,0,None,None,[]
+36349,Gum Shaara,Music,Original,1,G - All Ages,3.12,17,10840,14776,45,0,None,Three-d,"['Music', 'Kids']"
+36350,Kuma no Nuigurumi,Music,Original,1,G - All Ages,5.0,23,11551,14577,56,0,None,None,[]
+36351,Kotatsu Musume de Teketekete,Music,Original,1,G - All Ages,3.35,17,11530,14783,45,0,None,None,[]
+36352,Gomen yo! Wanwan,Music,Original,1,G - All Ages,4.06,16,10818,14748,46,0,None,None,[]
+36353,Sabishi Gariya-san Konnichiwa,Music,Original,1,G - All Ages,3.69,13,12499,14830,44,0,None,None,[]
+36354,Saraba Seishun,Music,Original,1,G - All Ages,4.31,13,12539,14806,45,0,None,None,[]
+36355,Snowdrop,Music,Original,1,G - All Ages,4.69,13,12731,14832,43,0,None,None,[]
+36356,Tanoshii ne,Music,Original,1,G - All Ages,3.63,16,12943,14722,48,0,None,None,[]
+36357,Chibikko Cowboy,Music,Original,1,G - All Ages,2.94,16,10398,14674,51,0,None,None,[]
+36358,Tsubiregg Tsuburegg March,Music,Original,1,G - All Ages,3.36,14,13091,14813,44,0,None,None,[]
+36359,TV ga Kita hi,Music,Original,1,G - All Ages,3.0,19,13123,14767,46,0,None,None,[]
+36360,Hasami Togi,Music,Original,1,G - All Ages,4.13,15,10910,14729,47,0,None,None,[]
+36361,Bubble Bath,Music,Original,1,G - All Ages,4.21,24,10328,14541,59,0,None,None,[]
+36362,Hamburger no Tsukurikata,Music,Original,1,G - All Ages,4.05,21,10867,14660,51,0,None,None,[]
+36368,Katasumi no Uroko,ONA,Original,1,G - All Ages,6.52,51,5684,12670,155,0,None,None,[]
+36369,Ginga Eiyuu Densetsu: Die Neue These - Seiran 1,Movie,Novel,1,None,0.0,0,0,5309,4678,3,None,Production I.G,"['Action', 'Drama', 'Military', 'Sci-Fi', 'Space']"
+36370,Ginga Eiyuu Densetsu: Die Neue These - Seiran 2,Movie,Novel,1,None,0.0,0,0,6460,2852,3,None,Production I.G,"['Action', 'Drama', 'Military', 'Sci-Fi', 'Space']"
+36372,Hiromi,Music,Original,1,G - All Ages,4.88,17,11019,14730,47,0,None,None,[]
+36373,Pink Jumon,Music,Original,1,G - All Ages,5.2,20,12336,14651,52,0,None,None,[]
+36374,Flamingo Waltz,Music,Original,1,G - All Ages,4.12,17,10658,14695,49,0,None,None,[]
+36375,Furusato no Nai Aki,Music,Original,1,G - All Ages,4.67,15,10688,14747,46,0,None,None,[]
+36376,Hedler no Yama,Music,Original,1,G - All Ages,4.47,15,10930,14749,46,0,None,None,[]
+36377,Bokunchi no Chabo,Music,Original,1,G - All Ages,3.21,24,10309,14503,61,0,None,None,[]
+36380,Power Powan,Music,Original,1,G - All Ages,5.0,6,12391,14883,38,0,None,None,[]
+36381,Ponta Monogatari,Music,Original,1,G - All Ages,3.72,18,12369,14666,51,0,None,None,[]
+36382,Mama Gomennasai,Music,Original,1,G - All Ages,3.24,17,11700,14720,48,0,None,None,[]
+36384,Mama no Kekkon,Music,Original,1,G - All Ages,3.73,15,11702,14862,40,0,None,None,[]
+36385,Minna no Umi,Music,Original,1,G - All Ages,3.77,13,11837,14863,40,0,None,None,[]
+36387,Yasashii Kaze,Music,Original,1,G - All Ages,4.15,13,13336,14672,52,0,None,None,[]
+36388,Yasashi-sa no Tamatebako,Music,Original,1,G - All Ages,3.73,15,13335,14711,49,0,None,None,[]
+36389,Yukai na Mezamashi Tokei,Music,Original,1,G - All Ages,3.36,14,13380,14771,46,0,None,None,[]
+36390,Reset,Music,Original,1,G - All Ages,4.36,11,12444,14805,44,0,None,None,[]
+36391,Lu La La,Music,Original,1,G - All Ages,3.42,19,11647,14650,53,0,None,None,[]
+36392,Waga Na wa Cowboy,Music,Original,1,G - All Ages,4.16,19,13204,14639,53,0,None,None,[]
+36393,One Nyan Monogatari,Music,Original,1,G - All Ages,4.25,12,12177,14839,42,0,None,None,[]
+36394,Wonderful World: Ganmen Shintaisou,Music,Original,1,G - All Ages,3.86,14,13263,14792,45,0,None,None,[]
+36395,Ichiendama no Tabigarasu,Music,Original,1,G - All Ages,4.58,33,11104,14333,73,0,None,None,[]
+36396,Ima demo Senchou to Yobarete iru Senchou no Yoru,Music,Original,1,G - All Ages,3.33,12,11128,14820,43,0,None,None,[]
+36397,Shiyan Pin Jiating,ONA,Web manga,12,PG-13 - Teens 13 or older,6.44,4303,6011,2363,27912,31,None,None,[]
+36400,Koinu no Blue,Music,Original,1,G - All Ages,4.41,22,11499,14663,51,0,None,None,[]
+36401,Kozou no Koushin,Music,Original,1,G - All Ages,4.37,19,11541,14701,49,0,None,None,[]
+36402,Chiisana Tegami,Music,Original,1,G - All Ages,3.84,19,10422,14528,60,0,None,None,[]
+36403,Kawa wa Dare no Mono?,Music,Original,1,G - All Ages,4.94,36,11348,14188,79,0,None,None,[]
+36404,"Attakai, Fuyu Canada",ONA,Original,1,G - All Ages,6.41,193,6110,10074,482,1,None,None,[]
+36407,Kenja no Mago,TV,Light novel,0,PG-13 - Teens 13 or older,0.0,1,0,4024,9350,37,Spring 2019,Silver Link.,"['Action', 'Comedy', 'Fantasy', 'Magic']"
+36409,Yodel no Onna,TV,Original,0,G - All Ages,5.59,78,8628,9728,577,2,Fall 2017,DLE,"['Music', 'Comedy']"
+36410,Littleforestmello,ONA,Original,0,G - All Ages,5.25,12,11638,12184,183,0,None,None,[]
+36411,Mushinin,ONA,Game,0,G - All Ages,6.09,11,11919,13956,91,0,None,None,[]
+36418,Koneko no Chi: Ponponra Dairyokou,TV,Original,25,G - All Ages,6.51,207,5720,8184,1296,1,Spring 2018,Marza Animation Planet,['Slice of Life']
+36419,Katsugeki/Touken Ranbu Movie,Movie,Card game,1,None,0.0,0,0,5261,4792,7,None,None,[]
+36423,Zhandou Wang Zhi Jufeng Zhan Hun,TV,Original,52,PG - Children,6.26,23,13433,13326,123,0,Summer 2012,None,[]
+36424,Princess Principal: Ange Report,ONA,Original,1,R - 17+ (violence & profanity),6.59,645,5379,5447,4366,2,None,Actas,"['Action', 'Mystery']"
+36425,Zhandou Wang Zhi Jufeng Zhan Hun 2,TV,Original,40,PG - Children,5.94,16,13434,14079,86,0,Fall 2013,None,[]
+36427,Zhandou Wang Zhi Jufeng Zhan Hun 3,TV,Original,40,PG - Children,5.33,18,13435,13900,95,0,Fall 2015,None,[]
+36428,Zhan Guo FAN,ONA,Original,15,R - 17+ (violence & profanity),5.65,17,13430,10038,495,1,None,2:10 Animation,"['Super Power', 'Magic', 'Martial Arts', 'Fantasy']"
+36429,Zhen Gyi Hong Shi,TV,Unknown,52,None,6.18,11,13436,12071,191,1,Fall 2014,None,[]
+36431,One Room 2nd Season,TV,Original,12,PG-13 - Teens 13 or older,6.32,5542,6523,3006,17904,17,Summer 2018,Zero-G,['Slice of Life']
+36432,Toaru Majutsu no Index III,TV,Light novel,26,PG-13 - Teens 13 or older,7.59,8192,1411,1143,78876,389,Fall 2018,J.C.Staff,"['Action', 'Magic', 'Sci-Fi', 'Super Power']"
+36436,Mobile Suit Gundam: Twilight Axis - Akaki Zan-ei,Movie,Novel,1,PG-13 - Teens 13 or older,6.15,149,7185,7662,1647,0,None,Sunrise,"['Action', 'Military', 'Sci-Fi', 'Space', 'Mecha']"
+36439,Sword Art Online Movie: Ordinal Scale - Sword Art Offline,Special,Light novel,1,PG-13 - Teens 13 or older,7.16,3060,3032,4273,8084,33,None,None,[]
+36440,Ku Pao Ying Xiong,TV,Game,26,None,5.98,198,7705,6702,2562,6,Fall 2017,G.CMay Animation & Film,"['Action', 'Adventure', 'Fantasy', 'Game', 'Magic']"
+36444,Touken Ranbu: Hanamaru - Makuai Kaisouroku,Movie,Card game,1,PG-13 - Teens 13 or older,6.65,166,5114,5835,3710,9,None,Doga Kobo,"['Action', 'Slice of Life', 'Comedy', 'Historical', 'Drama', 'Fantasy']"
+36447,Lord of Vermilion IV,ONA,Game,0,G - All Ages,5.58,50,8637,9773,565,0,None,None,[]
+36451,Still,Music,Original,1,PG-13 - Teens 13 or older,5.92,218,7861,10348,427,0,None,None,[]
+36455,Wo De Tian Jie Nv You,ONA,Web manga,15,PG-13 - Teens 13 or older,6.8,2057,4421,4465,7195,34,None,None,[]
+36456,Boku no Hero Academia 3rd Season,TV,Manga,25,PG-13 - Teens 13 or older,8.7,218503,46,98,485247,7438,Spring 2018,Bones,"['Action', 'Comedy', 'School', 'Shounen', 'Super Power']"
+36458,Soukou Musume,TV,Game,0,None,0.0,0,0,9190,779,0,None,None,[]
+36466,Digimon Adventure tri. 6: Bokura no Mirai,Movie,Original,1,PG-13 - Teens 13 or older,7.32,8420,2352,2849,19901,89,None,Toei Animation,"['Action', 'Adventure', 'Comedy', 'Drama']"
+36468,Shoujo Shuumatsu Jugyou,ONA,Manga,12,G - All Ages,6.51,2337,5735,4876,5835,5,None,Studio PuYUKAI,"['Comedy', 'Parody', 'School']"
+36470,Tada-kun wa Koi wo Shinai,TV,Original,13,PG-13 - Teens 13 or older,7.6,40343,1379,865,109263,447,Spring 2018,Doga Kobo,"['Comedy', 'Romance', 'Slice of Life']"
+36473,Love Live! Sunshine!! Recap,Special,Original,1,PG-13 - Teens 13 or older,6.97,803,3740,6605,2666,5,None,Sunrise,['Music']
+36474,Sword Art Online: Alicization,TV,Light novel,0,PG-13 - Teens 13 or older,8.14,35927,392,396,212482,2071,Fall 2018,A-1 Pictures,"['Action', 'Adventure', 'Fantasy', 'Game', 'Romance']"
+36475,Sword Art Online Alternative: Gun Gale Online,TV,Light novel,12,PG-13 - Teens 13 or older,7.32,83926,2376,387,214084,738,Spring 2018,Studio 3Hz,"['Action', 'Fantasy', 'Game', 'Military', 'Sci-Fi']"
+36480,Drifters (OVA),OVA,Manga,2,R - 17+ (violence & profanity),7.64,7395,1250,1787,44260,65,None,Hoods Drifters Studio,"['Action', 'Adventure', 'Comedy', 'Historical', 'Samurai', 'Fantasy', 'Seinen']"
+36483,B-Project: Zecchou*Emotion,TV,Music,0,PG-13 - Teens 13 or older,0.0,0,0,6215,3128,12,Winter 2019,Bandai Namco Pictures,"['Music', 'Shoujo']"
+36485,Princess Principal Picture Drama,Special,Original,6,PG-13 - Teens 13 or older,6.39,1084,6219,5471,4323,4,None,None,[]
+36486,Lalala Lala-chan ★Uchuu ni Muchuu★,TV,Other,12,PG - Children,5.73,11,11601,13572,110,0,Fall 2017,Usagi Ou,"['Adventure', 'Kids', 'Fantasy']"
+36489,Beachside Lover,Music,Original,1,R+ - Mild Nudity,3.94,49,10270,14265,75,0,None,None,[]
+36491,Doupo Cangqiong,ONA,Novel,12,PG-13 - Teens 13 or older,7.49,755,1682,7365,1900,16,None,Shanghai Foch Film Culture Investment,"['Action', 'Adventure', 'Comedy', 'Supernatural', 'Romance']"
+36493,Esoragoto Spiral,Music,Music,1,PG-13 - Teens 13 or older,6.21,231,6938,9058,833,0,None,None,[]
+36498,Arslan Senki (TV): Fuujin Ranbu - 4-koma Gekijou,Special,Manga,4,PG-13 - Teens 13 or older,6.39,308,6192,6677,2586,2,None,LIDENFILMS,['Comedy']
+36500,Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season,ONA,4-koma manga,13,PG-13 - Teens 13 or older,6.56,1004,5496,6867,2366,0,None,Gathering,['Comedy']
+36501,MahoYome Episode 0,ONA,Manga,1,G - All Ages,6.01,2000,7628,4938,5644,0,None,W-Toon Studio,['Parody']
+36502,MahoYome,ONA,Manga,24,G - All Ages,6.65,1572,5101,4847,5913,5,None,W-Toon Studio,['Parody']
+36510,Ulysses: Jehanne Darc to Renkin no Kishi,TV,Light novel,12,PG-13 - Teens 13 or older,5.79,6615,8189,1755,45245,86,Fall 2018,AXsiZ,"['Action', 'Fantasy']"
+36511,Tokyo Ghoul:re,TV,Manga,12,R - 17+ (violence & profanity),7.34,125551,2314,233,310782,2595,Spring 2018,Studio Pierrot,"['Action', 'Psychological', 'Supernatural', 'Mystery', 'Drama', 'Horror', 'Seinen']"
+36513,Rokuhoudou Yotsuiro Biyori,TV,Manga,12,PG-13 - Teens 13 or older,7.65,4971,1243,3273,15159,73,Spring 2018,Zexcs,"['Seinen', 'Slice of Life']"
+36516,Beatless,TV,Novel,20,PG-13 - Teens 13 or older,6.23,18747,6858,967,96884,307,Winter 2018,Diomedea,"['Action', 'Drama', 'Romance', 'Sci-Fi']"
+36517,Ninja Batman,Movie,Other,1,PG-13 - Teens 13 or older,6.39,8903,6216,2615,23438,41,None,Kamikaze Douga,"['Action', 'Martial Arts', 'Samurai']"
+36519,Koikishi Purely☆Kiss The Animation: Special Edition,Special,Visual novel,1,PG-13 - Teens 13 or older,6.71,162,4823,8951,887,1,None,Seven,['Romance']
+36522,Ling Qi 2,TV,Web manga,12,PG-13 - Teens 13 or older,7.6,4026,1362,3463,13428,91,Winter 2018,Haoliners Animation League,"['Action', 'Comedy', 'Magic', 'Shounen Ai', 'Supernatural']"
+36524,Dies Irae: Reimei,Special,Visual novel,1,PG-13 - Teens 13 or older,5.41,10349,8979,3076,17012,5,None,A.C.G.T.,"['Action', 'Super Power', 'Magic']"
+36525,Dorei-ku The Animation,TV,Manga,12,R - 17+ (violence & profanity),6.14,10633,7204,2038,36075,26,Spring 2018,TNK,"['Drama', 'Psychological']"
+36528,Kakyuusei (TV): Hajimemashite Tina!,Special,Visual novel,1,R+ - Mild Nudity,5.76,60,8255,11360,257,0,None,None,[]
+36530,Porong Porong Pororo 6,TV,Original,26,G - All Ages,5.0,15,12380,14368,71,0,Spring 2016,None,[]
+36531,Shinkansen Henkei Robo Shinkalion The Animation,TV,Other,0,PG - Children,6.11,283,7317,7768,1563,7,Winter 2018,OLM,"['Action', 'Kids', 'Mecha', 'Sci-Fi']"
+36536,Starmyu 3rd Season,TV,Original,0,PG-13 - Teens 13 or older,0.0,0,0,6654,2612,6,Summer 2019,None,[]
+36537,Starmyu in Halloween,OVA,Original,1,None,7.13,31,12841,7266,1986,6,None,None,[]
+36538,Natsume Yuujinchou Movie: Utsusemi ni Musubu,Movie,Manga,1,PG-13 - Teens 13 or older,8.02,244,542,3078,17023,50,None,Shuka,"['Drama', 'Fantasy', 'Shoujo', 'Slice of Life', 'Supernatural']"
+36539,Tsuki ga Kirei Special,Special,Original,1,PG-13 - Teens 13 or older,7.32,6429,2379,3409,13910,11,None,feel.,"['Comedy', 'Romance', 'School']"
+36542,Boku wa Robot-goshi no Kimi ni Koi wo Suru,Special,Novel,1,PG-13 - Teens 13 or older,6.46,425,5899,7041,2197,5,None,A-1 Pictures,"['Sci-Fi', 'Romance']"
+36543,GJ8man: Dai 1-bu - Soushuuhen,ONA,Original,0,G - All Ages,5.06,18,10789,13667,104,0,None,None,[]
+36544,Heibai Wushang 2nd Season,ONA,Manga,12,PG-13 - Teens 13 or older,6.66,143,5048,9381,704,2,None,None,[]
+36548,Kokkoku,TV,Manga,12,R - 17+ (violence & profanity),7.17,36141,2967,940,100086,171,Winter 2018,Geno Studio,"['Psychological', 'Supernatural', 'Drama', 'Mystery', 'Seinen']"
+36550,Lalala Lala-chan Mini,ONA,Original,24,G - All Ages,4.0,14,11602,14415,68,0,None,Usagi Ou,"['Kids', 'Parody']"
+36551,Lalala Lala-chan: Patapata Daisensou,TV,Original,12,G - All Ages,4.85,13,11603,14227,78,0,Fall 2016,Usagi Ou,"['Adventure', 'Fantasy', 'Kids']"
+36552,Pikachin-Kit,TV,Original,0,None,4.67,12,12332,12348,173,1,Winter 2018,OLM,"['Comedy', 'Kids', 'Sci-Fi']"
+36553,Nissin Cup Noodles China x Gintama,ONA,Manga,3,G - All Ages,7.16,978,3021,5944,3533,9,None,None,[]
+36556,Peace Maker Kurogane Movie 2: Yuumei,Movie,Manga,1,R - 17+ (violence & profanity),6.27,11,12298,8017,1403,3,None,White Fox,"['Action', 'Comedy', 'Historical', 'Samurai', 'Shounen']"
+36561,Doupo Cangqiong Specials,ONA,Novel,2,PG-13 - Teens 13 or older,7.38,319,2128,9520,653,3,None,None,[]
+36563,Megalo Box,TV,Original,13,R - 17+ (violence & profanity),8.09,79157,453,504,175373,1053,Spring 2018,TMS Entertainment,"['Action', 'Sci-Fi', 'Slice of Life', 'Sports', 'Drama']"
+36564,Kamiusagi Rope x Boruto: Naruto Next Generations,ONA,Other,1,G - All Ages,5.79,523,8179,6451,2863,10,None,None,[]
+36565,Major 2nd,TV,Manga,25,PG-13 - Teens 13 or older,7.68,4217,1157,3489,13115,52,Spring 2018,OLM,"['Comedy', 'Sports', 'Drama', 'Shounen']"
+36566,Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan,Movie,Manga,1,G - All Ages,6.69,50,4894,9594,625,2,None,Shin-Ei Animation,"['Comedy', 'Seinen']"
+36569,Nanatsu no Taizai: Tsumi no Kokuhaku Dennou Grimoire!,ONA,Other,10,PG-13 - Teens 13 or older,6.27,302,6726,6377,2944,3,None,KIZAWA Studio,"['Comedy', 'Parody']"
+36571,Nanocore 3rd Season,ONA,Original,20,PG-13 - Teens 13 or older,7.06,18,11970,12358,172,0,None,Coastline Animation Studio,"['Action', 'Sci-Fi', 'Adventure', 'Mecha', 'Shounen']"
+36572,Neko Neko Gong Show,ONA,Original,6,G - All Ages,5.38,13,11992,14513,61,0,None,dwarf,['Kids']
+36573,dwarf Movie Lab,ONA,Other,13,G - All Ages,3.93,29,10602,13831,97,0,None,dwarf,['Kids']
+36574,Weaving,ONA,Original,1,G - All Ages,4.6,40,13247,13455,116,0,None,dwarf,['Fantasy']
+36575,"PLUG, THe NeW WORLD",ONA,Original,1,G - All Ages,5.03,40,12349,13642,106,0,None,dwarf,['Fantasy']
+36579,Fettu to Ccine to Gummi Seijin,ONA,Original,1,PG - Children,3.0,16,10652,14552,58,0,None,Pops Inc.,['Comedy']
+36580,Boku wa Shitteru yo.,ONA,Original,1,G - All Ages,4.38,32,10307,13772,99,0,None,Pops Inc.,['Slice of Life']
+36581,Peace Shitenchou,ONA,Other,5,G - All Ages,4.93,15,12299,14620,54,0,None,Pops Inc.,['Comedy']
+36582,Life: Jinsei no Taisetsu na Toki ni...,ONA,Original,1,G - All Ages,5.07,30,11622,14294,74,0,None,dwarf,['Slice of Life']
+36583,Nishio no Yatsuzou,Special,Original,1,G - All Ages,3.4,15,12061,14685,51,0,None,None,[]
+36584,Ki de Tsukurou,ONA,Original,1,G - All Ages,4.13,30,11402,14114,83,0,None,None,[]
+36585,Sougou Medical Koushiki,ONA,Original,2,G - All Ages,5.92,26,12821,14199,79,0,None,Pops Inc.,['Drama']
+36586,Kinyoubi no Yakusoku,ONA,Original,1,G - All Ages,5.52,27,11445,13858,96,0,None,Pops Inc.,['Drama']
+36587,Granblue Fantasy The Animation 2,TV,Game,0,PG-13 - Teens 13 or older,0.0,0,0,4253,8153,5,None,None,[]
+36588,Luo Xiao Hei Zhan Ji: Fan Wai,ONA,Original,0,G - All Ages,7.67,6,11653,14094,85,1,None,None,[]
+36591,Kero Kero Keroppi no Bokura no Ohimesama,OVA,Unknown,1,G - All Ages,5.33,12,11385,14682,50,0,None,None,[]
+36593,Hug tto! Precure,TV,Original,0,G - All Ages,7.6,1027,1360,4718,6299,61,Winter 2018,Toei Animation,"['Action', 'Fantasy', 'Magic', 'Shoujo']"
+36594,Brilliant Better,Music,Original,1,G - All Ages,5.47,222,8858,10392,415,1,None,None,[]
+36595,Fortissimo Bell,Music,Original,1,G - All Ages,5.18,179,9348,10939,314,0,None,None,[]
+36596,Watashi no Naka no Gensou-teki Sekaikan Oyobi Sono Kengen wo Souki Saseta Aru Genjitsu de no Dekigot,Music,Original,1,G - All Ages,5.41,169,8996,10867,329,0,None,None,[]
+36597,Detarame Rock & Roll Theory,Music,Original,1,G - All Ages,5.28,181,9189,10873,325,0,None,None,[]
+36598,Heart Beat,Music,Original,1,G - All Ages,5.43,170,8945,10999,305,0,None,None,[]
+36599,Muteki We Are One!!,Music,Original,1,G - All Ages,5.43,171,8947,10935,315,0,None,None,[]
+36600,Dokidoki Dream!!!,Music,Original,1,G - All Ages,5.6,173,8599,10916,318,0,None,None,[]
+36601,Moushin Soloist Life!,Music,Original,1,G - All Ages,5.16,160,9385,11163,282,0,None,None,[]
+36602,My Dearest Song,Music,Original,1,G - All Ages,5.42,168,8970,11050,297,0,None,None,[]
+36603,Neko Matsuri,Music,Original,1,G - All Ages,5.84,186,8064,10608,371,1,None,None,[]
+36604,Bang Babang Bang!!!,Music,Original,1,G - All Ages,5.22,205,9288,10245,447,0,None,None,[]
+36605,Tic Tac Dreamin',Music,Original,1,G - All Ages,5.26,177,9231,10799,340,0,None,None,[]
+36606,Trust,Music,Original,1,G - All Ages,5.45,205,8912,10155,467,0,None,None,[]
+36607,Spicy Swingy Style,Music,Original,1,G - All Ages,5.3,177,9167,10721,352,3,None,None,[]
+36613,Biju Tune!,Music,Original,0,G - All Ages,4.71,14,10282,14570,56,0,None,None,[]
+36616,Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha,Special,Web manga,1,PG-13 - Teens 13 or older,7.32,8673,2364,2313,28976,36,None,Bones,"['Action', 'Slice of Life', 'Comedy', 'Supernatural']"
+36618,Flowering Heart 2,TV,Original,26,G - All Ages,5.67,24,10660,11764,214,4,Spring 2017,None,[]
+36619,Shi Wan Ge Leng Xiao Hua 2 (movie),Movie,Web manga,1,PG-13 - Teens 13 or older,0.0,0,0,0,0,0,None,L²Studio,"['Action', 'Adventure', 'Comedy', 'Parody', 'Romance', 'Sci-Fi', 'Space', 'Supernatural', 'Thriller']"
+36621,Toilet no Kuni,ONA,Original,1,G - All Ages,3.58,38,13039,13919,93,0,None,None,[]
+36623,SNS Police,ONA,Web manga,24,G - All Ages,5.53,17,12732,11666,223,1,None,None,[]
+36625,Ajin 2nd Season OVA,OVA,Unknown,1,None,0.0,0,0,0,0,0,None,None,[]
+36626,Yakiniku-ten Sengoku,ONA,Web manga,12,PG-13 - Teens 13 or older,5.35,23,13316,11865,208,0,None,None,[]
+36631,PANDORA VOXX complete,Music,Music,9,None,0.0,0,0,0,0,0,None,None,[]
+36632,Ore ga Suki nano wa Imouto dakedo Imouto ja Nai,TV,Light novel,10,PG-13 - Teens 13 or older,5.15,7968,9398,1794,43984,141,Fall 2018,NAZ,"['Comedy', 'Romance', 'Ecchi']"
+36633,Date A Live Ⅲ,TV,Light novel,0,R - 17+ (violence & profanity),0.0,0,0,1718,46495,311,Winter 2019,J.C.Staff,"['Sci-Fi', 'Harem', 'Comedy', 'Romance', 'Mecha', 'School']"
+36636,Ankoku Cat VS,ONA,Original,3,G - All Ages,4.8,45,10172,12814,147,0,None,Fanworks,"['Action', 'Comedy']"
+36637,Akashic Re:cords,ONA,Game,1,G - All Ages,6.45,170,5934,9510,655,2,None,None,[]
+36638,Tenkyuu no Arculs,ONA,Game,1,G - All Ages,4.48,25,12979,14200,79,0,None,None,[]
+36640,Mashiro Witch,ONA,Game,1,PG-13 - Teens 13 or older,5.52,27,11744,14273,76,0,None,None,[]
+36642,Kakusansei Million Arthur,ONA,Card game,1,G - All Ages,5.35,101,9083,11028,304,0,None,None,[]
+36643,Kairisei Million Arthur,ONA,Card game,1,G - All Ages,5.41,81,8982,11372,256,1,None,None,[]
+36644,Shaonian Jinyiwei,ONA,Original,13,PG-13 - Teens 13 or older,6.48,40,12595,11462,244,2,None,Boyan Pictures,"['Adventure', 'Mystery', 'Historical', 'Romance', 'Martial Arts', 'Shounen']"
+36646,Daitai 3-bu de Wakaru .hack History,ONA,Other,1,G - All Ages,6.16,159,7131,9323,728,0,None,None,[]
+36649,Banana Fish,TV,Manga,24,R - 17+ (violence & profanity),8.08,18080,460,970,96616,1459,Summer 2018,MAPPA,"['Action', 'Adventure', 'Drama', 'Shoujo']"
+36652,Piano no Mori (TV),TV,Manga,12,PG-13 - Teens 13 or older,7.42,9914,1967,1926,39156,72,Spring 2018,Gaina,"['Adventure', 'Music', 'Comedy', 'Drama', 'School', 'Seinen']"
+36653,Tsurune: Kazemai Koukou Kyuudoubu,TV,Light novel,0,PG-13 - Teens 13 or older,7.47,4223,1773,2206,31550,81,Fall 2018,Kyoto Animation,"['Drama', 'School', 'Sports']"
+36654,Tsukumogami Kashimasu,TV,Novel,12,PG-13 - Teens 13 or older,6.72,1982,4796,4036,9253,5,Summer 2018,Telecom Animation Film,"['Slice of Life', 'Comedy', 'Historical', 'Demons', 'Supernatural']"
+36655,Souten no Ken: Regenesis,ONA,Manga,12,R - 17+ (violence & profanity),5.7,1449,8405,4326,7847,17,None,Polygon Pictures,"['Action', 'Historical', 'Martial Arts']"
+36656,Stone Age Episode 0,Special,Game,1,G - All Ages,3.6,5,12846,14517,61,0,None,None,[]
+36657,Stone Age,TV,Game,26,G - All Ages,5.25,8,12845,14178,80,0,Summer 2017,None,[]
+36661,Dahufa,Movie,Original,1,PG-13 - Teens 13 or older,6.21,19,10511,12550,160,0,None,Nice Boat Animation,"['Action', 'Adventure', 'Fantasy']"
+36662,Naki no Ryuu: Hiryuu no Shou (1991),OVA,Manga,1,PG-13 - Teens 13 or older,5.33,6,11943,13717,103,0,None,None,[]
+36664,Matsumotokiyoshi x Osomatsu-san,ONA,Manga,9,G - All Ages,5.82,51,8115,8443,1146,1,None,None,[]
+36666,An Ling Yu Shi Di Qi,TV,Original,13,G - All Ages,6.3,37,10155,10775,344,0,Spring 2017,None,[]
+36667,Machibouke (2017),Music,Music,1,G - All Ages,3.56,25,11662,14495,62,0,None,None,[]
+36668,Senro wa Tsudzuku yo Dokomademo,Music,Music,1,G - All Ages,3.54,26,12581,14388,69,0,None,None,[]
+36669,Yadokari,ONA,Original,1,G - All Ages,4.15,39,13311,14078,85,0,None,None,[]
+36670,Hatoya,ONA,Other,1,G - All Ages,4.37,35,10920,14130,82,0,None,None,[]
+36671,Hayashi-fusai,Special,Original,1,G - All Ages,4.21,29,10925,14316,73,0,None,None,[]
+36672,Wanna Be a Tuna,Music,Music,1,G - All Ages,5.02,44,13216,14017,88,0,None,None,[]
+36673,Nakano Harada Kekkon Kyousoukyoku,Special,Original,1,G - All Ages,3.84,25,11942,14431,66,0,None,None,[]
+36674,Shukka Fuufu,Special,Original,1,G - All Ages,4.24,25,12715,14422,67,0,None,None,[]
+36675,Hendo Garden,Special,Original,1,G - All Ages,3.77,26,10970,14411,67,0,None,None,[]
+36676,Naga Hamaraja,Special,Original,1,G - All Ages,3.96,25,11934,14617,54,0,None,None,[]
+36677,Shishido Journey,Special,Original,1,G - All Ages,4.14,22,12687,14223,78,0,None,None,[]
+36680,Sayonara Nyuunanzai,Music,Original,1,G - All Ages,3.96,28,12553,14435,66,0,None,None,[]
+36683,Overlord Movie: Manner Movie,Special,Unknown,1,G - All Ages,6.86,1658,4149,4063,9092,7,None,Madhouse,['Comedy']
+36684,Shining☆Romance,Music,Visual novel,1,G - All Ages,6.88,235,4081,9731,578,4,None,None,[]
+36685,Force Live,Music,Visual novel,1,G - All Ages,6.87,306,4098,8601,1061,5,None,None,[]
+36686,Hifuu Katsudou Kiroku: The Sealed Esoteric History,OVA,Game,0,PG-13 - Teens 13 or older,7.63,219,1284,6706,2552,14,None,None,[]
+36688,Shinmai Maou no Testament Departures,OVA,Light novel,1,R+ - Mild Nudity,7.09,9298,3301,2279,29689,84,None,Production IMS,"['Action', 'Ecchi', 'Fantasy', 'Romance', 'Harem', 'Demons']"
+36689,Kyonyuu Dosukebe Gakuen,OVA,Visual novel,2,Rx - Hentai,6.57,253,0,7744,1612,7,None,None,[]
+36692,Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear,Special,Original,4,PG-13 - Teens 13 or older,7.06,329,3415,7913,1460,3,None,Satelight,"['Sci-Fi', 'Music', 'Slice of Life', 'Comedy']"
+36699,Kimitachi wa Dou Ikiru ka,Movie,Original,1,None,0.0,0,0,9290,739,0,None,None,[]
+36700,Yumearu Ugoku Ehon,ONA,Other,0,G - All Ages,3.1,10,13399,14425,67,0,None,None,[]
+36702,Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou,Movie,Manga,1,R - 17+ (violence & profanity),7.82,2462,863,2466,25952,54,None,Wit Studio,"['Action', 'Drama', 'Fantasy', 'Shounen', 'Super Power']"
+36704,Free!: Dive to the Future,TV,Original,12,PG-13 - Teens 13 or older,7.69,12508,1124,1669,48619,214,Summer 2018,Kyoto Animation,"['Comedy', 'Drama', 'School', 'Slice of Life', 'Sports']"
+36705,Yuuwaku★Office Lover 2,ONA,Visual novel,10,None,5.35,20,13414,9299,738,4,None,None,[]
+36712,Mighty Thor: Battle Royale,ONA,Other,1,G - All Ages,3.8,49,11803,12599,158,0,None,None,[]
+36714,Hashire! Osomatsu-san,Special,Other,3,PG-13 - Teens 13 or older,6.14,148,7207,8883,915,2,None,None,[]
+36715,Ponkotsu Quest x Digimon Story: Cyber Sleuth - Hacker's Memory,ONA,Other,1,G - All Ages,5.75,53,8283,11296,263,0,None,None,[]
+36716,Boku wa Mada 7-sai Datta,Music,Music,1,G - All Ages,6.09,69,7364,13377,119,1,None,pH Studio,['Music']
+36718,Yakan Gakkou no Ura-sensei,ONA,Web manga,1,G - All Ages,3.67,39,13314,13745,101,0,None,None,[]
+36719,Pastel Kazoku,ONA,Web manga,1,G - All Ages,3.94,34,12291,13972,91,0,None,None,[]
+36720,Youkoso! Sukebe Elf no Mori e,OVA,Visual novel,0,Rx - Hentai,7.64,1588,0,5010,5432,74,None,T-Rex,"['Fantasy', 'Harem', 'Hentai', 'Supernatural']"
+36722,Shen Qi Huan Qi Tan,ONA,Manga,24,PG-13 - Teens 13 or older,7.14,22,12600,7277,1973,5,None,Mili Pictures,"['Action', 'Adventure', 'Fantasy', 'Magic', 'Mystery', 'School', 'Supernatural']"
+36724,Felix x Kamiusagi Rope,ONA,Original,0,G - All Ages,5.69,13,10646,13075,134,0,None,None,[]
+36725,Naisho no Hanashi,Music,Music,1,G - All Ages,6.44,1061,5997,6275,3076,1,None,None,[]
+36726,Yuragi-sou no Yuuna-san,TV,Manga,12,PG-13 - Teens 13 or older,7.22,23100,2778,1126,80771,288,Summer 2018,Xebec,"['Harem', 'Comedy', 'Supernatural', 'Romance', 'Ecchi', 'Shounen']"
+36727,Shimajirou Movie: Mahou no Shima no Daibouken,Movie,Original,1,G - All Ages,5.36,11,12625,13933,94,0,None,The Answer Studio,['Kids']
+36728,Mameneko,TV,Manga,12,PG - Children,5.97,143,7730,8911,899,0,Winter 2018,Charaction,['Slice of Life']
+36729,Fate/Apocrypha: Seihai Taisen Douran-hen,Special,Light novel,1,R - 17+ (violence & profanity),6.46,1196,5908,4714,6317,9,None,A-1 Pictures,"['Action', 'Drama', 'Fantasy', 'Historical', 'Magic', 'Supernatural']"
+36731,Drive Agent Personal: Shiawase wo Mamoru Mono,ONA,Original,1,G - All Ages,5.09,44,10597,12820,148,0,None,None,[]
+36732,Qin Shi Ming Yue: Tian Xing Jiu Ge,ONA,Original,60,PG-13 - Teens 13 or older,7.52,33,12423,10577,378,3,None,Sparkly Key Animation Studio,"['Action', 'Fantasy', 'Historical', 'Martial Arts']"
+36734,(a long day of) Mr. Calpaccio,Movie,Original,1,G - All Ages,3.89,19,10099,14525,60,0,None,None,[]
+36735,Capsule Samurai,TV,Original,40,G - All Ages,4.69,16,10352,14427,67,0,None,None,[]
+36736,Shikato,TV,Original,135,G - All Ages,6.8,5,12619,14601,56,2,None,None,[]
+36737,Real Eroge Situation! The Animation,OVA,Visual novel,0,Rx - Hentai,7.63,859,0,6123,3260,19,None,Seven,['Hentai']
+36740,Dragon Egg,TV,Original,0,G - All Ages,3.4,5,10595,13268,124,0,Fall 2017,None,[]
+36742,Koisuru Shirokuma Tokubetsu-ban,ONA,Manga,0,G - All Ages,6.8,66,4397,9863,541,1,None,None,[]
+36743,Genki-kun no Christmas @ Tokyo-eki,ONA,Original,1,G - All Ages,5.1,62,9455,13214,127,0,None,None,[]
+36745,1/100 Rice Planting,ONA,Original,1,G - All Ages,4.92,143,9633,11509,237,0,None,None,[]
+36746,1/100 Shibuya Crossing,ONA,Original,1,G - All Ages,5.19,136,9331,11482,239,0,None,None,[]
+36747,1/100 Train Station,ONA,Original,1,G - All Ages,5.26,149,9218,11242,268,0,None,None,[]
+36748,Aurora wo Mita Kyouryuu-tachi,Movie,Original,1,G - All Ages,5.0,9,10230,14608,54,0,None,pH Studio,['Adventure']
+36749,Hiragana Danshi,Movie,Other,1,None,5.88,17,11018,8259,1252,3,None,None,[]
+36750,MTV Ident: Horny,Special,Original,1,R+ - Mild Nudity,4.77,88,9768,12435,167,0,None,None,[]
+36752,Robotic Girl,Music,Music,1,G - All Ages,5.99,67,7684,12808,148,0,None,None,[]
+36753,Kakushin,ONA,Original,1,PG - Children,5.56,94,8678,10746,349,1,None,None,[]
+36754,Kakuriyo no Yadomeshi,TV,Novel,26,PG-13 - Teens 13 or older,7.57,12509,1444,1583,52374,404,Spring 2018,Gonzo,"['Demons', 'Supernatural']"
+36755,Juvenile Pornography The Animation,OVA,Manga,1,Rx - Hentai,6.47,1098,0,6660,2609,8,None,Office Takeout,['Hentai']
+36757,Happy☆Twinkle,Music,Original,1,G - All Ages,6.08,37,10902,12178,183,3,None,None,[]
+36759,Shimajirou to Tanjoubi no Ohoshi-sama,Movie,Original,1,G - All Ages,5.75,12,12632,14581,57,0,None,pH Studio,"['Adventure', 'Kids', 'Space']"
+36760,Detective Conan: The Magician of Starlight,Movie,Manga,1,G - All Ages,7.01,117,3594,8178,1296,0,None,D & D Pictures,['Space']
+36761,Osomatsu-san Short Film Series 2nd Season,Special,Manga,4,PG-13 - Teens 13 or older,6.07,58,7449,7826,1525,1,None,None,[]
+36762,Xue Se Cang Qiong,ONA,Web manga,26,R - 17+ (violence & profanity),6.69,152,4934,8544,1087,1,None,CG Year,"['Action', 'Adventure', 'Mystery', 'Horror', 'Thriller', 'Fantasy']"
+36763,Himawari,Music,Music,1,G - All Ages,5.48,44,10994,13905,94,0,None,None,[]
+36765,Scary,Music,Music,1,G - All Ages,4.36,36,12558,14282,76,0,None,pH Studio,"['Music', 'Sci-Fi']"
+36767,Joutoku,Music,Music,1,G - All Ages,3.87,38,11204,14347,71,0,None,None,[]
+36769,Purina Felix,Special,Original,0,G - All Ages,6.2,25,12412,12983,139,0,None,None,[]
+36771,"Baito-saki wa ""Aku no Soshiki""!?",ONA,Novel,10,G - All Ages,5.64,22,10253,11628,227,1,None,HeART-BIT,"['Action', 'Comedy', 'Romance']"
+36777,Utawarerumono: Tusukuru-koujo no Karei Naru Hibi,OVA,Visual novel,1,PG-13 - Teens 13 or older,6.75,613,4666,5146,5051,9,None,White Fox,"['Action', 'Drama', 'Fantasy']"
+36778,Kando≠Reduction,Music,Music,1,PG-13 - Teens 13 or older,6.04,62,7533,13445,117,0,None,None,[]
+36780,Hanabira,Music,Music,1,G - All Ages,5.48,51,8839,13881,95,0,None,None,[]
+36781,Original,Music,Music,1,G - All Ages,4.9,40,12214,13863,96,0,None,None,[]
+36782,Kakuchou Shoujo-kei Trinary: Ex.MV,Music,Original,5,PG-13 - Teens 13 or older,6.54,132,5594,9023,849,2,None,None,[]
+36783,Girls & Panzer: Dai 63-kai Senshadou Zenkoku Koukousei Taikai Soushuuhen,ONA,Original,1,PG-13 - Teens 13 or older,7.08,286,3317,6556,2727,2,None,Actas,"['Action', 'Military', 'School']"
+36784,Hataraku Onii-san!,TV,Original,12,G - All Ages,6.34,1673,6426,5307,4677,8,Winter 2018,Tomovies,"['Slice of Life', 'Comedy']"
+36789,Golden Time (Movie),Movie,Original,1,G - All Ages,6.99,439,3663,8201,1288,4,None,None,[]
+36790,Ling Yu 2nd Season,ONA,Novel,10,PG-13 - Teens 13 or older,7.0,339,3641,9044,842,1,None,Haoliners Animation League,['Fantasy']
+36791,Ling Yu: Di San Ji,ONA,Novel,12,PG-13 - Teens 13 or older,6.95,185,3811,9457,673,0,None,Haoliners Animation League,['Fantasy']
+36793,3D Kanojo: Real Girl,TV,Manga,12,PG-13 - Teens 13 or older,6.73,33564,4718,991,93768,247,Spring 2018,Hoods Entertainment,"['Romance', 'School', 'Shoujo']"
+36796,Owarimonogatari 2nd Season Recaps,Special,Light novel,2,R - 17+ (violence & profanity),7.79,1333,908,4661,6485,14,None,Shaft,"['Mystery', 'Comedy', 'Supernatural', 'Vampire']"
+36797,gdMen,TV,Original,12,PG - Children,5.96,521,7743,7301,1947,3,Winter 2018,Strawberry Meets Pictures,"['Comedy', 'Fantasy']"
+36799,Kyoto Animation Koushiki Twitter: Itsumo Arigatou,ONA,Original,1,G - All Ages,5.59,100,8617,11890,205,0,None,Kyoto Animation,['Slice of Life']
+36803,Servamp Movie: Alice in the Garden,Movie,Manga,1,None,7.31,218,2416,3851,10301,22,None,Platinum Vision,"['Action', 'Comedy', 'Supernatural', 'Drama', 'Vampire', 'Josei']"
+36806,Sentaku Jab Jab,Music,Original,1,G - All Ages,3.93,15,12587,14686,51,0,None,None,[]
+36807,Muteki no Jiichan,Music,Original,1,G - All Ages,3.47,17,11922,14786,45,0,None,None,[]
+36810,Shijin to Tsubame,Music,Original,1,G - All Ages,5.0,17,12617,14739,47,0,None,None,[]
+36816,Godzilla 2: Kessen Kidou Zoushoku Toshi,Movie,Original,1,R - 17+ (violence & profanity),7.02,6061,3555,3250,15377,28,None,Polygon Pictures,"['Action', 'Adventure', 'Sci-Fi']"
+36817,Sunohara-sou no Kanrinin-san,TV,4-koma manga,12,PG-13 - Teens 13 or older,7.07,12108,3376,1801,43803,154,Summer 2018,Silver Link.,"['Comedy', 'Slice of Life']"
+36818,Chikyuu wa Guruguru Merry-Go-Round,Movie,Original,1,G - All Ages,7.09,11,10431,14573,57,0,None,D & D Pictures,"['Kids', 'Space']"
+36819,Kaitou Yumenosuke,Music,Original,1,G - All Ages,3.84,19,11278,14613,54,0,None,None,[]
+36823,Huyao Xiao Hongniang: Beishan Yaodi,ONA,Manga,8,PG-13 - Teens 13 or older,7.65,1588,1233,5813,3750,4,None,Haoliners Animation League,"['Comedy', 'Historical', 'Supernatural', 'Romance']"
+36824,Huyao Xiao Hongniang: Nan Guo,ONA,Manga,26,PG-13 - Teens 13 or older,7.49,264,1687,6172,3189,10,None,Haoliners Animation League,"['Comedy', 'Historical', 'Supernatural', 'Romance']"
+36833,Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya,Special,Manga,1,PG-13 - Teens 13 or older,7.05,2167,3432,3921,9881,8,None,Silver Link.,"['Slice of Life', 'Parody']"
+36834,Sengoku Night Blood: Ongaku Dai Tokushuu,Special,Game,1,PG-13 - Teens 13 or older,6.14,70,7220,8773,971,0,None,Typhoon Graphics,"['Fantasy', 'Historical', 'Music', 'Romance']"
+36835,Rudolf to Ippaiattena x Godzilla x Toho Cinemas Moving Logo Eizou,Movie,Novel,1,G - All Ages,5.12,90,9438,11801,212,0,None,None,[]
+36836,Toho Cinemas x Pokemon Go,Movie,Game,2,G - All Ages,5.58,350,8644,8568,1078,0,None,None,[]
+36838,Gintama.: Shirogane no Tamashii-hen,TV,Manga,12,PG-13 - Teens 13 or older,8.81,23781,27,1512,56585,474,Winter 2018,Bandai Namco Pictures,"['Action', 'Sci-Fi', 'Comedy', 'Historical', 'Parody', 'Samurai', 'Shounen']"
+36840,25-sai no Joshikousei,TV,Web manga,12,R+ - Mild Nudity,5.57,4553,0,2942,18628,73,Winter 2018,Lilix,"['Hentai', 'Romance', 'Ecchi', 'School']"
+36841,Sousha wa Tada Senaka to Teikin de Kataru Nomi,Music,Original,1,G - All Ages,5.6,150,8609,11059,296,0,None,None,[]
+36842,"Fukuraicho, Tunnel Roji no Otoko",Movie,Original,1,None,0.0,0,0,0,0,0,None,None,[]
+36843,Youtai Nuhai Zai Shanghai 2: Xianglian Mima,Movie,Manga,1,G - All Ages,7.0,8,13372,14408,68,0,None,None,[]
+36846,Fruits 5 Shimai,Music,Original,1,G - All Ages,4.39,23,10668,14574,56,0,None,Shirogumi,"['Music', 'Kids']"
+36847,Nanatsu no Bitoku,TV,Other,10,R+ - Mild Nudity,5.24,6677,9261,2431,26490,58,Winter 2018,Bridge,"['Ecchi', 'Fantasy']"
+36848,Aishen Qiaokeli-ing... 2nd Season,ONA,Web manga,15,PG-13 - Teens 13 or older,7.47,3245,1743,3830,10443,40,None,G.CMay Animation & Film,"['Harem', 'Comedy', 'Romance', 'School']"
+36849,Nariyuki→Papakatsu Girls!! The Animation,OVA,Visual novel,0,Rx - Hentai,6.98,721,0,6733,2521,9,None,T-Rex,['Hentai']
+36851,Bousai Keihatsu Douga,ONA,Original,2,G - All Ages,3.83,18,10322,14477,63,0,None,None,[]
+36853,Ringo no Ki no Shita de,ONA,Original,1,PG-13 - Teens 13 or older,0.0,0,0,0,0,0,None,None,[]
+36855,Chuunibyou demo Koi ga Shitai! Movie: Take On Me Mini-Drama - Koukai Chokuzen no... Kaiko Gekijou,ONA,Unknown,24,G - All Ages,6.81,660,4339,4977,5544,5,None,Kyoto Animation,['Comedy']
+36856,Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (ONA),ONA,Other,8,PG - Children,5.88,8,13054,13245,127,3,None,OLM,"['Sci-Fi', 'Adventure', 'Police', 'Mecha']"
+36857,Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu Movie,Movie,Other,1,PG - Children,6.9,10,13056,11190,280,1,None,OLM,"['Sci-Fi', 'Adventure', 'Police', 'Mecha']"
+36858,Usuzumizakura: Garo,Movie,Original,1,PG-13 - Teens 13 or older,5.93,15,13186,6381,2951,3,None,Studio VOLN,"['Action', 'Demons', 'Fantasy', 'Magic', 'Supernatural']"
+36861,Itazura Majo to Nemuranai Machi,ONA,Original,1,G - All Ages,6.11,945,7308,6829,2406,3,None,SANZIGEN,"['Action', 'Police', 'Magic', 'Fantasy']"
+36862,Made in Abyss 2nd Season,TV,Web manga,0,R - 17+ (violence & profanity),0.0,0,0,1045,88021,233,None,None,[]
+36864,Akkun to Kanojo,TV,Manga,25,PG-13 - Teens 13 or older,6.88,13679,4054,1792,44073,63,Spring 2018,Yumeta Company,"['Comedy', 'Josei', 'Romance', 'School']"
+36865,Tokyo Girls Collection 2016 A/W x Osomatsu-san Special Movie,Special,Manga,1,PG-13 - Teens 13 or older,5.62,55,8571,10332,431,0,None,None,[]
+36866,LayereD Stories Zero,ONA,Game,0,PG - Children,6.0,19,11608,11231,271,0,None,None,[]
+36868,Toho Cinemas & I Love Snoopy: The Peanuts Movie Collab Logo Eizou,Movie,Other,1,G - All Ages,5.78,56,8216,13371,120,0,None,None,[]
+36871,Ultraman,ONA,Manga,13,PG-13 - Teens 13 or older,0.0,0,0,6820,2421,5,None,Production I.G,"['Action', 'Super Power']"
+36873,Back Street Girls: Gokudolls,TV,Manga,10,R - 17+ (violence & profanity),6.77,9831,4524,1989,37221,71,Summer 2018,J.C.Staff,"['Comedy', 'Ecchi', 'Seinen']"
+36874,Aware! Meisaku-kun: Oronamin C,Special,Original,0,G - All Ages,2.8,10,10237,13652,105,0,None,None,[]
+36875,Akuma no Memumemu-chan,ONA,Manga,1,PG-13 - Teens 13 or older,5.75,799,8267,7547,1741,2,None,Shaft,"['Comedy', 'Demons', 'Ecchi', 'Shounen']"
+36876,Furifure 2,OVA,Visual novel,0,Rx - Hentai,6.52,456,0,7435,1836,7,None,None,[]
+36881,Dennou Senshi Dokan-kun,TV,Unknown,11,PG-13 - Teens 13 or older,6.43,7,10539,14590,55,0,Winter 2007,DLE,['Comedy']
+36882,Arifureta Shokugyou de Sekai Saikyou,TV,Light novel,0,PG-13 - Teens 13 or older,0.0,0,0,3329,14665,108,None,Asread,"['Action', 'Adventure', 'Fantasy']"
+36883,Wares: Beyond,ONA,Novel,1,PG-13 - Teens 13 or older,4.42,36,13228,12681,154,0,None,None,[]
+36884,Hisone to Maso-tan,TV,Original,12,PG-13 - Teens 13 or older,7.54,12153,1540,1993,37213,135,Spring 2018,Bones,"['Comedy', 'Drama', 'Fantasy', 'Military']"
+36885,Saenai Heroine no Sodatekata Movie,Movie,Light novel,1,None,0.0,0,0,2634,23019,63,None,CloverWorks,"['Comedy', 'Ecchi', 'Harem', 'Romance', 'School']"
+36888,Chikatetsu ni Noru,Special,Novel,1,PG - Children,5.44,39,10425,12627,157,0,None,None,[]
+36889,Oyasumi Sex,OVA,Light novel,2,Rx - Hentai,6.74,183,0,8021,1392,8,None,None,[]
+36890,dMatsu-san,ONA,Manga,12,PG-13 - Teens 13 or older,5.82,34,10548,7909,1458,2,None,None,[]
+36894,Inazma Delivery: Dougyousha Attack-hen,TV,Original,10,PG-13 - Teens 13 or older,5.61,33,11132,10922,319,1,Winter 2018,Kanaban Graphics,"['Action', 'Sci-Fi', 'Comedy']"
+36895,"Nee, ...Shiyo♥",OVA,Manga,2,Rx - Hentai,6.57,1129,0,6480,2828,12,None,None,[]
+36896,Boku no Hero Academia the Movie: Futari no Hero,Movie,Manga,1,PG-13 - Teens 13 or older,8.32,9935,213,943,100191,368,None,Bones,"['Action', 'Comedy', 'School', 'Shounen', 'Super Power']"
+36902,Mahou Shoujo Ore,TV,Web manga,12,PG-13 - Teens 13 or older,6.73,12453,4740,1612,50785,88,Spring 2018,Pierrot Plus,"['Comedy', 'Fantasy', 'Magic']"
+36903,Kengan Ashura,ONA,Web manga,0,R - 17+ (violence & profanity),0.0,0,0,7351,1902,1,None,Larx Entertainment,"['Action', 'Martial Arts']"
+36904,Aggressive Retsuko (ONA),ONA,Original,10,PG-13 - Teens 13 or older,7.85,22040,794,2028,36504,232,None,Fanworks,"['Slice of Life', 'Comedy']"
+36905,Mentori,ONA,Other,10,G - All Ages,5.11,9,11786,13783,100,0,None,None,[]
+36906,Jashin-chan Dropkick,TV,Web manga,11,PG-13 - Teens 13 or older,6.89,10593,4028,1945,38651,81,Summer 2018,Nomad,"['Comedy', 'Supernatural']"
+36907,Nippen no Miko-chan,Special,Other,3,G - All Ages,4.33,24,12057,11755,215,1,None,None,[]
+36910,Wu Geng Ji 2nd Season,ONA,Manga,42,PG-13 - Teens 13 or older,7.5,132,1672,9441,682,2,None,Sparkly Key Animation Studio,"['Action', 'Historical', 'Supernatural', 'Martial Arts', 'Fantasy']"
+36913,Inazuma Eleven x Kaitou Gru no Tsuki Dorobou,Special,Original,4,G - All Ages,5.84,214,8056,9339,720,2,None,OLM,['Comedy']
+36914,Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen,Special,Game,1,PG-13 - Teens 13 or older,6.47,2256,5874,4264,8092,7,None,ufotable,"['Comedy', 'School']"
+36915,Fate/Grand Order: Moonlight/Lostroom,Special,Game,1,PG-13 - Teens 13 or older,6.26,6706,6751,3110,16606,11,None,Lay-duce,"['Action', 'Supernatural', 'Magic', 'Fantasy']"
+36918,Happy Happy Party!,Music,Manga,1,G - All Ages,6.12,338,7267,9187,783,0,None,None,[]
+36919,Shuwarin☆Dorimin,Music,Manga,1,G - All Ages,6.08,348,7421,9169,793,0,None,None,[]
+36920,Black Shout,Music,Manga,1,G - All Ages,6.84,466,4201,8705,1003,1,None,None,[]
+36921,That Is How I Roll!,Music,Manga,1,G - All Ages,6.34,288,6448,9759,571,0,None,None,[]
+36923,Nanatsu no Taizai: Imashime no Fukkatsu Joshou,Special,Manga,1,PG-13 - Teens 13 or older,7.36,10408,2223,2141,33084,102,None,A-1 Pictures,"['Action', 'Comedy', 'Magic', 'Shounen', 'Super Power']"
+36927,Pokemon Movie 21: Minna no Monogatari,Movie,Game,1,PG - Children,7.1,407,3266,4804,6093,28,None,OLM,"['Action', 'Kids', 'Adventure', 'Fantasy', 'Game', 'Comedy']"
+36933,Ura Jutaijima,OVA,Visual novel,0,Rx - Hentai,7.1,813,0,6565,2718,6,None,T-Rex,['Hentai']
+36934,Captain Tsubasa (2018),TV,Manga,52,G - All Ages,7.53,8559,1562,2033,36154,141,Spring 2018,David Production,"['Action', 'Sports', 'Shounen']"
+36936,Mirai no Mirai,Movie,Original,1,G - All Ages,7.57,2470,1450,2856,19972,31,None,Studio Chizu,"['Adventure', 'Drama', 'Fantasy']"
+36942,Cinderella Girls Gekijou 2nd Season Specials,Special,4-koma manga,3,PG-13 - Teens 13 or older,6.19,128,7016,8734,993,0,None,Gathering,"['Slice of Life', 'Comedy']"
+36943,Tachibanakan Triangle,TV,Manga,12,R+ - Mild Nudity,5.58,11123,8643,2100,34069,41,Spring 2018,Creators in Pack,"['Comedy', 'Ecchi', 'Shoujo Ai']"
+36945,Himote House,TV,Original,12,PG-13 - Teens 13 or older,4.65,1323,9845,4009,9433,8,Fall 2018,Bouncy,['Comedy']
+36946,Dragon Ball Super Movie: Broly,Movie,Manga,1,PG-13 - Teens 13 or older,0.0,0,0,2069,34983,252,None,Toei Animation,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Martial Arts', 'Shounen', 'Super Power']"
+36947,Pochitto Hatsumei: Pikachin-Kit,ONA,Original,1,G - All Ages,4.4,15,12355,13865,96,0,None,None,[]
+36949,Shokugeki no Souma: San no Sara - Toutsuki Ressha-hen,TV,Manga,12,PG-13 - Teens 13 or older,8.37,96897,187,402,208805,942,Spring 2018,J.C.Staff,"['Ecchi', 'School', 'Shounen']"
+36950,Yuragi-sou no Yuuna-san OVA,OVA,Manga,3,R+ - Mild Nudity,7.23,4076,2739,3093,16850,22,None,Xebec,"['Harem', 'Comedy', 'Supernatural', 'Romance', 'Ecchi', 'Shounen']"
+36951,Yuu☆Yuu☆Hakusho Specials,Special,Manga,2,PG-13 - Teens 13 or older,7.59,1352,1414,3869,10251,16,None,Studio Pierrot,"['Action', 'Adventure', 'Comedy', 'Demons', 'Martial Arts', 'Shounen', 'Supernatural']"
+36954,Break Go!Ga!,ONA,Other,1,G - All Ages,4.48,33,10326,13311,122,0,None,None,[]
+36955,Tales of the Rays Gekijou,ONA,Game,8,PG-13 - Teens 13 or older,6.21,48,12925,8941,889,0,None,Bandai Namco Pictures,"['Comedy', 'Fantasy', 'Parody']"
+36956,Jewelry The Animation,OVA,Manga,1,Rx - Hentai,6.42,851,0,7209,2025,3,None,BOOTLEG,"['Hentai', 'Romance']"
+36962,Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina,OVA,Manga,1,PG-13 - Teens 13 or older,7.59,7854,1406,2192,31886,31,None,J.C.Staff,"['Drama', 'Shounen']"
+36964,Bonobono: Uchuu kara Kita Tomodachi,Movie,4-koma manga,1,G - All Ages,5.0,15,10316,12990,139,0,None,Eiken,"['Adventure', 'Comedy', 'Kids']"
+36967,Lupin wa Ima mo Moete Iru ka?,OVA,Manga,1,PG-13 - Teens 13 or older,7.0,18,11654,8782,969,0,None,TMS Entertainment,"['Action', 'Adventure', 'Comedy', 'Seinen']"
+36968,Panda no Blues,Music,Original,1,G - All Ages,4.5,10,12272,14841,42,0,None,None,[]
+36969,Oshiri Tantei: Mina to Machi no Tuk-tuk Chase,ONA,Picture book,1,PG - Children,4.24,33,12225,13719,103,0,None,Toei Animation,"['Comedy', 'Kids', 'Mystery']"
+36970,Hetchara Heiki no Heihachirou,Music,Original,1,G - All Ages,4.75,8,10976,14888,37,0,None,None,[]
+36973,Ekimemo!,ONA,Game,3,G - All Ages,4.89,27,10626,12511,162,0,None,None,[]
+36974,Ousama Game The Animation 2,TV,Novel,0,R - 17+ (violence & profanity),0.0,0,0,0,0,9,None,Seven,"['Drama', 'Horror', 'Mystery', 'School', 'Supernatural']"
+36976,Cutie Honey Universe,TV,Manga,12,R - 17+ (violence & profanity),5.51,2316,8779,3565,12449,9,Spring 2018,Production Reed,"['Action', 'Comedy', 'Magic', 'Romance', 'Sci-Fi', 'Shounen']"
+36978,Annyeong Totobi,TV,Unknown,104,PG - Children,3.43,14,10173,14205,78,0,Summer 2011,None,[]
+36981,Neko no Dayan (2017),TV,Picture book,30,G - All Ages,6.38,8,11996,14152,82,0,Fall 2017,None,[]
+36982,Micchiri Neko,TV,Web manga,39,G - All Ages,6.82,1520,4309,5277,4761,11,Winter 2018,helo.inc,"['Comedy', 'Kids']"
+36990,Non Non Biyori Movie: Vacation,Movie,Manga,1,PG-13 - Teens 13 or older,7.66,161,1211,3122,16471,22,None,Silver Link.,"['Comedy', 'Slice of Life', 'Seinen']"
+36992,Tomie,Special,Manga,2,R - 17+ (violence & profanity),5.99,1807,7690,4049,9160,9,None,None,[]
+36993,Chao Zhi Neng Zu Qiu,TV,Original,52,G - All Ages,7.05,38,10379,12018,193,0,Winter 2010,None,[]
+36995,Precure Super Stars! Movie,Movie,Original,1,G - All Ages,6.77,82,4558,8757,981,4,None,None,[]
+36999,Zoku Owarimonogatari,Movie,Light novel,1,R - 17+ (violence & profanity),8.35,215,203,1717,46646,157,None,Shaft,"['Comedy', 'Mystery', 'Supernatural', 'Vampire']"
+37000,Bernard-jou Iwaku.: Ofuro Dokusho,Special,Manga,1,PG-13 - Teens 13 or older,5.75,118,8270,10432,414,0,None,Creators in Pack,['Comedy']

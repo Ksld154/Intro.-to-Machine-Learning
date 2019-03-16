@@ -1,0 +1,64 @@
+animeID,name,type,source,episodes,rating,score,scoredBy,rank,popularity,members,favorites,premiered,studio,genre
+23001,Manga Jinbutsushi,TV,Unknown,365,G - All Ages,6.54,28,11722,12652,155,0,Summer 1970,None,[]
+23003,Tanoshii Bunmeishi: Tetsu Monogatari,Movie,Original,1,G - All Ages,5.5,10,12941,12783,149,0,None,Toei Animation,"['Historical', 'Slice of Life']"
+23005,Mogura no Motoro,Movie,Unknown,1,G - All Ages,8.0,10,11866,13127,132,0,None,Toei Animation,['Slice of Life']
+23007,Ookami Shounen Ken (Movie),Movie,Unknown,1,G - All Ages,5.2,15,12200,12871,147,0,None,Toei Animation,"['Adventure', 'Kids']"
+23009,Ookami Shounen Ken: Arabia no Kaijin - Ma no Iwa no Kettou,Movie,Unknown,1,G - All Ages,5.19,16,12201,12698,154,0,None,Toei Animation,"['Adventure', 'Kids']"
+23011,Otoko Doahou! Koushien,TV,Unknown,156,G - All Ages,7.05,19,12237,12093,188,0,Fall 1970,None,[]
+23013,Norakuro,TV,Manga,26,G - All Ages,5.52,23,12079,11969,198,0,Fall 1970,Eiken,['Comedy']
+23015,Hazedon,TV,Unknown,26,PG - Children,5.85,13,10926,13232,126,0,Fall 1972,Sunrise,"['Kids', 'Adventure', 'Comedy']"
+23023,Peaceful Times (F02) Petit Film,Music,Unknown,1,G - All Ages,4.92,1167,9639,6674,2587,1,None,Khara,['Music']
+23029,Popful Mail,Music,Game,1,PG-13 - Teens 13 or older,5.82,137,8118,11374,253,0,None,Studio Fantasia,"['Comedy', 'Fantasy', 'Music']"
+23037,Bakumatsu Rock,TV,Game,12,PG-13 - Teens 13 or older,6.13,7326,7228,2678,22378,44,Summer 2014,Studio Deen,"['Action', 'Music', 'Comedy', 'Historical', 'Shoujo']"
+23043,Re Boot,Music,Unknown,1,G - All Ages,7.13,1362,3144,6809,2430,5,None,None,[]
+23057,Yukidoke,Movie,Original,1,PG-13 - Teens 13 or older,4.08,1013,10001,7460,1815,3,None,None,[]
+23059,Shinsatsushitsu,Movie,Original,1,PG-13 - Teens 13 or older,4.39,462,9942,8862,926,0,None,None,[]
+23079,Glasslip,TV,Original,13,PG-13 - Teens 13 or older,5.53,56493,8737,780,120481,193,Summer 2014,P.A. Works,"['Romance', 'Slice of Life', 'Supernatural']"
+23121,Jinsei,TV,Light novel,13,PG-13 - Teens 13 or older,6.55,17848,5544,1605,51022,59,Summer 2014,feel.,"['Comedy', 'School', 'Slice of Life']"
+23133,M3: Sono Kuroki Hagane,TV,Original,24,R - 17+ (violence & profanity),6.68,13777,4965,1721,46389,78,Spring 2014,Satelight,"['Action', 'Sci-Fi', 'Mystery', 'Psychological', 'Drama', 'Mecha']"
+23135,PriPara,TV,Game,140,PG - Children,7.62,1832,1317,3615,12015,240,Summer 2014,Tatsunoko Production,"['Music', 'Slice of Life', 'School', 'Shoujo']"
+23137,Girls & Panzer Heartful Tank Disc Picture Drama,Special,Original,4,PG-13 - Teens 13 or older,6.69,760,4903,5891,3616,2,None,Actas,"['Military', 'School']"
+23189,Dekobou Shingachou: Meian no Shippai,Movie,Original,1,G - All Ages,6.29,70,6625,11101,289,1,None,None,[]
+23209,Sora no Method,TV,Original,13,PG-13 - Teens 13 or older,6.79,21798,4462,1337,66967,200,Fall 2014,Studio 3Hz,"['Slice of Life', 'Drama', 'Fantasy', 'School']"
+23225,Yuru Yuri Nachuyachumi!,OVA,Manga,1,PG-13 - Teens 13 or older,7.94,24243,639,1780,44521,125,None,TYO Animations,"['Comedy', 'Shoujo Ai', 'Slice of Life']"
+23233,Shinmai Maou no Testament,TV,Light novel,12,R+ - Mild Nudity,7.05,161081,3448,243,303102,1126,Winter 2015,Production IMS,"['Action', 'Ecchi', 'Fantasy', 'Romance', 'Harem', 'Demons']"
+23237,Chuunibyou demo Koi ga Shitai! Ren Specials,Special,Light novel,7,PG-13 - Teens 13 or older,7.16,15098,2993,2160,32545,18,None,Kyoto Animation,['Comedy']
+23245,Go Go Toraemon,OVA,Manga,1,None,5.5,16,10793,13404,118,0,None,Studio Pierrot,"['Comedy', 'Sports']"
+23247,Oshaburi Announcer,OVA,Visual novel,1,Rx - Hentai,6.84,1305,0,6161,3200,7,None,None,[]
+23259,Gundam: G no Reconguista,TV,Original,26,PG-13 - Teens 13 or older,5.79,7023,8175,2795,20689,38,Fall 2014,Sunrise,"['Action', 'Sci-Fi', 'Space', 'Mecha']"
+23269,Hello!! Kiniro Mosaic,TV,4-koma manga,12,PG-13 - Teens 13 or older,7.59,23002,1392,1649,49514,211,Spring 2015,Studio Gokumi,"['Slice of Life', 'Comedy', 'School', 'Seinen']"
+23273,Shigatsu wa Kimi no Uso,TV,Manga,22,PG-13 - Teens 13 or older,8.87,460629,20,33,799212,43943,Fall 2014,A-1 Pictures,"['Drama', 'Music', 'Romance', 'School', 'Shounen']"
+23277,Saenai Heroine no Sodatekata,TV,Light novel,12,PG-13 - Teens 13 or older,7.64,138952,1265,265,287852,2207,Winter 2015,A-1 Pictures,"['Harem', 'Comedy', 'Romance', 'Ecchi', 'School']"
+23281,Psycho-Pass 2,TV,Original,11,R - 17+ (violence & profanity),7.53,186126,1581,185,348996,1106,Fall 2014,Tatsunoko Production,"['Action', 'Sci-Fi', 'Police', 'Psychological']"
+23283,Zankyou no Terror,TV,Original,11,R - 17+ (violence & profanity),8.19,305680,333,79,554473,12888,Summer 2014,MAPPA,"['Mystery', 'Psychological', 'Thriller']"
+23289,Gekkan Shoujo Nozaki-kun,TV,4-koma manga,12,PG-13 - Teens 13 or older,8.13,246501,396,110,452256,7783,Summer 2014,Doga Kobo,"['Comedy', 'Romance', 'School']"
+23301,Pokemon XY: Mega Evolution,Special,Game,4,PG - Children,7.58,8747,1432,3200,15738,20,None,OLM,"['Action', 'Adventure', 'Comedy', 'Kids', 'Fantasy']"
+23303,Hiroshima e no Tabi,OVA,Unknown,1,G - All Ages,5.76,49,11020,12076,189,0,None,Toei Animation,"['Drama', 'Historical', 'Slice of Life']"
+23309,Rail Wars!,TV,Light novel,12,R+ - Mild Nudity,6.46,54089,5925,788,119289,187,Summer 2014,Passione,"['Action', 'Harem', 'Police', 'Ecchi']"
+23321,Log Horizon 2nd Season,TV,Novel,25,PG-13 - Teens 13 or older,7.67,182302,1186,200,335438,1204,Fall 2014,Studio Deen,"['Action', 'Adventure', 'Fantasy', 'Game', 'Magic']"
+23333,DRAMAtical Murder,TV,Visual novel,12,PG-13 - Teens 13 or older,6.26,42271,6750,901,106213,587,Summer 2014,NAZ,"['Action', 'Sci-Fi', 'Super Power', 'Psychological']"
+23343,Futari no Oujisama,Movie,Unknown,1,G - All Ages,5.46,24,10696,12690,153,0,None,Toei Animation,"['Fantasy', 'Slice of Life']"
+23345,Yukiguni no Oujisama,Movie,Unknown,1,G - All Ages,6.0,19,13387,13098,134,0,None,Toei Animation,['Slice of Life']
+23369,Bakuman. 2nd Season Special,Special,Unknown,1,PG-13 - Teens 13 or older,6.86,4030,4130,3898,10044,10,None,J.C.Staff,['Comedy']
+23375,Minarai Diva,TV,Original,10,G - All Ages,5.5,128,8805,8292,1238,5,Summer 2014,Yaoyorozu,['Music']
+23383,D-Frag!*,OVA,Manga,1,PG-13 - Teens 13 or older,7.44,23936,1858,1864,41438,24,None,Brain's Base,"['Comedy', 'Game', 'Seinen']"
+23483,Decorator,Music,Unknown,1,G - All Ages,6.11,847,7298,8080,1358,1,None,None,[]
+23537,Two Down Full Base,Special,Novel,1,PG - Children,6.2,15,13127,13290,124,0,None,Group TAC,"['Sports', 'Kids']"
+23539,Gudetama,TV,Original,0,G - All Ages,7.32,1093,2358,4860,5864,42,Spring 2014,Gathering,"['Comedy', 'Kids']"
+23555,Neko no Dayan,TV,Novel,52,G - All Ages,5.56,32,11995,10502,393,1,Spring 2014,Kachidoki Studio,"['Kids', 'Magic']"
+23579,12-sai.,OVA,Manga,8,PG - Children,6.43,2215,6023,4167,8547,24,None,SynergySP,"['Romance', 'School', 'Shoujo']"
+23587,The iDOLM@STER Cinderella Girls,TV,Game,13,PG-13 - Teens 13 or older,7.21,19474,2822,1637,49998,427,Winter 2015,A-1 Pictures,"['Comedy', 'Drama', 'Music']"
+23623,Non Non Biyori Repeat,TV,Manga,12,PG-13 - Teens 13 or older,8.22,49386,299,931,101118,905,Summer 2015,Silver Link.,"['Comedy', 'School', 'Seinen', 'Slice of Life']"
+23647,Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki,Movie,Unknown,1,G - All Ages,6.23,55,6878,11813,212,0,None,Shin-Ei Animation,"['Comedy', 'Kids', 'Martial Arts', 'Slice of Life']"
+23711,Kakumei no Wakaki Sora,OVA,Unknown,1,G - All Ages,6.57,178,5462,9981,510,0,None,None,[]
+23725,Strike Witches: Operation Victory Arrow,OVA,Original,3,R+ - Mild Nudity,7.44,6229,1884,3175,15960,31,None,Silver Link.,"['Action', 'Ecchi', 'Magic', 'Military', 'Sci-Fi']"
+23755,Nanatsu no Taizai,TV,Manga,24,PG-13 - Teens 13 or older,8.26,445258,277,45,723934,14535,Fall 2014,A-1 Pictures,"['Action', 'Adventure', 'Ecchi', 'Fantasy', 'Magic', 'Shounen', 'Supernatural']"
+23801,Doctor Mambo & Kaitou Jibako: Uchuu yori Ai wo Komete!!,Special,Unknown,1,G - All Ages,5.33,9,10551,13604,108,0,None,Toei Animation,"['Adventure', 'Fantasy', 'Kids', 'Mystery', 'Sci-Fi']"
+23815,Gokuu no Daibouken Pilot,Special,Unknown,1,G - All Ages,5.52,21,10811,12336,174,0,None,None,[]
+23825,Ys IV: The Dawn of Ys,Special,Game,1,PG-13 - Teens 13 or older,5.99,134,7692,10308,435,0,None,None,[]
+23835,Moonrakers,ONA,Manga,1,R - 17+ (violence & profanity),5.64,683,8530,8217,1273,1,None,Studio Pierrot,"['Drama', 'Sci-Fi', 'Space']"
+23847,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku,TV,Light novel,13,PG-13 - Teens 13 or older,8.28,243405,266,149,392991,10477,Spring 2015,feel.,"['Slice of Life', 'Comedy', 'Drama', 'Romance', 'School']"
+23933,Kyutai Panic Adventure!,Special,Unknown,1,G - All Ages,4.86,476,9688,8273,1245,0,None,None,[]
+23945,Majimoji Rurumo,TV,Manga,12,PG-13 - Teens 13 or older,6.9,21987,3987,1644,49828,56,Summer 2014,J.C.Staff,"['Comedy', 'Magic', 'Ecchi', 'Fantasy', 'School', 'Shounen']"
+23983,Fuichin-san,OVA,Unknown,1,G - All Ages,6.13,8,10670,13879,95,0,None,None,[]
+23985,Futari Ecchi (2014),OVA,Manga,3,R+ - Mild Nudity,6.33,2112,6470,4986,5515,2,None,Production Reed,"['Comedy', 'Ecchi', 'Romance', 'Seinen', 'Slice of Life']"

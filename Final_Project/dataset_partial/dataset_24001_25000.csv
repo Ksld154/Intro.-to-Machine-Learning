@@ -1,0 +1,42 @@
+animeID,name,type,source,episodes,rating,score,scoredBy,rank,popularity,members,favorites,premiered,studio,genre
+24011,Lance N' Masques,TV,Light novel,12,PG-13 - Teens 13 or older,5.63,14183,8547,1917,39307,30,Fall 2015,Studio Gokumi,['Fantasy']
+24031,Denki-gai no Honya-san,TV,Manga,12,PG-13 - Teens 13 or older,7.26,36300,2588,1063,86066,225,Fall 2014,Shin-Ei Animation,"['Comedy', 'Seinen', 'Slice of Life']"
+24037,Selector Spread WIXOSS,TV,Card game,12,R - 17+ (violence & profanity),7.47,29123,1766,1487,57872,214,Fall 2014,J.C.Staff,"['Game', 'Psychological']"
+24049,Kanai,ONA,Unknown,1,G - All Ages,5.24,53,9257,12036,192,0,None,None,[]
+24053,Gunners,ONA,Unknown,1,PG-13 - Teens 13 or older,4.4,48,10843,12767,150,0,None,None,[]
+24133,Taimadou Gakuen 35 Shiken Shoutai,TV,Light novel,12,R - 17+ (violence & profanity),7.04,80164,3500,543,164681,344,Fall 2015,Silver Link.,"['Action', 'Ecchi', 'Fantasy', 'Harem', 'Military', 'Romance', 'Supernatural']"
+24135,Nobunaga Concerto,TV,Manga,10,PG-13 - Teens 13 or older,7.72,14715,1074,2024,36473,228,Summer 2014,Fuji TV,"['Comedy', 'Historical', 'Romance', 'Shounen']"
+24151,Ao Haru Ride OVA,OVA,Manga,2,PG-13 - Teens 13 or older,7.71,38694,1078,1285,69667,144,None,Production I.G,"['Slice of Life', 'Romance', 'School', 'Shoujo']"
+24231,Hitsugi no Chaika: Avenging Battle,TV,Light novel,10,R - 17+ (violence & profanity),7.29,73085,2484,706,131356,157,Fall 2014,Bones,"['Action', 'Adventure', 'Comedy', 'Romance', 'Fantasy']"
+24275,Medamayaki no Kimi Itsu Tsubusu?,Special,Manga,4,G - All Ages,5.88,174,7963,9019,850,0,None,Fanworks,"['Comedy', 'Seinen']"
+24277,Yowamushi Pedal: Grande Road,TV,Manga,24,PG-13 - Teens 13 or older,8.22,43408,302,1170,77236,429,Fall 2014,TMS Entertainment,"['Comedy', 'Drama', 'Shounen', 'Sports']"
+24405,World Trigger,TV,Manga,73,PG-13 - Teens 13 or older,7.66,48588,1221,553,162936,1116,Fall 2014,Toei Animation,"['Action', 'Sci-Fi', 'Supernatural', 'School', 'Shounen']"
+24415,Kuroko no Basket 3rd Season,TV,Manga,25,PG-13 - Teens 13 or older,8.52,190200,95,227,314886,3517,Winter 2015,Production I.G,"['Comedy', 'Sports', 'School', 'Shounen']"
+24439,Kekkai Sensen,TV,Manga,12,R - 17+ (violence & profanity),7.73,184071,1045,139,408483,4226,Spring 2015,Bones,"['Action', 'Comedy', 'Super Power', 'Supernatural', 'Vampire', 'Fantasy', 'Shounen']"
+24455,Madan no Ou to Vanadis,TV,Light novel,13,R - 17+ (violence & profanity),7.3,96864,2454,474,187917,708,Fall 2014,Satelight,"['Adventure', 'Ecchi', 'Fantasy', 'Harem', 'Romance']"
+24471,Hoozuki no Reitetsu OVA,OVA,Manga,4,PG-13 - Teens 13 or older,7.95,4422,623,3771,10838,15,None,Studio Deen,"['Comedy', 'Demons', 'Supernatural', 'Fantasy', 'Seinen']"
+24527,Yomigaeru Sora Pilot,Special,Original,1,PG - Children,6.25,184,6816,9897,536,0,None,J.C.Staff,"['Action', 'Military', 'Seinen']"
+24543,Persona 3 the Movie 3: Falling Down,Movie,Game,1,R - 17+ (violence & profanity),7.69,14967,1133,2044,35801,120,None,A-1 Pictures,"['Action', 'Supernatural', 'Fantasy']"
+24549,Naniwabushi Daisuki,Special,Unknown,1,PG-13 - Teens 13 or older,6.6,10,11966,13762,100,0,None,None,[]
+24577,Imokawa Mukuzo: Chuugaeri no Maki,Movie,Original,1,G - All Ages,6.04,28,11129,12289,176,0,None,None,[]
+24629,Koufuku Graffiti,TV,4-koma manga,12,PG-13 - Teens 13 or older,6.82,20632,4303,1469,58805,129,Winter 2015,Shaft,"['Slice of Life', 'Comedy', 'Seinen']"
+24655,Date A Live Movie: Mayuri Judgment,Movie,Light novel,1,PG-13 - Teens 13 or older,7.52,42822,1594,1046,88020,337,None,Production IMS,"['Harem', 'Romance', 'Sci-Fi']"
+24701,Mushishi Zoku Shou 2nd Season,TV,Manga,10,PG-13 - Teens 13 or older,8.81,53343,28,716,130196,759,Fall 2014,Artland,"['Adventure', 'Fantasy', 'Historical', 'Mystery', 'Seinen', 'Slice of Life', 'Supernatural']"
+24703,High School DxD BorN,TV,Light novel,12,R+ - Mild Nudity,7.65,212576,1232,182,351793,2938,Spring 2015,TNK,"['Action', 'Comedy', 'Demons', 'Ecchi', 'Harem', 'Romance', 'School']"
+24751,Akuma no Riddle: Shousha wa Dare? Nukiuchi Test,Special,Manga,1,R - 17+ (violence & profanity),6.63,13951,5160,2410,26895,42,None,Diomedea,"['Action', 'Ecchi', 'Comedy', 'Shoujo Ai']"
+24765,Gakkougurashi!,TV,Manga,12,R - 17+ (violence & profanity),7.68,112504,1147,341,233701,2901,Summer 2015,Lerche,"['Slice of Life', 'Psychological', 'School', 'Horror', 'Mystery']"
+24785,Awate Tokoya,Music,Music,1,G - All Ages,4.91,66,9643,12548,160,0,None,None,[]
+24803,Tobidasu Ehon 3D,Movie,Unknown,1,PG - Children,5.75,8,13037,14077,85,0,None,Kachidoki Studio,['Kids']
+24809,Arigatou Kumanofu,ONA,Unknown,11,G - All Ages,4.31,26,10207,13327,121,0,None,Kachidoki Studio,['Comedy']
+24811,Prison Bear,ONA,Unknown,1,G - All Ages,3.33,40,12399,12807,148,0,None,Kachidoki Studio,['Comedy']
+24833,Ansatsu Kyoushitsu,TV,Manga,22,PG-13 - Teens 13 or older,8.21,355550,303,57,650789,11619,Winter 2015,Lerche,"['Action', 'Comedy', 'School', 'Shounen']"
+24845,Nyanfuru,TV,Original,0,G - All Ages,5.5,26,12104,10912,319,0,Winter 2014,MMDGP,"['Comedy', 'Music']"
+24873,Juuou Mujin no Fafnir,TV,Light novel,12,PG-13 - Teens 13 or older,6.42,44136,6079,988,93921,121,Winter 2015,Diomedea,"['Fantasy', 'Harem', 'Romance', 'School']"
+24893,Sidonia no Kishi: Daikyuu Wakusei Seneki,TV,Manga,12,R - 17+ (violence & profanity),7.86,44823,791,1089,82933,318,Spring 2015,Polygon Pictures,"['Action', 'Sci-Fi', 'Space', 'Mecha', 'Seinen']"
+24975,Ghibli ga Ippai Special Short Short,Special,Other,10,G - All Ages,5.82,336,8107,8250,1258,1,None,Studio Ghibli,['Slice of Life']
+24985,Elite Jack!!,OVA,Manga,6,G - All Ages,6.53,15,10631,11544,234,2,None,None,[]
+24987,Furueru Kuchibiru Episode 0,OVA,Manga,1,Rx - Hentai,6.73,1953,0,5519,4221,8,None,None,[]
+24989,Agukaru: Play with Ibaraki-hen,ONA,Unknown,20,G - All Ages,4.84,49,10124,11140,284,0,None,None,[]
+24991,No Game No Life Specials,Special,Light novel,6,PG-13 - Teens 13 or older,6.8,49576,4409,958,98363,137,None,Madhouse,"['Ecchi', 'Fantasy', 'Game']"
+24997,Love Live! The School Idol Movie,Movie,Original,1,PG-13 - Teens 13 or older,8.09,39342,452,1266,70678,1020,None,Sunrise,"['Music', 'School', 'Slice of Life']"
+24999,Akai Jitensha,Music,Original,1,G - All Ages,5.17,55,9361,12647,155,0,None,None,[]

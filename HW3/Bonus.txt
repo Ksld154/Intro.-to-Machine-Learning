@@ -1,0 +1,11 @@
+degree 3
+alpha = 0.001  iteration = 100000 r2 = 0.86
+alpha = 0.001  iteration = 100000 r2 = 0.8434
+alpha = 0.001  iteration = 200000 r2 = 0.8076
+alpha = 0.0005 iteration = 300000 r2 = 0.8301
+alpha = 0.005  iteration = 100000 r2 = 0.8046
+
+alpha = 0.01   iteration = 100000 r2 = x
+alpha = 0.001  iteration = 100000 r2 = 0.8363
+alpha = 0.005  iteration = 100000 r2 = 0.8592
+alpha = 0.007  iteration = 120000 r2 = 0.8711
